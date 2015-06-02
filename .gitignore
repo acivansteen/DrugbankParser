@@ -61,8 +61,5 @@ $RECYCLE.BIN/
 *.bridge
 .settings/org.eclipse.jdt.core.prefs
 .project
-src/msk/drugbank4/DrugBankParser.java
-src/msk/drugbank4/DrugbankTargetParser.java
-src/msk/drugbank4/TargetModel.java
-src/msk/drugbank4/DrugModel.java
+
 drugbank-example.xml
