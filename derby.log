@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-2015-06-02 10:22:33.937 GMT:
- Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.2.0 - (689064): instance a816c00e-014d-b3cb-4328-00000c19c2d0
-on database directory jar:(C:\Users\Bram\workspace\DrugbankParser\Hs_Derby_20130701.bridge)database in READ ONLY mode 
+2015-06-25 10:34:38.932 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.2.0 - (689064): instance a816c00e-014e-2a48-9280-00000c457780
+on database directory jar:(C:\Users\Bram\workspace\DrugbankParser\Hs_Derby_Ensembl_77.bridge)database in READ ONLY mode 
 
 Database Class Loader started - derby.database.classpath=''

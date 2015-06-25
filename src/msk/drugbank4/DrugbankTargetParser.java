@@ -5,8 +5,6 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.HashMap;
-import java.util.HashSet;
-import java.util.LinkedHashSet;
 import java.util.Map;
 import java.util.Set;
 
@@ -33,10 +31,11 @@ public class DrugbankTargetParser {
 		PrintWriter writerN = new PrintWriter(new FileOutputStream(nodeOut),true);
 		
 		//i chose map here, not sure what is most convenient, hashmap/hashset
-		Map<String, HashSet<String>> nodes = new HashMap<String,HashSet<String>>();
-
+		//nodes = targets
+		Map<String, String> nodes = new HashMap<String,String>();
+		
 		//setting up BridgeDB
-		File bridgedb = new File("Hs_Derby_20130701.bridge");
+		File bridgedb = new File("Hs_Derby_Ensembl_77.bridge");
 		DataSourceTxt.init();
 		Class.forName("org.bridgedb.rdb.IDMapperRdb");
 		IDMapper mapper = BridgeDb.connect("idmapper-pgdb:"
@@ -51,11 +50,10 @@ public class DrugbankTargetParser {
 					//mapping drugs by DrugbankID
 					String drugId = drug.getDrugbankID(); 
 					String drugname = drug.getName();
-					LinkedHashSet<String> drugProperties = new LinkedHashSet<String>();
-					drugProperties.add(drugname);
-					drugProperties.add(drug.getCategories().toString());
-					System.out.println(drug.getCategories().toString());
-					nodes.put(drugId, drugProperties);
+					String drugProperties = new String();
+					drugProperties= drug.getCategories().toString().replace("[", "").replace("]", "");
+			
+					writerN.println(drugId+"\t"+drugname+"\t"+drugProperties);
 					for(TargetModel target:drug.getTargets()){
 						DataSource ds = DataSource.getExistingBySystemCode("S");
 						Xref xref= new Xref(target.getUniprotId(),ds);
@@ -64,9 +62,9 @@ public class DrugbankTargetParser {
 						Set<Xref> result = mapper.mapID(xref, DataSource.getExistingBySystemCode("En"));
 						for(Xref x:result){
 							Set<Xref> hgncResult = mapper.mapID(x, DataSource.getExistingBySystemCode("H"));
-							LinkedHashSet<String> tName = new LinkedHashSet<String>();
+							String tName = new String();
 							if(hgncResult.size() > 0) {
-								tName.add(hgncResult.iterator().next().getId());
+								tName= (hgncResult.iterator().next().getId());
 							}
 							 
 							nodes.putIfAbsent(x.getId(),tName);
@@ -76,12 +74,10 @@ public class DrugbankTargetParser {
 					}
 				}
 			}	
-		}
-		
+		}		
 		for(String key:nodes.keySet()){
 			writerN.println(key+"\t"+nodes.get(key));
-		}
-		
+		} 		
 		writerE.close();
 		writerN.close();
 	}
