@@ -1,0 +1,3220 @@
+Identifier	Name	Type	Category
+DB06366	Pertuzumab	Drug	Monoclonal antibodies
+DB05039	Indacaterol	Drug	0
+DB06372	Rilonacept	Drug	Immunosuppressive Agents
+DB00602	Ivermectin	Drug	Insecticides, Antiparasitic Agents
+DB00603	Medroxyprogesterone Acetate	Drug	Antineoplastic Agents, Hormonal, Contraceptive Agents, Male, Contraceptive Agents, Contraceptive Agents, Female
+DB00600	Monobenzone	Drug	Dermatologic Agents
+DB00601	Linezolid	Drug	Anti-Bacterial Agents
+DB00606	Cyclothiazide	Drug	Diuretics, Antihypertensive Agents
+DB00607	Nafcillin	Drug	Anti-Bacterial Agents, Penicillins
+DB00604	Cisapride	Drug	Serotonin Receptor Agonists, Prokinetic Agents
+DB00605	Sulindac	Drug	Anti-Inflammatory Agents, Non-Steroidal
+DB08973	Fluclorolone acetonide	Drug	0
+DB08970	Fluprednidene Acetate	Drug	0
+DB06795	Mafenide	Drug	0
+DB08971	Fluocortolone	Drug	0
+DB08979	Fenspiride	Drug	0
+DB08976	Floctafenine	Drug	0
+DB08977	Fibrinolysin	Drug	0
+DB08974	Flubendazole	Drug	0
+DB08983	Etofibrate	Drug	0
+DB08984	Etofenamate	Drug	0
+DB08981	Fenbufen	Drug	0
+DB08982	Etozoline	Drug	0
+DB08987	Etidocaine	Drug	0
+DB08994	Ditazole	Drug	0
+DB08995	Diosmin	Drug	0
+DB08992	Eperisone	Drug	0
+DB08993	Enviomycin	Drug	0
+DB08990	Eprazinone	Drug	0
+DB08991	Epirizole	Drug	0
+DB06335	Saxagliptin	Drug	Dipeptidyl-Peptidase IV Inhibitors, Antidiabetic Agents
+DB08998	Demexiptiline	Drug	0
+DB08996	Dimetacrine	Drug	0
+DB05013	Ingenol Mebutate	Drug	Antineoplastic Agents
+DB00650	Leucovorin	Drug	Antidotes, Vitamin B Complex, Anti-anemic Agents, Antineoplastics, Adjuncts, Vitamins
+DB01501	Difenoxin	Drug	0
+DB00653	Magnesium Sulfate	Drug	Calcium Channel Blockers, Anticonvulsants, Analgesics, Anesthetics, Tocolytic Agents, Anti-Arrhythmia Agents
+DB00654	Latanoprost	Drug	0
+DB00651	Dyphylline	Drug	Phosphodiesterase Inhibitors, Vasodilator Agents, Muscle Relaxants, Respiratory, Bronchodilator Agents
+DB00652	Pentazocine	Drug	Narcotic Antagonists, Analgesics, Opioid, Narcotics, Adjuvants, Anesthesia
+DB00657	Mecamylamine	Drug	0
+DB00658	Sevelamer	Drug	0
+DB00655	Estrone	Drug	Estrogens, Anti-menopausal Agents
+DB00656	Trazodone	Drug	Antidepressive Agents, Second-Generation, Anti-Anxiety Agents, Serotonin Uptake Inhibitors
+DB00659	Acamprosate	Drug	Alcohol Deterrents
+DB00660	Metaxalone	Drug	Neuromuscular Agents
+DB00661	Verapamil	Drug	Vasodilator Agents, Calcium Channel Blockers, Anti-Arrhythmia Agents
+DB00664	Sulfametopyrazine	Drug	Anti-Infective Agents, Urinary, Antimalarials, Anti-Infective Agents
+DB01511	Delorazepam	Drug	Anticonvulsants
+DB00665	Nilutamide	Drug	Androgen Antagonists, Antineoplastic Agents
+DB00662	Trimethobenzamide	Drug	Antiemetics
+DB00663	Flumethasone Pivalate	Drug	0
+DB00668	Epinephrine	Drug	Adrenergic beta-Agonists, Adrenergic alpha-Agonists, Mydriatics, Sympathomimetics, Vasoconstrictor Agents, Bronchodilator Agents
+DB00669	Sumatriptan	Drug	Serotonin 5-HT1 Receptor Agonists, Vasoconstrictor Agents, Serotonin Receptor Agonists, Serotonin Antagonists
+DB00666	Nafarelin	Drug	Antiendometriotic agent, Gonadotropin-releasing hormone agonist
+DB00667	Histamine Phosphate	Drug	Diagnostic Agents, Histamine Agents
+DB09006	Clinofibrate	Drug	0
+DB09003	Clocapramine	Drug	0
+DB09002	Cloperastine	Drug	0
+DB09000	Cyamemazine	Drug	0
+DB00671	Cefixime	Drug	Anti-Bacterial Agents, Cephalosporins
+DB00672	Chlorpropamide	Drug	Hypoglycemic Agents, Antidiabetic Agents
+DB00670	Pirenzepine	Drug	Antispasmodics, Muscarinic Antagonists, Anti-Ulcer Agents
+DB00675	Tamoxifen	Drug	Antineoplastic Agents, Hormonal, Estrogen Antagonists, Selective Estrogen Receptor Modulators, Bone Density Conservation Agents
+DB09009	Articaine	Drug	0
+DB00676	Benzyl Benzoate	Drug	Acaricides, Insecticides
+DB00673	Aprepitant	Drug	0
+DB00674	Galantamine	Drug	Cholinesterase Inhibitors, Parasympathomimetics, Nootropic Agents
+DB09008	Cephaloridine	Drug	0
+DB00679	Thioridazine	Drug	Antipsychotic Agents, Phenothiazines, Dopamine Antagonists
+DB00677	Isoflurophate	Drug	Cholinesterase Inhibitors, Protease Inhibitors, Anti-glaucoma Agents, Ophthalmics
+DB00678	Losartan	Drug	Angiotensin II Type 1 Receptor Blockers, Angiotensin Receptor Antagonists, Antihypertensive Agents, Anti-Arrhythmia Agents
+DB09016	Butriptyline	Drug	0
+DB09017	Brotizolam	Drug	0
+DB09014	Captodiame	Drug	0
+DB09015	Potassium Canrenoate	Drug	0
+DB09012	Carbazochrome	Drug	0
+DB00682	Warfarin	Drug	Anticoagulants, Rodenticides
+DB00683	Midazolam	Drug	GABA Modulators, Anesthetics, Intravenous, Anti-Anxiety Agents, Hypnotics and Sedatives, Adjuvants, Anesthesia
+DB00680	Moricizine	Drug	Voltage-Gated Sodium Channel Blockers, Anti-Arrhythmia Agents
+DB00681	Amphotericin B	Drug	Anti-Bacterial Agents, Antiprotozoal Agents, Antifungal Agents, Amebicides
+DB00202	Succinylcholine	Drug	Neuromuscular Depolarizing Agents, Muscle Relaxants, Skeletal
+DB00686	Pentosan Polysulfate	Drug	0
+DB00203	Sildenafil	Drug	0
+DB00687	Fludrocortisone	Drug	Anti-Inflammatory Agents
+DB09018	Bromopride	Drug	0
+DB00684	Tobramycin	Drug	Anti-Bacterial Agents, Aminoglycosides
+DB00200	Hydroxocobalamin	Drug	Hematinics, Vitamin B Complex, Nutritional Support, Anti-anemic Agents
+DB00685	Trovafloxacin	Drug	Fluoroquinolones, Anti-Infective Agents, Quinolones
+DB00201	Caffeine	Drug	Phosphodiesterase Inhibitors, Purinergic P1 Receptor Antagonists, Central Nervous System Stimulants, Appetite Depressants
+DB09019	Bromhexine	Drug	0
+DB00206	Reserpine	Drug	Antipsychotic Agents, Adrenergic Uptake Inhibitors, Adrenergic Antagonists, Antihypertensive Agents
+DB00207	Azithromycin	Drug	Anti-Bacterial Agents, Macrolides
+DB00204	Dofetilide	Drug	Potassium Channel Blockers, Anti-Arrhythmia Agents
+DB00688	Mycophenolate mofetil	Drug	Immunosuppressive Agents
+DB00689	Cephaloglycin	Drug	Anti-Bacterial Agents, Cephalosporins
+DB00205	Pyrimethamine	Drug	Antiprotozoal Agents, Folic Acid Antagonists, Antimalarials
+DB00208	Ticlopidine	Drug	0
+DB00209	Trospium	Drug	0
+DB00608	Chloroquine	Drug	Antirheumatic Agents, Antimalarials, Amebicides
+DB00609	Ethionamide	Drug	Fatty Acid Synthesis Inhibitors, Antitubercular Agents
+DB00610	Metaraminol	Drug	Sympathomimetics, Vasoconstrictor Agents, Adrenergic alpha-1 Receptor Agonists
+DB00613	Amodiaquine	Drug	0
+DB00614	Furazolidone	Drug	Anti-Infective Agents, Urinary, Monoamine Oxidase Inhibitors, Antitrichomonal Agents, Anti-Infective Agents, Local
+DB00611	Butorphanol	Drug	Narcotic Antagonists, Antitussive Agents, Analgesics, Opioid, Narcotics
+DB00612	Bisoprolol	Drug	Sympatholytics, Antihypertensive Agents, Adrenergic beta-1 Receptor Antagonists
+DB00617	Paramethadione	Drug	0
+DB00618	Demeclocycline	Drug	Anti-Bacterial Agents, Tetracyclines
+DB00615	Rifabutin	Drug	Anti-Bacterial Agents, Antibiotics, Antitubercular
+DB00616	Candoxatril	Drug	Prodrugs
+DB00619	Imatinib	Drug	Protein Kinase Inhibitors, Antineoplastic Agents
+DB00620	Triamcinolone	Drug	Glucocorticoids, Anti-Inflammatory Agents
+DB00621	Oxandrolone	Drug	Androgens, Anabolic Agents
+DB00624	Testosterone	Drug	Androgens
+DB00625	Efavirenz	Drug	Reverse Transcriptase Inhibitors, Anti-HIV Agents
+DB00622	Nicardipine	Drug	Vasodilator Agents, Calcium Channel Blockers, Dihydropyridines, Antihypertensive Agents, Anti-Arrhythmia Agents
+DB00623	Fluphenazine	Drug	Antipsychotic Agents, Phenothiazines, Dopamine Antagonists
+DB00628	Clorazepate	Drug	0
+DB00629	Guanabenz	Drug	Adrenergic alpha-2 Receptor Agonists, Antihypertensive Agents
+DB00626	Bacitracin	Drug	0
+DB00627	Niacin	Drug	Vasodilator Agents, Hypolipidemic Agents, Vitamin B Complex
+DB00631	Clofarabine	Drug	Purine analogues
+DB00632	Docosanol	Drug	Antiviral Agents, Dermatologic Agents
+DB00630	Alendronate	Drug	Bone Density Conservation Agents, Antiresorptives, Bisphosphonates, Antihypocalcemic Agents
+DB00635	Prednisone	Drug	Antineoplastic Agents, Hormonal, Glucocorticoids, Anti-Inflammatory Agents
+DB00636	Clofibrate	Drug	Anticholesteremic Agents, Hypolipidemic Agents
+DB00633	Dexmedetomidine	Drug	Analgesics, Non-Narcotic, Adrenergic alpha-2 Receptor Agonists, Hypnotics and Sedatives
+DB00634	Sulfacetamide	Drug	Anti-Infective Agents, Urinary, Sulfonamides, Anti-Infective Agents, Local
+DB00639	Butoconazole	Drug	Antifungal Agents
+DB00637	Astemizole	Drug	Histamine Antagonists
+DB00638	Inulin	Drug	Diagnostic Agents
+DB00642	Pemetrexed	Drug	0
+DB00643	Mebendazole	Drug	Tubulin Modulators, Antinematodal Agents
+DB00640	Adenosine	Drug	Vasodilator Agents, Analgesics, Cardiovascular Agents, Anti-Arrhythmia Agents
+DB00641	Simvastatin	Drug	Anticholesteremic Agents, Hypolipidemic Agents, Hydroxymethylglutaryl-CoA Reductase Inhibitors
+DB00646	Nystatin	Drug	Ionophores
+DB00647	Dextropropoxyphene	Drug	Antitussive Agents, Analgesics, Opioid, Narcotics
+DB00644	Gonadorelin	Drug	0
+DB00645	Dyclonine	Drug	Anesthetics, Local
+DB00648	Mitotane	Drug	Antineoplastic Agents, Hormonal
+DB00649	Stavudine	Drug	Reverse Transcriptase Inhibitors, Anti-HIV Agents, Antimetabolites
+DB01581	Sulfamerazine	Drug	Sulfonamides
+DB01580	Oxprenolol	Drug	Vasodilator Agents, Sympatholytics, Adrenergic beta-Antagonists, Anti-Anxiety Agents, Antihypertensive Agents, Anti-Arrhythmia Agents
+DB00250	Dapsone	Drug	Folic Acid Antagonists, Antimalarials, Antimycobacterials, Leprostatic Agents, Anti-Infective Agents
+DB00253	Medrysone	Drug	Anti-Inflammatory Agents
+DB01101	Capecitabine	Drug	Prodrugs
+DB01100	Pimozide	Drug	Anti-Dyskinesia Agents, Antipsychotic Agents, Dopamine Antagonists
+DB01584	Thyroglobulin	Drug	0
+DB00254	Doxycycline	Drug	Anti-Bacterial Agents, Tetracyclines, Antimalarials
+DB00251	Terconazole	Drug	Antifungal Agents
+DB01583	Liotrix	Drug	Hormone Replacement Agents
+DB00252	Phenytoin	Drug	Anticonvulsants, Voltage-Gated Sodium Channel Blockers
+DB01582	Sulfamethazine	Drug	Sulfonamides
+DB01105	Sibutramine	Drug	Appetite Depressants, Stimulants, Antidepressive Agents
+DB00257	Clotrimazole	Drug	Antifungal Agents, 14-alpha Demethylase Inhibitors, Anti-Infective Agents, Local
+DB01589	Quazepam	Drug	Hypnotics and Sedatives, Benzodiazepines
+DB01104	Sertraline	Drug	Antidepressive Agents, Serotonin Uptake Inhibitors
+DB00258	Calcium Acetate	Drug	Antihyperphosphatemic Agents, Chelating Agents
+DB01588	Prazepam	Drug	GABA Modulators, Anti-Anxiety Agents
+DB01103	Quinacrine	Drug	Anticestodal Agents, Enzyme Inhibitors, Antiprotozoal Agents, Antineoplastic Agents, Antimalarials, Anthelmintics, Antinematodal Agents
+DB01587	Ketazolam	Drug	Benzodiazepines
+DB00255	Diethylstilbestrol	Drug	Carcinogens, Estrogens, Non-Steroidal
+DB01586	Ursodeoxycholic acid	Drug	Cholagogues and Choleretics
+DB00256	Lymecycline	Drug	Anti-Bacterial Agents, Antiprotozoal Agents, Tetracyclines
+DB01102	Arbutamine	Drug	0
+DB01109	Heparin	Drug	Anticoagulants, Fibrinolytic Agents, Heparins
+DB01108	Trilostane	Drug	Anti-adrenal Agents, Anticorticosteroid
+DB01107	Methyprylon	Drug	Hypnotics and Sedatives
+DB00259	Sulfanilamide	Drug	Anti-Bacterial Agents, Sulfonamides, Homeopathic Agents
+DB01106	Levocabastine	Drug	Histamine H1 Antagonists, Non-Sedating
+DB00260	Cycloserine	Drug	Anti-Infective Agents, Urinary, Antibiotics, Antibiotics, Antitubercular, Antimetabolites
+DB01592	Iron	Drug	Trace Elements, Anti-anemic Agents, Supplements
+DB01591	Solifenacin	Drug	Antispasmodics, Muscarinic Antagonists, Anti-Incontinence Agents
+DB00261	Anagrelide	Drug	Antithrombins
+DB01590	Everolimus	Drug	Immunosuppressive Agents
+DB01112	Cefuroxime	Drug	Anti-Bacterial Agents, Cephalosporins
+DB00264	Metoprolol	Drug	Sympatholytics, Antihypertensive Agents, Adrenergic beta-1 Receptor Antagonists, Anti-Arrhythmia Agents
+DB00265	Crotamiton	Drug	Antiscabies Agents, Pesticides
+DB06800	Methylnaltrexone	Drug	Narcotic Antagonists
+DB01111	Colistimethate	Drug	Anti-Bacterial Agents
+DB01595	Nitrazepam	Drug	Anticonvulsants, GABA Modulators, Anti-Anxiety Agents, Hypnotics and Sedatives
+DB00262	Carmustine	Drug	Antineoplastic Agents, Alkylating
+DB01594	Cinolazepam	Drug	Hypnotics and Sedatives, Benzodiazepines
+DB01110	Miconazole	Drug	Antifungal Agents, 14-alpha Demethylase Inhibitors
+DB06803	Niclosamide	Drug	0
+DB00263	Sulfisoxazole	Drug	Sulfonamides, Anti-Infective Agents
+DB06802	Nepafenac	Drug	Anti-Inflammatory Agents, Non-Steroidal, Prodrugs, Anti-Inflammatory Agents
+DB01593	Zinc	Drug	Trace Elements
+DB01116	Trimethaphan	Drug	Ganglionic Blockers, Antihypertensive Agents, Adjuvants, Anesthesia, Nicotinic Antagonists
+DB00268	Ropinirole	Drug	Antiparkinson Agents, Antidyskinetics, Dopamine Agonists
+DB01599	Probucol	Drug	Antioxidants, Anticholesteremic Agents
+DB01115	Nifedipine	Drug	Dihydropyridines
+DB01598	Imipenem	Drug	Anti-Bacterial Agents
+DB00266	Dicoumarol	Drug	Anticoagulants, Enzyme Inhibitors, Uncoupling Agents
+DB01114	Chlorphenamine	Drug	Histamine H1 Antagonists, Histamine Antagonists
+DB01113	Papaverine	Drug	0
+DB01597	Cilastatin	Drug	0
+DB00267	Cefmenoxime	Drug	Anti-Bacterial Agents, Cephalosporins
+DB06809	Plerixafor	Drug	Anti-HIV Agents, Hematopoietic Agents
+DB01119	Diazoxide	Drug	Sodium Chloride Symporter Inhibitors
+DB01118	Amiodarone	Drug	Vasodilator Agents, Enzyme Inhibitors, Anti-Arrhythmia Agents
+DB01117	Atovaquone	Drug	0
+DB06804	Nonoxynol-9	Drug	Contraceptive Agents
+DB00271	Diatrizoate	Drug	Contrast Media
+DB00272	Betazole	Drug	Histamine Agonists, Diagnostic Agents, Gastrointestinal Agents
+DB00270	Isradipine	Drug	Vasodilator Agents, Calcium Channel Blockers, Antihypertensive Agents
+DB00275	Olmesartan	Drug	Angiotensin II Type 1 Receptor Blockers
+DB01123	Proflavine	Drug	Anti-Infective Agents, Local
+DB00276	Amsacrine	Drug	Antineoplastic Agents, Intercalating Agents
+DB06811	Polidocanol	Drug	Sclerosing Solutions, Detergents
+DB01122	Ambenonium	Drug	Antimyasthenic Agents, Anti-Arrhythmia Agents
+DB00273	Topiramate	Drug	Neuroprotective Agents, Anticonvulsants, Anti-Obesity Agents
+DB01121	Phenacemide	Drug	0
+DB01120	Gliclazide	Drug	Hypoglycemic Agents, Antidiabetic Agents
+DB00274	Cefmetazole	Drug	Anti-Bacterial Agents, Cephalosporins
+DB06813	Pralatrexate	Drug	0
+DB01127	Econazole	Drug	0
+DB00279	Liothyronine	Drug	Hormone Replacement Agents
+DB01126	Dutasteride	Drug	0
+DB00277	Theophylline	Drug	Phosphodiesterase Inhibitors, Purinergic P1 Receptor Antagonists, Vasodilator Agents, Muscle Relaxants, Respiratory, Bronchodilator Agents
+DB01125	Anisindione	Drug	0
+DB06810	Plicamycin	Drug	Nucleic Acid Synthesis Inhibitors, Antibiotics, Antineoplastic, Protein Synthesis Inhibitors, Fluorescent Dyes
+DB00278	Argatroban	Drug	0
+DB01124	Tolbutamide	Drug	Hypoglycemic Agents, Antidiabetic Agents
+DB01129	Rabeprazole	Drug	Enzyme Inhibitors, Anti-Ulcer Agents
+DB01128	Bicalutamide	Drug	0
+DB06817	Raltegravir	Drug	Anti-HIV Agents
+DB00282	Pamidronate	Drug	Bone Density Conservation Agents, Bisphosphonates
+DB01130	Prednicarbate	Drug	Corticosteroids, Anti-Inflammatory Agents, Steroids
+DB00283	Clemastine	Drug	Histamine H1 Antagonists, Anti-Allergic Agents, Antipruritics
+DB00280	Disopyramide	Drug	Voltage-Gated Sodium Channel Blockers, Anti-Arrhythmia Agents
+DB00281	Lidocaine	Drug	Voltage-Gated Sodium Channel Blockers, Anti-Arrhythmia Agents, Anesthetics, Local
+DB00286	Conjugated Estrogens	Drug	Estrogens
+DB00287	Travoprost	Drug	Anti-glaucoma Agents, Prostaglandins, Synthetic, Ophthalmics
+DB01133	Tiludronate	Drug	Bone Density Conservation Agents, Antihypocalcemic Agents
+DB06822	Tinzaparin	Drug	Antithrombins, Heparins
+DB00284	Acarbose	Drug	0
+DB01132	Pioglitazone	Drug	Hypoglycemic Agents
+DB01131	Proguanil	Drug	0
+DB00285	Venlafaxine	Drug	Antidepressive Agents
+DB01138	Sulfinpyrazone	Drug	Uricosuric Agents
+DB01137	Levofloxacin	Drug	Quinolones
+DB00288	Amcinonide	Drug	Corticosteroids, Glucocorticoids
+DB01136	Carvedilol	Drug	Vasodilator Agents, Adrenergic beta-Antagonists, Antihypertensive Agents, Adrenergic alpha-1 Receptor Antagonists
+DB01135	Doxacurium chloride	Drug	0
+DB00289	Atomoxetine	Drug	Adrenergic Uptake Inhibitors, Antidepressive Agents
+DB01139	Cefapirin	Drug	Anti-Bacterial Agents, Cephalosporins
+DB06827	Viomycin	Drug	0
+DB09020	Bisacodyl	Drug	0
+DB09028	Cytisine	Drug	0
+DB09026	Aliskiren	Drug	0
+DB00690	Flurazepam	Drug	0
+DB09024	Follitropin Alpha	Drug	0
+DB09021	Benzoctamine	Drug	0
+DB00693	Fluorescein	Drug	Contrast Media, Fluorescent Dyes
+DB00694	Daunorubicin	Drug	Antibiotics, Antibiotics, Antineoplastic
+DB00210	Adapalene	Drug	Anti-Inflammatory Agents, Non-Steroidal, Dermatologic Agents
+DB00691	Moexipril	Drug	Angiotensin-Converting Enzyme Inhibitors
+DB00692	Phentolamine	Drug	Adrenergic alpha-Antagonists, Antihypertensive Agents
+DB00697	Tizanidine	Drug	Neuromuscular Agents, Anticonvulsants, Adrenergic alpha-2 Receptor Agonists, Analgesics, Parasympatholytics, Muscle Relaxants, Central, Muscle Relaxants, Skeletal
+DB01545	Ethyl loflazepate	Drug	0
+DB00213	Pantoprazole	Drug	Proton Pump Inhibitors, Anti-Ulcer Agents
+DB00214	Torasemide	Drug	Sodium Potassium Chloride Symporter Inhibitors, Diuretics, Antihypertensive Agents
+DB00698	Nitrofurantoin	Drug	Anti-Infective Agents, Urinary, Anti-Infective Agents
+DB01544	Flunitrazepam	Drug	GABA Modulators, Anti-Anxiety Agents, Benzodiazepines
+DB09029	Secukinumab	Drug	0
+DB00695	Furosemide	Drug	Sodium Potassium Chloride Symporter Inhibitors, Diuretics
+DB00211	Midodrine	Drug	Sympathomimetics, Vasoconstrictor Agents, Adrenergic alpha-1 Receptor Agonists
+DB00212	Remikiren	Drug	0
+DB00696	Ergotamine	Drug	0
+DB00217	Bethanidine	Drug	Sympatholytics, Antihypertensive Agents, Adrenergic Agents
+DB00218	Moxifloxacin	Drug	Quinolones
+DB00215	Citalopram	Drug	Antidepressive Agents, Second-Generation, Antidepressive Agents, Serotonin Uptake Inhibitors
+DB00699	Nicergoline	Drug	Vasodilator Agents, Adrenergic alpha-Antagonists, Nootropic Agents
+DB00216	Eletriptan	Drug	Serotonin Receptor Agonists, Serotonin Antagonists, Anti-migraine Agents
+DB00219	Oxyphenonium	Drug	0
+DB00220	Nelfinavir	Drug	0
+DB00221	Isoetarine	Drug	Bronchodilator Agents, Adrenergic beta-2 Receptor Agonists
+DB01551	Dihydrocodeine	Drug	Analgesics, Opioid
+DB01550	Fenproporex	Drug	Appetite Depressants, Stimulants
+DB00224	Indinavir	Drug	0
+DB00225	Gadodiamide	Drug	0
+DB00222	Glimepiride	Drug	Hypoglycemic Agents, Immunosuppressive Agents, Antidiabetic Agents, Anti-Arrhythmia Agents
+DB01553	Cloxazolam	Drug	Neuromuscular Agents, Hypnotics and Sedatives, Benzodiazepines
+DB00223	Diflorasone	Drug	Glucocorticoids, Anti-Inflammatory Agents
+DB00228	Enflurane	Drug	Anesthetics, Inhalation, Anesthetics
+DB00229	Cefotiam	Drug	Anti-Bacterial Agents, Cephalosporins
+DB01559	Clotiazepam	Drug	Benzodiazepines
+DB01558	Bromazepam	Drug	GABA Modulators, Anti-Anxiety Agents, Benzodiazepines
+DB00226	Guanadrel	Drug	Antihypertensive Agents
+DB00227	Lovastatin	Drug	Anticholesteremic Agents, Hydroxymethylglutaryl-CoA Reductase Inhibitors
+DB00231	Temazepam	Drug	Benzodiazepines
+DB00232	Methyclothiazide	Drug	Sodium Chloride Symporter Inhibitors
+DB00230	Pregabalin	Drug	Anticonvulsants, Analgesics
+DB01567	Fludiazepam	Drug	Benzodiazepines
+DB00235	Milrinone	Drug	Cardiotonic Agents, Vasodilator Agents, Phosphodiesterase 3 Inhibitors, Platelet Aggregation Inhibitors
+DB00236	Pipobroman	Drug	0
+DB00233	Aminosalicylic Acid	Drug	Antitubercular Agents
+DB00234	Reboxetine	Drug	0
+DB00239	Oxiconazole	Drug	Antifungal Agents
+DB00237	Butabarbital	Drug	Hypnotics and Sedatives, Barbiturates
+DB00238	Nevirapine	Drug	Reverse Transcriptase Inhibitors, Anti-HIV Agents
+DB01574	Attapulgite	Drug	0
+DB00242	Cladribine	Drug	Immunosuppressive Agents, Antineoplastic Agents
+DB00243	Ranolazine	Drug	0
+DB00240	Alclometasone	Drug	Corticosteroids, Antipruritics
+DB00241	Butalbital	Drug	0
+DB00246	Ziprasidone	Drug	Antipsychotic Agents
+DB01578	Metrizamide	Drug	0
+DB01577	Methamphetamine	Drug	Central Nervous System Stimulants, Adrenergic Uptake Inhibitors, Sympathomimetics, Adrenergic Agents, Dopamine Agents, Dopamine Uptake Inhibitors
+DB00247	Methysergide	Drug	Vasoconstrictor Agents, Serotonin Antagonists
+DB00244	Mesalazine	Drug	Anti-Inflammatory Agents, Non-Steroidal
+DB01576	Dextroamphetamine	Drug	Central Nervous System Stimulants, Dopamine Uptake Inhibitors
+DB00245	Benzatropine	Drug	Antiparkinson Agents, Parasympatholytics, Antidyskinetics, Muscarinic Antagonists, Dopamine Uptake Inhibitors
+DB01575	Kaolin	Drug	0
+DB00248	Cabergoline	Drug	Antiparkinson Agents, Antineoplastic Agents, Dopamine Agonists
+DB00249	Idoxuridine	Drug	Nucleic Acid Synthesis Inhibitors, Antiviral Agents
+DB01579	Phendimetrazine	Drug	Central Nervous System Stimulants, Appetite Depressants
+DB01181	Ifosfamide	Drug	0
+DB01180	Rescinnamine	Drug	0
+DB01185	Fluoxymesterone	Drug	Anabolic Agents
+DB01184	Domperidone	Drug	0
+DB01183	Naloxone	Drug	Narcotic Antagonists, Central Nervous System Depressants
+DB01182	Propafenone	Drug	Voltage-Gated Sodium Channel Blockers, Anti-Arrhythmia Agents
+DB01189	Desflurane	Drug	Anesthetics, Inhalation
+DB01188	Ciclopirox	Drug	Antifungal Agents
+DB01187	Iophendylate	Drug	0
+DB01186	Pergolide	Drug	Antidyskinetics, Dopamine Agonists
+DB01192	Oxymorphone	Drug	Analgesics, Opioid, Narcotics, Adjuvants, Adjuvants, Anesthesia
+DB01191	Dexfenfluramine	Drug	Anti-Obesity Agents, Serotonin Receptor Agonists, Serotonin Uptake Inhibitors
+DB01190	Clindamycin	Drug	Anti-Bacterial Agents, Antibiotics, Protein Synthesis Inhibitors
+DB01196	Estramustine	Drug	Antineoplastic Agents, Hormonal, Antineoplastic Agents, Alkylating
+DB01195	Flecainide	Drug	Voltage-Gated Sodium Channel Blockers, Anti-Arrhythmia Agents
+DB01194	Brinzolamide	Drug	Anti-glaucoma Agents, Ophthalmics
+DB01193	Acebutolol	Drug	Sympathomimetics, Antihypertensive Agents, Adrenergic beta-1 Receptor Antagonists, Anti-Arrhythmia Agents
+DB01199	Tubocurarine	Drug	Neuromuscular Nondepolarizing Agents, Muscle Relaxants, Skeletal, Nicotinic Antagonists
+DB01198	Zopiclone	Drug	Hypnotics and Sedatives
+DB01197	Captopril	Drug	Angiotensin-Converting Enzyme Inhibitors, Antihypertensive Agents
+DB06402	Telavancin	Drug	Anti-Bacterial Agents
+DB06414	Etravirine	Drug	Reverse Transcriptase Inhibitors
+DB08604	Triclosan	Drug	0
+DB00290	Bleomycin	Drug	Antibiotics, Antineoplastic
+DB00293	Raltitrexed	Drug	0
+DB01141	Micafungin	Drug	Antifungal Agents
+DB01140	Cefadroxil	Drug	Anti-Bacterial Agents, Cephalosporins
+DB00294	Etonogestrel	Drug	Contraceptive Agents
+DB00291	Chlorambucil	Drug	Antineoplastic Agents, Alkylating
+DB00292	Etomidate	Drug	Anesthetics, Intravenous, Hypnotics and Sedatives
+DB00297	Bupivacaine	Drug	Anesthetics, Local
+DB01145	Sulfoxone	Drug	Sulfonamides, Anti-Infective Agents
+DB01144	Diclofenamide	Drug	Carbonic Anhydrase Inhibitors, Anti-glaucoma Agents, Ophthalmics
+DB00298	Dapiprazole	Drug	Antimydriatic Agents, Ophthalmics
+DB00295	Morphine	Drug	Analgesics, Opioid, Narcotics
+DB01143	Amifostine	Drug	Radiation-Protective Agents
+DB01142	Doxepin	Drug	Adrenergic Uptake Inhibitors, Antidepressive Agents
+DB00296	Ropivacaine	Drug	Anesthetics, Local
+DB01149	Nefazodone	Drug	Antidepressive Agents, Second-Generation, Antidepressive Agents
+DB01148	Flavoxate	Drug	Parasympatholytics
+DB01147	Cloxacillin	Drug	Penicillins
+DB00299	Penciclovir	Drug	Antiviral Agents
+DB01146	Diphenylpyraline	Drug	Histamine Antagonists
+DB01151	Desipramine	Drug	Enzyme Inhibitors, Adrenergic Uptake Inhibitors, Antidepressive Agents, Tricyclic, Antidepressive Agents
+DB01150	Cefprozil	Drug	Anti-Bacterial Agents, Cephalosporins
+DB01156	Bupropion	Drug	Antidepressive Agents, Second-Generation, Dopamine Uptake Inhibitors
+DB01155	Gemifloxacin	Drug	Anti-Bacterial Agents, Quinolones
+DB01154	Thiamylal	Drug	0
+DB01153	Sertaconazole	Drug	Antifungal Agents
+DB01159	Halothane	Drug	Anesthetics, Inhalation, Anesthetics
+DB01158	Bretylium	Drug	Adrenergic Antagonists, Antihypertensive Agents, Anti-Arrhythmia Agents
+DB01157	Trimetrexate	Drug	Antiprotozoal Agents, Antibiotics, Folic Acid Antagonists, Antimetabolites, Antineoplastic, Antifungal Agents
+DB01162	Terazosin	Drug	Adrenergic alpha-1 Receptor Antagonists
+DB01161	Chloroprocaine	Drug	Anesthetics, Local
+DB01160	Dinoprost Tromethamine	Drug	Angiography, Stimulants, Uterine, Oxytocics, Abortifacient Agents, Nonsteroidal
+DB01167	Itraconazole	Drug	Antiprotozoal Agents, Antifungal Agents, 14-alpha Demethylase Inhibitors
+DB01166	Cilostazol	Drug	Vasodilator Agents, Neuroprotective Agents, Phosphodiesterase 3 Inhibitors, Platelet Aggregation Inhibitors, Bronchodilator Agents, Fibrinolytic Agents
+DB01165	Ofloxacin	Drug	Anti-Bacterial Agents, Nucleic Acid Synthesis Inhibitors, Anti-Infective Agents, Urinary, Anti-Infective Agents, Quinolones
+DB01164	Calcium Chloride	Drug	Supplements
+DB05521	Telaprevir	Drug	0
+DB01169	Arsenic trioxide	Drug	Antineoplastic Agents, Homeopathic Agents
+DB01168	Procarbazine	Drug	Antineoplastic Agents
+DB05528	Mipomersen	Drug	Anticholesteremic Agents, Hypolipidemic Agents, Oligodeoxyribonucleotides, Antisense
+DB01170	Guanethidine	Drug	Sympatholytics, Antihypertensive Agents, Adrenergic Agents
+DB01174	Phenobarbital	Drug	Anticonvulsants, GABA Modulators, Hypnotics and Sedatives, Excitatory Amino Acid Antagonists
+DB01173	Orphenadrine	Drug	Antiparkinson Agents, Parasympatholytics, Muscle Relaxants, Central, Antidyskinetics, Muscarinic Antagonists, Muscle Relaxants, Skeletal
+DB01172	Kanamycin	Drug	Anti-Bacterial Agents, Aminoglycosides, Protein Synthesis Inhibitors
+DB01171	Moclobemide	Drug	Monoamine Oxidase Inhibitors, Antidepressive Agents
+DB01178	Chlormezanone	Drug	Antipsychotic Agents, Muscle Relaxants, Central, Anti-Anxiety Agents, Benzodiazepines
+DB01177	Idarubicin	Drug	Antibiotics, Antibiotics, Antineoplastic
+DB01176	Cyclizine	Drug	Histamine H1 Antagonists, Antiemetics
+DB01175	Escitalopram	Drug	Antidepressive Agents, Second-Generation, Serotonin Uptake Inhibitors
+DB01179	Podofilox	Drug	Antineoplastic Agents, Phytogenic, Tubulin Modulators, Antimitotic Agents, Keratolytic Agents
+DB00701	Amprenavir	Drug	Antibiotics, Antitubercular, Anti-HIV Agents, HIV Protease Inhibitors
+DB00702	Icodextrin	Drug	Diuretics, Osmotic, Dialysis Solutions
+DB00700	Eplerenone	Drug	Mineralocorticoid Receptor Antagonists
+DB00705	Delavirdine	Drug	Reverse Transcriptase Inhibitors
+DB00706	Tamsulosin	Drug	Adrenergic alpha-1 Receptor Antagonists
+DB00703	Methazolamide	Drug	0
+DB00704	Naltrexone	Drug	Narcotic Antagonists, Appetite Depressants, Central Nervous System Depressants, Alcohol Antagonists
+DB00709	Lamivudine	Drug	Reverse Transcriptase Inhibitors, Anti-HIV Agents
+DB00707	Porfimer	Drug	Photosensitizing Agents, Antineoplastic Agents, Dermatologic Agents
+DB00708	Sufentanil	Drug	Analgesics, Opioid, Narcotics, Anesthetics, Intravenous, Adjuvants, Anesthesia
+DB00712	Flurbiprofen	Drug	Anti-Inflammatory Agents, Non-Steroidal, Cyclooxygenase Inhibitors, Analgesics
+DB00713	Oxacillin	Drug	Penicillins
+DB00710	Ibandronate	Drug	Bone Density Conservation Agents, Antiresorptives, Bisphosphonates, Antihypocalcemic Agents
+DB00711	Diethylcarbamazine	Drug	Lipoxygenase Inhibitors, Filaricides
+DB00716	Nedocromil	Drug	Anti-Allergic Agents, Anti-Asthmatic Agents, Anti-Inflammatory Agents
+DB00717	Norethindrone	Drug	Contraceptives, Oral, Synthetic
+DB00714	Apomorphine	Drug	Antiparkinson Agents, Antidyskinetics, Dopamine Agonists
+DB00715	Paroxetine	Drug	Antidepressive Agents, Serotonin Uptake Inhibitors
+DB00718	Adefovir Dipivoxil	Drug	Antiviral Agents, Reverse Transcriptase Inhibitors
+DB00719	Azatadine	Drug	Histamine H1 Antagonists
+DB00720	Clodronate	Drug	Bone Density Conservation Agents, Bisphosphonates, Antihypocalcemic Agents
+DB00723	Methoxamine	Drug	Sympathomimetics, Vasoconstrictor Agents, Adrenergic alpha-1 Receptor Agonists
+DB00724	Imiquimod	Drug	Adjuvants, Immunologic, Antineoplastic Agents, Interferon Inducers
+DB00721	Procaine	Drug	Anesthetics, Local
+DB00722	Lisinopril	Drug	0
+DB00727	Nitroglycerin	Drug	Vasodilator Agents, Explosive Agents
+DB00728	Rocuronium	Drug	Muscle Relaxants, Skeletal
+DB00725	Homatropine Methylbromide	Drug	Antispasmodics, Muscarinic Antagonists
+DB00726	Trimipramine	Drug	Adrenergic Uptake Inhibitors, Antidepressive Agents, Tricyclic, Antidepressive Agents
+DB06439	Tyloxapol	Drug	Surface-Active Agents, Detergents
+DB05109	Trabectedin	Drug	Antineoplastic Agents, Alkylating
+DB00770	Alprostadil	Drug	0
+DB00771	Clidinium	Drug	Cholinergic Antagonists, Antispasmodics, Muscarinic Antagonists, Anti-Arrhythmia Agents
+DB01622	Thioproperazine	Drug	Phenothiazines
+DB00774	Hydroflumethiazide	Drug	Sodium Chloride Symporter Inhibitors, Diuretics, Antihypertensive Agents
+DB00775	Tirofiban	Drug	Platelet Aggregation Inhibitors, Fibrinolytic Agents
+DB01621	Pipotiazine	Drug	Phenothiazines
+DB01620	Pheniramine	Drug	Histamine H1 Antagonists, Anti-Allergic Agents, Antipruritics
+DB00772	Malathion	Drug	Cholinesterase Inhibitors, Insecticides
+DB00773	Etoposide	Drug	Antineoplastic Agents, Phytogenic
+DB01626	Pargyline	Drug	0
+DB00778	Roxithromycin	Drug	Macrolides
+DB00779	Nalidixic Acid	Drug	Anti-Bacterial Agents
+DB01625	Isopropamide	Drug	0
+DB01624	Zuclopenthixol	Drug	Antipsychotic Agents, Dopamine Antagonists
+DB00776	Oxcarbazepine	Drug	Anticonvulsants
+DB00777	Propiomazine	Drug	Histamine Antagonists, Antiemetics, Hypnotics and Sedatives
+DB01623	Thiothixene	Drug	Antipsychotic Agents, Thioxanthenes, Dopamine Antagonists
+DB02959	Oxitriptan	Drug	Antidepressive Agents, Second-Generation
+DB01628	Etoricoxib	Drug	0
+DB01627	Lincomycin	Drug	Anti-Bacterial Agents, Antibiotics, Protein Synthesis Inhibitors
+DB00781	Polymyxin B Sulfate	Drug	Anti-Bacterial Agents
+DB00782	Propantheline	Drug	Antispasmodics, Muscarinic Antagonists, Anti-Ulcer Agents
+DB00780	Phenelzine	Drug	Monoamine Oxidase Inhibitors, Antidepressive Agents
+DB00301	Flucloxacillin	Drug	Anti-Bacterial Agents, Penicillins
+DB00785	Cryptenamine	Drug	0
+DB00302	Tranexamic Acid	Drug	Antifibrinolytic Agents
+DB00786	Marimastat	Drug	Enzyme Inhibitors
+DB00783	Estradiol	Drug	Contraceptive Agents, Estrogens, Anti-menopausal Agents
+DB00300	Tenofovir	Drug	Reverse Transcriptase Inhibitors, Anti-HIV Agents
+DB00784	Mefenamic acid	Drug	Anti-Inflammatory Agents, Non-Steroidal, Cyclooxygenase Inhibitors
+DB00305	Mitomycin	Drug	Cross-Linking Reagents, Nucleic Acid Synthesis Inhibitors, Antibiotics, Antineoplastic, Alkylating Agents
+DB00789	Gadopentetate dimeglumine	Drug	Contrast Media
+DB00306	Talbutal	Drug	0
+DB00787	Aciclovir	Drug	Nucleic Acids, Nucleotides, and Nucleosides, Antiviral Agents
+DB00303	Ertapenem	Drug	Anti-Bacterial Agents
+DB00304	Desogestrel	Drug	Contraceptives, Oral, Synthetic, Progestins
+DB00788	Naproxen	Drug	0
+DB00309	Vindesine	Drug	Antineoplastic Agents, Phytogenic, Tubulin Modulators
+DB00307	Bexarotene	Drug	0
+DB00308	Ibutilide	Drug	Anti-Arrhythmia Agents
+DB00792	Tripelennamine	Drug	Anti-Allergic Agents, Histamine Antagonists
+DB00793	Haloprogin	Drug	Antifungal Agents
+DB00790	Perindopril	Drug	Angiotensin-Converting Enzyme Inhibitors, Antihypertensive Agents
+DB00791	Uracil mustard	Drug	0
+DB00796	Candesartan	Drug	Angiotensin II Type 1 Receptor Blockers, Angiotensin Receptor Antagonists, Antihypertensive Agents
+DB00312	Pentobarbital	Drug	GABA Modulators, Hypnotics and Sedatives, Adjuvants, Anesthesia, Barbiturates
+DB00797	Tolazoline	Drug	Vasodilator Agents, Adrenergic alpha-Antagonists, Antihypertensive Agents
+DB00313	Valproic Acid	Drug	Enzyme Inhibitors, Anticonvulsants, GABA Agents, Antimanic Agents
+DB00310	Chlorthalidone	Drug	Sodium Chloride Symporter Inhibitors, Diuretics, Antihypertensive Agents
+DB00794	Primidone	Drug	Anticonvulsants, Barbiturates
+DB00795	Sulfasalazine	Drug	Anti-Inflammatory Agents, Non-Steroidal, Sulfonamides, Antirheumatic Agents, Anti-Infective Agents, Gastrointestinal Agents
+DB00316	Acetaminophen	Drug	Analgesics, Non-Narcotic, Antipyretics
+DB00317	Gefitinib	Drug	0
+DB00798	Gentamicin	Drug	Aminoglycosides
+DB00314	Capreomycin	Drug	0
+DB00799	Tazarotene	Drug	Prodrugs, Teratogens, Keratolytic Agents, Dermatologic Agents
+DB00315	Zolmitriptan	Drug	Serotonin 5-HT1 Receptor Agonists, Serotonin Receptor Agonists, Serotonin Antagonists, Anti-migraine Agents
+DB00318	Codeine	Drug	Antitussive Agents, Analgesics, Opioid, Narcotics
+DB00319	Piperacillin	Drug	Anti-Bacterial Agents, Penicillins
+DB00320	Dihydroergotamine	Drug	Analgesics, Non-Narcotic, Vasoconstrictor Agents, Dopamine Agonists, Anti-migraine Agents
+DB00323	Tolcapone	Drug	Antidyskinetics
+DB00324	Fluorometholone	Drug	Anti-Allergic Agents, Glucocorticoids, Anti-Inflammatory Agents
+DB00321	Amitriptyline	Drug	Analgesics, Non-Narcotic, Adrenergic Uptake Inhibitors, Antidepressive Agents, Tricyclic
+DB00322	Floxuridine	Drug	Antineoplastic Agents, Antimetabolites, Antineoplastic
+DB00327	Hydromorphone	Drug	Analgesics, Opioid, Narcotics
+DB00328	Indomethacin	Drug	Anti-Inflammatory Agents, Non-Steroidal, Gout Suppressants, Cyclooxygenase Inhibitors, Cardiovascular Agents, Tocolytic Agents
+DB00325	Nitroprusside	Drug	0
+DB00326	Calcium Gluceptate	Drug	Electrolyte replenisher, Antihypermagnesemic Agents, Supplements, Antihypocalcemic Agents
+DB01656	Roflumilast	Drug	0
+DB00729	Diphemanil Methylsulfate	Drug	0
+DB00730	Thiabendazole	Drug	Anthelmintics
+DB00731	Nateglinide	Drug	Hypoglycemic Agents, Meglitinides
+DB00734	Risperidone	Drug	Antipsychotic Agents, Serotonin Antagonists, Dopamine Antagonists
+DB00735	Naftifine	Drug	0
+DB00732	Atracurium	Drug	0
+DB00733	Pralidoxime	Drug	Cholinesterase Reactivators
+DB00738	Pentamidine	Drug	Antiprotozoal Agents, Trypanocidal Agents, Antifungal Agents
+DB00739	Hetacillin	Drug	Penicillins
+DB00736	Esomeprazole	Drug	Histamine Antagonists, Proton Pump Inhibitors
+DB00737	Meclizine	Drug	Histamine H1 Antagonists, Anti-Allergic Agents, Histamine Antagonists, Antiemetics
+DB00741	Hydrocortisone	Drug	Anti-Inflammatory Agents
+DB00742	Mannitol	Drug	Diuretics, Osmotic, Sweetening Agents
+DB00740	Riluzole	Drug	0
+DB00745	Modafinil	Drug	Neuroprotective Agents, Central Nervous System Stimulants, Appetite Depressants, Stimulants
+DB00746	Deferoxamine	Drug	Siderophores, Chelating Agents
+DB00743	Gadobenate Dimeglumine	Drug	Contrast Media
+DB00744	Zileuton	Drug	Anti-Inflammatory Agents, Non-Steroidal, Leukotriene Antagonists, Lipoxygenase Inhibitors
+DB00749	Etodolac	Drug	Anti-Inflammatory Agents, Non-Steroidal, Cyclooxygenase 2 Inhibitors
+DB00747	Scopolamine	Drug	Adjuvants, Antispasmodics, Muscarinic Antagonists
+DB00748	Carbinoxamine	Drug	Histamine H1 Antagonists, Histamine Antagonists
+DB01600	Tiaprofenic acid	Drug	Anti-Inflammatory Agents, Non-Steroidal
+DB00752	Tranylcypromine	Drug	Antidepressive Agents
+DB00753	Isoflurane	Drug	Anesthetics, Inhalation, Anesthetics
+DB00750	Prilocaine	Drug	Anesthetics, Local
+DB00751	Epinastine	Drug	Histamine H1 Antagonists, Histamine Antagonists, Ophthalmics
+DB01604	Pivampicillin	Drug	Anti-Bacterial Agents, Penicillins
+DB00756	Hexachlorophene	Drug	Anti-Infective Agents
+DB01603	Meticillin	Drug	Anti-Bacterial Agents, Penicillins
+DB00757	Dolasetron	Drug	Serotonin Antagonists, Antiemetics
+DB01602	Bacampicillin	Drug	Penicillins
+DB00754	Ethotoin	Drug	Anticonvulsants
+DB00755	Tretinoin	Drug	Antineoplastic Agents, Keratolytic Agents
+DB01601	Lopinavir	Drug	Anti-HIV Agents, HIV Protease Inhibitors
+DB01608	Propericiazine	Drug	Phenothiazines
+DB01607	Ticarcillin	Drug	Anti-Bacterial Agents, Penicillins
+DB00758	Clopidogrel	Drug	Platelet Aggregation Inhibitors
+DB01606	Tazobactam	Drug	0
+DB00759	Tetracycline	Drug	Anti-Bacterial Agents, Antiprotozoal Agents, Tetracyclines, Protein Synthesis Inhibitors
+DB01605	Pivmecillinam	Drug	Anti-Bacterial Agents, Anti-Infective Agents, Urinary, Penicillins
+DB01609	Deferasirox	Drug	Iron Chelating Agents
+DB00760	Meropenem	Drug	Anti-Bacterial Agents
+DB01611	Hydroxychloroquine	Drug	Enzyme Inhibitors, Antirheumatic Agents, Antimalarials
+DB00763	Methimazole	Drug	Antithyroid Agents
+DB00764	Mometasone	Drug	0
+DB01610	Valganciclovir	Drug	Antiviral Agents
+DB00761	Potassium Chloride	Drug	0
+DB00762	Irinotecan	Drug	Antineoplastic Agents, Phytogenic, Prodrugs, Topoisomerase I Inhibitors, Radiation-Sensitizing Agents
+DB01615	Aceprometazine	Drug	Histamine Antagonists, Hypnotics and Sedatives
+DB01614	Acepromazine	Drug	Antipsychotic Agents, Hypnotics and Sedatives, Dopamine Antagonists
+DB00768	Olopatadine	Drug	Histamine H1 Antagonists, Histamine Antagonists
+DB01613	Erythrityl Tetranitrate	Drug	Vasodilator Agents
+DB00765	Metyrosine	Drug	Enzyme Inhibitors
+DB01612	Amyl Nitrite	Drug	Vasodilator Agents
+DB00766	Clavulanate	Drug	Enzyme Inhibitors, Anti-Bacterial Agents
+DB01619	Phenindamine	Drug	Histamine H1 Antagonists, Histamine Antagonists
+DB01618	Molindone	Drug	Antipsychotic Agents
+DB00769	Hydrocortamate	Drug	Corticosteroids, Anti-Inflammatory Agents
+DB01616	Alverine	Drug	Parasympatholytics, Antispasmodics
+DB00370	Mirtazapine	Drug	Histamine H1 Antagonists, Adrenergic alpha-Antagonists, Antidepressive Agents, Tricyclic
+DB00371	Meprobamate	Drug	Anticonvulsants, Muscle Relaxants, Central, Anti-Anxiety Agents, Hypnotics and Sedatives
+DB01222	Budesonide	Drug	Corticosteroids
+DB00374	Treprostinil	Drug	Anticoagulants, Antithrombins
+DB01221	Ketamine	Drug	Analgesics, Anesthetics, Anesthetics, Dissociative, Excitatory Amino Acid Antagonists
+DB00375	Colestipol	Drug	Hypolipidemic Agents, Anion Exchange Resins
+DB01220	Rifaximin	Drug	Anti-Infective Agents, Gastrointestinal Agents
+DB00373	Timolol	Drug	Adrenergic beta-Antagonists, Antihypertensive Agents, Anti-Arrhythmia Agents
+DB01226	Mivacurium	Drug	0
+DB00378	Dydrogesterone	Drug	Progestins, Progesterones
+DB01225	Enoxaparin	Drug	Anticoagulants, Fibrinolytic Agents, Heparins
+DB00379	Mexiletine	Drug	Voltage-Gated Sodium Channel Blockers, Anti-Arrhythmia Agents
+DB01224	Quetiapine	Drug	Antipsychotic Agents
+DB00376	Trihexyphenidyl	Drug	Antiparkinson Agents, Antidyskinetics, Muscarinic Antagonists
+DB00377	Palonosetron	Drug	0
+DB01223	Aminophylline	Drug	Cardiotonic Agents, Phosphodiesterase Inhibitors, Purinergic P1 Receptor Antagonists, Muscle Relaxants, Respiratory, Bronchodilator Agents
+DB01229	Paclitaxel	Drug	Antineoplastic Agents, Phytogenic, Tubulin Modulators
+DB01228	Encainide	Drug	Voltage-Gated Sodium Channel Blockers, Sodium Channel Blockers, Anti-Arrhythmia Agents
+DB01227	Levomethadyl Acetate	Drug	Analgesics, Opioid, Narcotics
+DB00381	Amlodipine	Drug	Vasodilator Agents, Calcium Channel Blockers, Antianginal Agents, Antihypertensive Agents
+DB00380	Dexrazoxane	Drug	Antineoplastic Agents, Cardiovascular Agents, Chelating Agents
+DB00385	Valrubicin	Drug	0
+DB01233	Metoclopramide	Drug	Antiemetics, Prokinetic Agents, Dopamine Antagonists
+DB01232	Saquinavir	Drug	HIV Protease Inhibitors
+DB00383	Oxyphencyclimine	Drug	Cholinergic Antagonists, Antispasmodics
+DB01231	Diphenidol	Drug	Antiemetics
+DB00384	Triamterene	Drug	Diuretics, Epithelial Sodium Channel Blockers
+DB00389	Carbimazole	Drug	Antithyroid Agents
+DB01237	Bromodiphenhydramine	Drug	Histamine Antagonists
+DB01236	Sevoflurane	Drug	Anesthetics, Inhalation, Platelet Aggregation Inhibitors
+DB00387	Procyclidine	Drug	Antiparkinson Agents, Antidyskinetics, Muscarinic Antagonists
+DB01235	L-DOPA	Drug	Antiparkinson Agents, Antidyskinetics, Dopamine Agents
+DB01234	Dexamethasone	Drug	Antineoplastic Agents, Hormonal, Glucocorticoids, Anti-Inflammatory Agents, Antiemetics
+DB00388	Phenylephrine	Drug	Cardiotonic Agents, Mydriatics, Sympathomimetics, Vasoconstrictor Agents, Adrenergic alpha-1 Receptor Agonists, Nasal Decongestants
+DB01239	Chlorprothixene	Drug	Antipsychotic Agents, Dopamine Antagonists
+DB01238	Aripiprazole	Drug	Antipsychotic Agents
+DB01240	Epoprostenol	Drug	Platelet Aggregation Inhibitors, Antihypertensive Agents
+DB00392	Ethopropazine	Drug	Histamine Antagonists, Adrenergic Antagonists, Antidyskinetics, Muscarinic Antagonists
+DB00393	Nimodipine	Drug	Vasodilator Agents, Calcium Channel Blockers, Antihypertensive Agents
+DB00390	Digoxin	Drug	Cardiotonic Agents, Enzyme Inhibitors, Anti-Arrhythmia Agents
+DB00391	Sulpiride	Drug	Antipsychotic Agents, Antidepressive Agents, Second-Generation, Antidepressive Agents, Dopamine Antagonists
+DB01244	Bepridil	Drug	Vasodilator Agents, Calcium Channel Blockers, Antihypertensive Agents, Anti-Arrhythmia Agents
+DB00396	Progesterone	Drug	Contraceptive Agents, Progestins
+DB00397	Phenylpropanolamine	Drug	Adrenergic alpha-Agonists, Appetite Depressants, Sympathomimetics, Nasal Decongestants
+DB01243	Chloroxine	Drug	Anti-seborrheic Agents
+DB00394	Beclomethasone	Drug	Corticosteroids, Anti-Arrhythmia Agents
+DB01242	Clomipramine	Drug	Antidepressive Agents, Tricyclic, Serotonin Uptake Inhibitors
+DB01241	Gemfibrozil	Drug	Hypolipidemic Agents
+DB00395	Carisoprodol	Drug	Neuromuscular Agents, Muscle Relaxants, Central, Muscle Relaxants, Skeletal
+DB01248	Docetaxel	Drug	Antineoplastic Agents
+DB01247	Isocarboxazid	Drug	Monoamine Oxidase Inhibitors, Antidepressive Agents
+DB01246	Alimemazine	Drug	Antipruritics
+DB00398	Sorafenib	Drug	Antineoplastic Agents
+DB00399	Zoledronate	Drug	Bone Density Conservation Agents, Antiresorptives, Bisphosphonates, Antihypocalcemic Agents
+DB01245	Decamethonium	Drug	Neuromuscular Depolarizing Agents
+DB01249	Iodixanol	Drug	Contrast Media
+DB01251	Gliquidone	Drug	Antidiabetic Agents
+DB01250	Olsalazine	Drug	0
+DB01255	Lisdexamfetamine	Drug	0
+DB01254	Dasatinib	Drug	0
+DB01253	Ergonovine	Drug	Oxytocics
+DB01252	Mitiglinide	Drug	Hypoglycemic Agents
+DB01259	Lapatinib	Drug	Protein Kinase Inhibitors, Antineoplastic Agents
+DB01257	Eculizumab	Drug	0
+DB01256	Retapamulin	Drug	Anti-Bacterial Agents
+DB00330	Ethambutol	Drug	Antitubercular Agents
+DB00331	Metformin	Drug	Antidiabetic Agents
+DB00334	Olanzapine	Drug	Antipsychotic Agents
+DB00335	Atenolol	Drug	Sympatholytics, Antihypertensive Agents, Adrenergic beta-1 Receptor Antagonists, Anti-Arrhythmia Agents
+DB00332	Ipratropium bromide	Drug	Cholinergic Antagonists, Antispasmodics, Muscarinic Antagonists, Bronchodilator Agents
+DB00333	Methadone	Drug	Antitussive Agents, Analgesics, Opioid, Narcotics
+DB00338	Omeprazole	Drug	Enzyme Inhibitors, Proton Pump Inhibitors, Anti-Ulcer Agents
+DB00339	Pyrazinamide	Drug	Antitubercular Agents
+DB00336	Nitrofural	Drug	Anti-Infective Agents
+DB00337	Pimecrolimus	Drug	Anti-Inflammatory Agents, Non-Steroidal, Immunosuppressive Agents, Dermatologic Agents
+DB00341	Cetirizine	Drug	Histamine H1 Antagonists, Non-Sedating, Anti-Allergic Agents, Histamine Antagonists
+DB00340	Metixene	Drug	0
+DB00345	Aminohippurate	Drug	Indicators and Reagents, Diagnostic Agents
+DB00346	Alfuzosin	Drug	Antihypertensive Agents, Adrenergic alpha-1 Receptor Antagonists
+DB00343	Diltiazem	Drug	0
+DB00344	Protriptyline	Drug	Adrenergic Uptake Inhibitors, Antidepressive Agents, Tricyclic
+DB00349	Clobazam	Drug	Anticonvulsants, Benzodiazepines
+DB00347	Trimethadione	Drug	Anticonvulsants
+DB00348	Nitisinone	Drug	0
+DB01200	Bromocriptine	Drug	Antiparkinson Agents, Antidyskinetics, Hormone Antagonists, Dopamine Agonists
+DB00352	Tioguanine	Drug	Antimetabolites, Antineoplastic
+DB04711	Iodipamide	Drug	Contrast Media
+DB00353	Methylergometrine	Drug	Oxytocics
+DB00350	Minoxidil	Drug	Vasodilator Agents, Antihypertensive Agents
+DB00351	Megestrol acetate	Drug	Appetite Stimulants, Antineoplastic Agents, Hormonal
+DB00356	Chlorzoxazone	Drug	Muscle Relaxants, Central
+DB01204	Mitoxantrone	Drug	Analgesics, Antineoplastic Agents
+DB01203	Nadolol	Drug	0
+DB00357	Aminoglutethimide	Drug	Aromatase Inhibitors, Antineoplastic Agents, Hormonal
+DB01202	Levetiracetam	Drug	Anticonvulsants, Nootropic Agents
+DB00354	Buclizine	Drug	Cholinergic Antagonists, Histamine Antagonists
+DB01201	Rifapentine	Drug	Antibiotics, Antitubercular, Antimycobacterials, Leprostatic Agents
+DB00355	Aztreonam	Drug	Anti-Bacterial Agents
+DB01208	Sparfloxacin	Drug	0
+DB01207	Ridogrel	Drug	Enzyme Inhibitors, Platelet Aggregation Inhibitors, Thrombolytic Agents, Gastrointestinal Agents
+DB01206	Lomustine	Drug	Antineoplastic Agents, Alkylating
+DB00358	Mefloquine	Drug	Antimalarials
+DB00359	Sulfadiazine	Drug	Coccidiostats, Antiprotozoal Agents, Anti-Infective Agents
+DB01205	Flumazenil	Drug	Antidotes, GABA Modulators
+DB01209	Dezocine	Drug	Analgesics, Opioid
+DB00360	Tetrahydrobiopterin	Drug	Dietary Supplements, Supplements
+DB00363	Clozapine	Drug	Antipsychotic Agents, Serotonin Antagonists, GABA Antagonists
+DB01211	Clarithromycin	Drug	Anti-Bacterial Agents, Macrolides, Protein Synthesis Inhibitors
+DB01210	Levobunolol	Drug	Sympatholytics, EENT Preparations, Adrenergic beta-Antagonists
+DB00364	Sucralfate	Drug	0
+DB00361	Vinorelbine	Drug	Antineoplastic Agents, Phytogenic
+DB00362	Anidulafungin	Drug	Antifungal Agents
+DB02546	Vorinostat	Drug	Antineoplastic Agents, Histone Deacetylase Inhibitors
+DB01215	Estazolam	Drug	0
+DB00367	Levonorgestrel	Drug	Contraceptive Agents, Contraceptives, Oral, Synthetic, Contraceptive Agents, Female
+DB01214	Metipranolol	Drug	Sympatholytics, Adrenergic beta-Antagonists, Antihypertensive Agents, Anti-Arrhythmia Agents
+DB00368	Norepinephrine	Drug	Adrenergic alpha-Agonists, Sympathomimetics, Vasoconstrictor Agents
+DB01213	Fomepizole	Drug	Antidotes
+DB01212	Ceftriaxone	Drug	Anti-Bacterial Agents, Cephalosporins
+DB00366	Doxylamine	Drug	Histamine H1 Antagonists, Antiemetics
+DB01219	Dantrolene	Drug	Muscle Relaxants, Central
+DB01218	Halofantrine	Drug	Antiprotozoal Agents, Antimalarials
+DB00369	Cidofovir	Drug	Antineoplastic Agents, Antiviral Agents, Anti-HIV Agents, Radiation-Sensitizing Agents
+DB01217	Anastrozole	Drug	Aromatase Inhibitors, Antineoplastic Agents, Hormonal
+DB01216	Finasteride	Drug	5-alpha Reductase Inhibitors, Skin and Mucous Membrane Agents
+DB04339	Carbocisteine	Drug	0
+DB05679	Ustekinumab	Drug	0
+DB02187	Equilin	Drug	0
+DB01262	Decitabine	Drug	Enzyme Inhibitors, Teratogens, Antimetabolites, Antineoplastic
+DB01261	Sitagliptin	Drug	Dipeptidyl-Peptidase IV Inhibitors
+DB01260	Desonide	Drug	0
+DB01266	Kunecatechins	Drug	0
+DB01265	Telbivudine	Drug	0
+DB01264	Darunavir	Drug	HIV Protease Inhibitors
+DB01263	Posaconazole	Drug	Antifungal Agents
+DB01269	Panitumumab	Drug	0
+DB01268	Sunitinib	Drug	0
+DB01267	Paliperidone	Drug	Antipsychotic Agents
+DB01273	Varenicline	Drug	Nicotinic Agonists
+DB01272	Alglucosidase alfa	Drug	Enzyme Replacement Agents
+DB01271	Idursulfase	Drug	Enzyme Replacement Agents
+DB01270	Ranibizumab	Drug	Ophthalmics
+DB01277	Mecasermin	Drug	0
+DB01276	Exenatide	Drug	Hypoglycemic Agents
+DB01275	Hydralazine	Drug	0
+DB01274	Arformoterol	Drug	Bronchodilator Agents, Adrenergic beta-2 Receptor Agonists
+DB05630	Sodium stibogluconate	Drug	Antineoplastic Agents
+DB01279	Galsulfase	Drug	Enzyme Replacement Agents
+DB01278	Pramlintide	Drug	0
+DB04786	Suramin	Drug	Trypanocidal Agents, Antineoplastic Agents, Antinematodal Agents
+DB01280	Nelarabine	Drug	0
+DB01284	Cosyntropin	Drug	Hormones, Diagnostic Agents
+DB01283	Lumiracoxib	Drug	Cyclooxygenase 2 Inhibitors
+DB01282	Carbetocin	Drug	Anti-tocolytic Agents, Oxytocics, Delayed-Action Preparations, Labor Induction Agents
+DB01281	Abatacept	Drug	Immunosuppressive Agents, Antirheumatic Agents
+DB01288	Fenoterol	Drug	Sympathomimetics, Bronchodilator Agents, Adrenergic beta-2 Receptor Agonists, Tocolytic Agents
+DB01285	Corticotropin	Drug	Hormones, Diagnostic Agents
+DB04794	Bifonazole	Drug	Antifungal Agents
+DB01289	Glisoxepide	Drug	0
+DB01291	Pirbuterol	Drug	Cardiotonic Agents, Bronchodilator Agents, Adrenergic beta-2 Receptor Agonists
+DB01295	Bevantolol	Drug	Adrenergic beta-1 Receptor Antagonists
+DB01294	Bismuth Subsalicylate	Drug	Antidiarrheals
+DB01299	Sulfadoxine	Drug	0
+DB01298	Sulfacytine	Drug	Sulfonamides
+DB01297	Practolol	Drug	Adrenergic beta-1 Receptor Antagonists, Anti-Arrhythmia Agents
+DB01296	Glucosamine	Drug	0
+DB00808	Indapamide	Drug	Sodium Chloride Symporter Inhibitors, Diuretics, Antihypertensive Agents
+DB00809	Tropicamide	Drug	Mydriatics, Muscarinic Antagonists, Diagnostic Agents
+DB00806	Pentoxifylline	Drug	Radiation-Protective Agents, Hemorrheologic Agents, Phosphodiesterase Inhibitors, Vasodilator Agents, Platelet Aggregation Inhibitors, Free Radical Scavengers, Hematologic Agents
+DB00807	Proparacaine	Drug	Anesthetics, Local
+DB06594	Agomelatine	Drug	Antidepressive Agents
+DB05265	Ecabet	Drug	0
+DB05266	Ibudilast	Drug	Phosphodiesterase Inhibitors, Vasodilator Agents, Platelet Aggregation Inhibitors, Bronchodilator Agents
+DB06590	Ceftaroline fosamil	Drug	Cephalosporins, Antibiotics
+DB05260	Gallium nitrate	Drug	0
+DB05269	AST-120	Drug	0
+DB00811	Ribavirin	Drug	Antiviral Agents, Antimetabolites
+DB00812	Phenylbutazone	Drug	Anti-Inflammatory Agents, Non-Steroidal
+DB00810	Biperiden	Drug	Antiparkinson Agents, Parasympatholytics, Antidyskinetics, Muscarinic Antagonists
+DB00815	Sodium lauryl sulfate	Drug	Surface-Active Agents
+DB00816	Orciprenaline	Drug	Sympathomimetics, Bronchodilator Agents, Adrenergic beta-2 Receptor Agonists, Tocolytic Agents
+DB00813	Fentanyl	Drug	Analgesics, Opioid, Narcotics, Anesthetics, Intravenous, Adjuvants, Adjuvants, Anesthesia
+DB00814	Meloxicam	Drug	Anti-Inflammatory Agents, Non-Steroidal, Cyclooxygenase Inhibitors
+DB00819	Acetazolamide	Drug	Anticonvulsants, Carbonic Anhydrase Inhibitors, Diuretics
+DB00817	Rosoxacin	Drug	Anti-Infective Agents
+DB00818	Propofol	Drug	Anesthetics, Intravenous, Hypnotics and Sedatives
+DB05275	transdermal testosterone gel	Drug	0
+DB05276	hepatitis B immune globulin	Drug	0
+DB05271	Rotigotine	Drug	Antidyskinetics
+DB05273	Samarium (153sm) lexidronam	Drug	0
+DB05278	inhaled insulin	Drug	0
+DB00822	Disulfiram	Drug	Enzyme Inhibitors, Alcohol Deterrents
+DB00823	Ethynodiol	Drug	Contraceptives, Oral, Synthetic
+DB00820	Tadalafil	Drug	Vasodilator Agents, Phosphodiesterase 5 Inhibitors
+DB00821	Carprofen	Drug	Anti-Inflammatory Agents, Non-Steroidal, Photosensitizing Agents
+DB00826	Natamycin	Drug	Macrolides
+DB00827	Cinoxacin	Drug	0
+DB00824	Enprofylline	Drug	Anti-Asthmatic Agents, Bronchodilator Agents, Adenosine A2 Receptor Antagonists, Anti-Arrhythmia Agents
+DB00825	Menthol	Drug	Antipruritics
+DB00828	Fosfomycin	Drug	Anti-Bacterial Agents
+DB00829	Diazepam	Drug	Anticonvulsants, GABA Modulators, Antiemetics, Anesthetics, Intravenous, Muscle Relaxants, Central, Anti-Anxiety Agents, Hypnotics and Sedatives, Adjuvants, Anesthesia
+DB08796	Pipazethate	Drug	Antitussive Agents
+DB08797	Salicylamide	Drug	Anti-Inflammatory Agents, Non-Steroidal
+DB08795	Azidocillin	Drug	Anti-Bacterial Agents, Penicillins
+DB08792	Diloxanide	Drug	Amebicides
+DB00830	Phenmetrazine	Drug	Central Nervous System Stimulants, Appetite Depressants, Sympathomimetics
+DB08798	Sulfamoxole	Drug	Anti-Bacterial Agents, Anti-Infective Agents
+DB08799	Antazoline	Drug	Histamine H1 Antagonists, Anti-Allergic Agents, Histamine Antagonists
+DB00833	Cefaclor	Drug	Anti-Bacterial Agents, Cephalosporins
+DB00834	Mifepristone	Drug	Contraceptives, Postcoital, Synthetic, Contraceptives, Oral, Synthetic, Menstruation-Inducing Agents, Hormone Antagonists, Luteolytic Agents, Abortifacient Agents, Steroidal
+DB00831	Trifluoperazine	Drug	Antipsychotic Agents, Phenothiazines, Antiemetics, Dopamine Antagonists
+DB00832	Phensuximide	Drug	Anticonvulsants
+DB00837	Progabide	Drug	Anticonvulsants, GABA Agonists, Antiparkinson Agents, Antidyskinetics, Antidepressive Agents
+DB00838	Clocortolone	Drug	Corticosteroids
+DB00835	Brompheniramine	Drug	Histamine H1 Antagonists, Anti-Allergic Agents
+DB00836	Loperamide	Drug	Antidiarrheals
+DB00839	Tolazamide	Drug	0
+DB06144	Sertindole	Drug	Antipsychotic Agents
+DB05294	Vandetanib	Drug	0
+DB00840	Hydroxypropyl cellulose	Drug	Artificial Tears, Ophthalmics
+DB06148	Mianserin	Drug	Histamine H1 Antagonists, Adrenergic alpha-Antagonists, Serotonin Antagonists, Antidepressive Agents, Second-Generation
+DB06147	Sulfathiazole	Drug	Anti-Infective Agents
+DB00841	Dobutamine	Drug	Cardiotonic Agents, Sympathomimetics, Adrenergic beta-1 Receptor Agonists
+DB06149	Teicoplanin	Drug	Anti-Bacterial Agents
+DB00844	Nalbuphine	Drug	0
+DB00845	Clofazimine	Drug	Anti-Inflammatory Agents, Non-Steroidal, Dyes, Coloring Agents, Antimycobacterials, Leprostatic Agents
+DB00842	Oxazepam	Drug	GABA Modulators, Anti-Anxiety Agents, Hypnotics and Sedatives
+DB00843	Donepezil	Drug	0
+DB00849	Methylphenobarbital	Drug	Anticonvulsants, GABA Modulators, Hypnotics and Sedatives
+DB00846	Flurandrenolide	Drug	Glucocorticoids, Anti-Inflammatory Agents
+DB00847	Cysteamine	Drug	Radiation-Protective Agents, Ophthalmics
+DB05245	Silver sulfadiazine	Drug	Anti-Bacterial Agents, Antibiotics, Topical, Sulfonamides, Anti-Infective Agents, Local
+DB05246	Methsuximide	Drug	Anticonvulsants, Succinimides
+DB05258	Natural alpha interferon	Drug	Antineoplastic Agents
+DB06589	Pazopanib	Drug	0
+DB05259	Glatiramer Acetate	Drug	Immunosuppressive Agents, Adjuvants, Immunologic
+DB00800	Fenoldopam	Drug	Vasodilator Agents, Antihypertensive Agents, Dopamine Agonists
+DB00801	Halazepam	Drug	Neuromuscular Agents, Anti-Anxiety Agents, Hypnotics and Sedatives, Benzodiazepines
+DB00804	Dicyclomine	Drug	Cholinergic Antagonists, Parasympatholytics, Antispasmodics, Muscarinic Antagonists
+DB00805	Minaprine	Drug	Antidepressive Agents
+DB00802	Alfentanil	Drug	Analgesics, Opioid, Narcotics, Anesthetics, Intravenous
+DB00803	Colistin	Drug	Anti-Bacterial Agents
+DB06196	Icatibant	Drug	Anti-Inflammatory Agents, Non-Steroidal, Adrenergic beta-Antagonists
+DB00891	Sulfapyridine	Drug	Sulfonamides, Dermatologic Agents, Anti-Infective Agents
+DB00892	Oxybuprocaine	Drug	Anesthetics, Local
+DB00890	Dienestrol	Drug	Estrogens, Non-Steroidal
+DB00895	Benzylpenicilloyl Polylysine	Drug	0
+DB00411	Carbachol	Drug	Cardiotonic Agents, Analgesics, Non-Narcotic, Cholinergic Agonists, Miotics
+DB00896	Rimexolone	Drug	Corticosteroids
+DB00412	Rosiglitazone	Drug	0
+DB00893	Iron Dextran	Drug	Hematinics, Anti-anemic Agents, Supplements
+DB00410	Mupirocin	Drug	Anti-Bacterial Agents, Antibiotics, Protein Synthesis Inhibitors
+DB00894	Testolactone	Drug	Antineoplastic Agents, Hormonal
+DB00899	Remifentanil	Drug	Analgesics, Opioid, Anesthetics, Intravenous, Hypnotics and Sedatives
+DB00415	Ampicillin	Drug	Anti-Bacterial Agents, Penicillins
+DB00413	Pramipexole	Drug	Antioxidants, Antiparkinson Agents, Antidyskinetics, Dopamine Agonists
+DB00897	Triazolam	Drug	GABA Modulators, Anti-Anxiety Agents, Adjuvants, Anesthesia, Benzodiazepines
+DB00898	Ethanol	Drug	Solvents, Central Nervous System Depressants, Anti-Infective Agents, Local
+DB00419	Miglustat	Drug	Enzyme Inhibitors
+DB00417	Penicillin V	Drug	Anti-Bacterial Agents, Penicillins
+DB00418	Secobarbital	Drug	GABA Modulators, Adjuvants, Hypnotics and Sedatives, Adjuvants, Anesthesia, Barbiturates
+DB00422	Methylphenidate	Drug	Central Nervous System Stimulants, Dopamine Uptake Inhibitors
+DB00423	Methocarbamol	Drug	Muscle Relaxants, Central
+DB00420	Promazine	Drug	Antipsychotic Agents, Phenothiazines, Antiemetics, Dopamine Antagonists
+DB00421	Spironolactone	Drug	Diuretics, Mineralocorticoid Receptor Antagonists
+DB00426	Famciclovir	Drug	Prodrugs, Nucleic Acids, Nucleotides, and Nucleosides, Antiviral Agents
+DB00427	Triprolidine	Drug	0
+DB00424	Hyoscyamine	Drug	Antispasmodics, Muscarinic Antagonists, Anti-Arrhythmia Agents
+DB00425	Zolpidem	Drug	GABA-A Receptor Agonists, Hypnotics and Sedatives
+DB00428	Streptozocin	Drug	Antibiotics, Antibiotics, Antineoplastic
+DB00429	Carboprost Tromethamine	Drug	0
+DB00430	Cefpiramide	Drug	Anti-Bacterial Agents, Cephalosporins
+DB00433	Prochlorperazine	Drug	Antipsychotic Agents, Phenothiazines, Antiemetics, Dopamine Antagonists
+DB01764	Dalfopristin	Drug	Anti-Bacterial Agents
+DB00434	Cyproheptadine	Drug	Histamine H1 Antagonists, Anti-Allergic Agents, Serotonin Antagonists, Antipruritics, Gastrointestinal Agents
+DB00431	Lindane	Drug	Antiscabies Agents, Insecticides
+DB00432	Trifluridine	Drug	Antiviral Agents, Antimetabolites
+DB00437	Allopurinol	Drug	Enzyme Inhibitors, Gout Suppressants, Free Radical Scavengers, Antimetabolites
+DB00438	Ceftazidime	Drug	Anti-Bacterial Agents, Cephalosporins
+DB00435	Nitric Oxide	Drug	Endothelium-Dependent Relaxing Factors, Neurotransmitter Agents, Free Radical Scavengers, Bronchodilator Agents
+DB00436	Bendroflumethiazide	Drug	Sodium Chloride Symporter Inhibitors, Diuretics, Antihypertensive Agents
+DB00440	Trimethoprim	Drug	Anti-Infective Agents
+DB00441	Gemcitabine	Drug	Enzyme Inhibitors, Immunosuppressive Agents, Antimetabolites, Antineoplastic, Antiviral Agents, Radiation-Sensitizing Agents
+DB00444	Teniposide	Drug	Enzyme Inhibitors, Nucleic Acid Synthesis Inhibitors, Antineoplastic Agents
+DB00445	Epirubicin	Drug	Antibiotics, Antineoplastic
+DB00442	Entecavir	Drug	0
+DB00443	Betamethasone	Drug	Corticosteroids, Glucocorticoids, Anti-Asthmatic Agents, Anti-Inflammatory Agents
+DB00448	Lansoprazole	Drug	Enzyme Inhibitors, Proton Pump Inhibitors, Anti-Ulcer Agents, Anti-Infective Agents
+DB00449	Dipivefrin	Drug	Adrenergic Agonists, Ophthalmics
+DB00446	Chloramphenicol	Drug	Anti-Bacterial Agents, Protein Synthesis Inhibitors
+DB06155	Rimonabant	Drug	0
+DB06151	Acetylcysteine	Drug	Expectorants, Free Radical Scavengers, Antiviral Agents
+DB06150	Sulfadimethoxine	Drug	Anti-Infective Agents
+DB00851	Dacarbazine	Drug	Antineoplastic Agents, Alkylating
+DB00852	Pseudoephedrine	Drug	0
+DB00850	Perphenazine	Drug	Antipsychotic Agents, Phenothiazines, Dopamine Antagonists
+DB00855	Aminolevulinic acid	Drug	Photosensitizing Agents
+DB00856	Chlorphenesin	Drug	Muscle Relaxants, Central
+DB00853	Temozolomide	Drug	Antineoplastic Agents, Alkylating
+DB00854	Levorphanol	Drug	Analgesics, Opioid, Narcotics
+DB00859	Penicillamine	Drug	Antidotes, Antirheumatic Agents, Chelating Agents
+DB00857	Terbinafine	Drug	Antifungal Agents
+DB00858	Drostanolone	Drug	0
+DB06168	Canakinumab	Drug	Anti-Inflammatory Agents, Monoclonal antibodies
+DB00862	Vardenafil	Drug	Vasodilator Agents, Phosphodiesterase 5 Inhibitors, Anti-Impotence Agents
+DB00863	Ranitidine	Drug	Anti-Ulcer Agents, Histamine H2 Antagonists
+DB00860	Prednisolone	Drug	Antineoplastic Agents, Hormonal, Glucocorticoids, Anti-Inflammatory Agents
+DB00861	Diflunisal	Drug	Anti-Inflammatory Agents, Non-Steroidal
+DB00866	Alprenolol	Drug	Sympatholytics, Adrenergic beta-Antagonists, Antihypertensive Agents, Anti-Arrhythmia Agents
+DB00867	Ritodrine	Drug	Sympathomimetics, Adrenergic beta-2 Receptor Agonists, Tocolytic Agents
+DB00864	Tacrolimus	Drug	0
+DB00865	Benzphetamine	Drug	Central Nervous System Stimulants, Adrenergic Uptake Inhibitors, Sympathomimetics, Adrenergic Agents, Dopamine Agents, Dopamine Uptake Inhibitors
+DB00868	Benzonatate	Drug	Antitussive Agents
+DB00869	Dorzolamide	Drug	0
+DB00870	Suprofen	Drug	Anti-Inflammatory Agents, Non-Steroidal, Cyclooxygenase Inhibitors
+DB00873	Loteprednol	Drug	Anti-Allergic Agents
+DB00874	Guaifenesin	Drug	Expectorants
+DB00871	Terbutaline	Drug	Sympathomimetics, Bronchodilator Agents, Adrenergic beta-2 Receptor Agonists, Tocolytic Agents
+DB00872	Conivaptan	Drug	0
+DB00877	Sirolimus	Drug	Anti-Bacterial Agents, Immunosuppressive Agents, Macrolides, Antifungal Agents, Antibiotics, Antineoplastic
+DB00878	Chlorhexidine	Drug	Mouthwashes, Disinfectants, Anti-Infective Agents, Anti-Infective Agents, Local
+DB00875	Flupentixol	Drug	Antipsychotic Agents, Thioxanthenes, Dopamine Antagonists
+DB00876	Eprosartan	Drug	0
+DB00879	Emtricitabine	Drug	0
+DB06186	Ipilimumab	Drug	Antineoplastic Agents, Monoclonal antibodies
+DB00880	Chlorothiazide	Drug	Sodium Chloride Symporter Inhibitors, Diuretics, Antihypertensive Agents
+DB00881	Quinapril	Drug	Angiotensin-Converting Enzyme Inhibitors, Antihypertensive Agents
+DB00884	Risedronate	Drug	Calcium Channel Blockers, Bone Density Conservation Agents, Antiresorptives, Bisphosphonates, Antihypocalcemic Agents
+DB00400	Griseofulvin	Drug	Anti-Bacterial Agents, Antifungal Agents
+DB00401	Nisoldipine	Drug	Vasodilator Agents, Calcium Channel Blockers, Antihypertensive Agents
+DB00885	Pemirolast	Drug	Histamine Antagonists, Ophthalmics
+DB00882	Clomifene	Drug	Estrogen Antagonists, Selective Estrogen Receptor Modulators, Fertility Agents, Female
+DB00883	Isosorbide Dinitrate	Drug	Nitric Oxide Donors, Vasodilator Agents
+DB00404	Alprazolam	Drug	GABA Modulators, Anti-Anxiety Agents, Hypnotics and Sedatives, Benzodiazepines
+DB00888	Mechlorethamine	Drug	Chemical Warfare Agents, Alkylating Agents, Irritants, Antineoplastic Agents, Alkylating
+DB00405	Dexbrompheniramine	Drug	Histamine H1 Antagonists, Histamine Antagonists
+DB00889	Granisetron	Drug	Serotonin Antagonists, Antiemetics
+DB00402	Eszopiclone	Drug	Hypnotics and Sedatives
+DB00887	Bumetanide	Drug	Sodium Potassium Chloride Symporter Inhibitors, Diuretics
+DB00403	Ceruletide	Drug	Diagnostic Agents
+DB00408	Loxapine	Drug	Antipsychotic Agents, Dopamine Antagonists
+DB00409	Remoxipride	Drug	Antipsychotic Agents, Dopamine Antagonists
+DB00406	Gentian Violet	Drug	Anti-Infective Agents, Local
+DB00407	Ardeparin	Drug	Antithrombins, Heparins
+DB00491	Miglitol	Drug	0
+DB00492	Fosinopril	Drug	0
+DB00490	Buspirone	Drug	Serotonin Receptor Agonists, Anti-Anxiety Agents, Hypnotics and Sedatives
+DB00495	Zidovudine	Drug	Reverse Transcriptase Inhibitors, Anti-HIV Agents, Antimetabolites
+DB00011	Interferon alfa-n1	Drug	Immunologic Factors, Immunosuppressive Agents, Antiviral Agents
+DB01342	Forasartan	Drug	Angiotensin Receptor Antagonists
+DB00012	Darbepoetin alfa	Drug	Hematinics, Anti-anemic Agents
+DB00496	Darifenacin	Drug	Antispasmodic Agents
+DB04855	Dronedarone	Drug	Anti-Arrhythmia Agents
+DB00493	Cefotaxime	Drug	Anti-Bacterial Agents, Cephalosporins
+DB01340	Cilazapril	Drug	Angiotensin-Converting Enzyme Inhibitors, Antihypertensive Agents
+DB00494	Entacapone	Drug	Enzyme Inhibitors, Antiparkinson Agents, Antidyskinetics
+DB00010	Sermorelin	Drug	Hormone Replacement Agents
+DB00015	Reteplase	Drug	Fibrinolytic Agents, Thrombolytic Agents
+DB01347	Saprisartan	Drug	0
+DB00499	Flutamide	Drug	Antineoplastic Agents, Hormonal, Androgen Antagonists
+DB00016	Epoetin alfa	Drug	Hematinics, Anti-anemic Agents
+DB01346	Quinidine barbiturate	Drug	0
+DB00497	Oxycodone	Drug	Antitussive Agents, Analgesics, Opioid, Narcotics
+DB00013	Urokinase	Drug	Thrombolytic Agents
+DB01344	Polystyrene sulfonate	Drug	0
+DB00014	Goserelin	Drug	0
+DB00498	Phenindione	Drug	Anticoagulants
+DB00019	Pegfilgrastim	Drug	Immunosuppressive Agents, Antineutropenic Agents
+DB00017	Salmon Calcitonin	Drug	Antihypercalcemic Agents, Bone Density Conservation Agents, Anti-Osteporotic Agents
+DB01349	Tasosartan	Drug	0
+DB00018	Interferon alfa-n3	Drug	Immunosuppressive Agents
+DB01348	Spirapril	Drug	0
+DB00022	Peginterferon alfa-2b	Drug	Immunosuppressive Agents
+DB01354	Heptabarbital	Drug	Barbiturates
+DB01353	Butethal	Drug	Hypnotics and Sedatives, Barbiturates
+DB00023	Asparaginase	Drug	Antineoplastic Agents
+DB04865	Homoharringtonine	Drug	Antineoplastic Agents, Phytogenic, Antineoplastic Agents, Angiogenesis Inhibitors
+DB01352	Aprobarbital	Drug	0
+DB00020	Sargramostim	Drug	Immunosuppressive Agents
+DB00021	Secretin	Drug	Diagnostic Agents
+DB01351	Amobarbital	Drug	0
+DB00026	Anakinra	Drug	Immunosuppressive Agents, Antirheumatic Agents
+DB04861	Nebivolol	Drug	Vasodilator Agents, Antihypertensive Agents, Adrenergic beta-1 Receptor Antagonists
+DB01357	Mestranol	Drug	0
+DB00027	Gramicidin D	Drug	Anti-Bacterial Agents, Antibiotics, Topical, Antibiotics, Anti-Infective Agents
+DB00024	Thyrotropin Alfa	Drug	Diagnostic Agents
+DB01356	Lithium	Drug	0
+DB00025	Antihemophilic Factor	Drug	Thrombotic Agents, Coagulants
+DB01355	Hexobarbital	Drug	GABA Modulators, Adjuvants, Hypnotics and Sedatives, Barbiturates
+DB00028	Intravenous Immunoglobulin	Drug	Immunologic Factors, Immunosuppressive Agents, Anti-Infective Agents
+DB00029	Anistreplase	Drug	Fibrinolytic Agents, Thrombolytic Agents
+DB01359	Penbutolol	Drug	Adrenergic beta-Antagonists, Antihypertensive Agents
+DB04868	Nilotinib	Drug	Antineoplastic Agents
+DB01361	Troleandomycin	Drug	Anti-Bacterial Agents, Macrolides
+DB00030	Insulin Regular	Drug	Antidiabetic Agents
+DB00033	Interferon gamma-1b	Drug	Immunosuppressive Agents
+DB01365	Mephentermine	Drug	Sympathomimetics, Vasoconstrictor Agents, Adrenergic alpha-1 Receptor Agonists
+DB04876	Vildagliptin	Drug	Dipeptidyl-Peptidase IV Inhibitors, Antidiabetic Agents
+DB00034	Interferon Alfa-2a, Recombinant	Drug	0
+DB01364	Ephedrine	Drug	0
+DB00031	Tenecteplase	Drug	Fibrinolytic Agents, Thrombolytic Agents
+DB04877	Voacamine	Drug	Antimalarials
+DB01363	Ephedra	Drug	0
+DB00032	Menotropins	Drug	Fertility Agents, Female, Fertility Agents
+DB01362	Iohexol	Drug	Contrast Media
+DB04878	Voglibose	Drug	0
+DB04871	Lorcaserin	Drug	0
+DB01369	Quinupristin	Drug	Anti-Bacterial Agents
+DB00038	Oprelvekin	Drug	Thrombotic Agents, Antineoplastic Agents, Coagulants
+DB00035	Desmopressin	Drug	Renal Agents, Hemostatics, Antidiuretic Agents
+DB01367	Rasagiline	Drug	Neuroprotective Agents, Monoamine Oxidase Inhibitors
+DB00036	Coagulation factor VIIa	Drug	Thrombotic Agents, Coagulants
+DB01366	Procaterol	Drug	0
+DB00039	Palifermin	Drug	Anti-Mucositis Agents
+DB04880	Enoximone	Drug	0
+DB00040	Glucagon recombinant	Drug	Hypoglycemic Agents
+DB00041	Aldesleukin	Drug	Antineoplastic Agents, Anti-HIV Agents
+DB01370	Aluminium	Drug	0
+DB00044	Lutropin alfa	Drug	Fertility Agents
+DB00045	OspA lipoprotein	Drug	Vaccines
+DB01375	Dihydroxyaluminium	Drug	0
+DB00042	Botulinum Toxin Type B	Drug	Antidystonic Agents
+DB00043	Omalizumab	Drug	Anti-Allergic Agents, Immunosuppressive Agents, Anti-Asthmatic Agents
+DB00048	Collagenase	Drug	0
+DB00049	Rasburicase	Drug	Gout Suppressants, Antihyperuricemic Agents
+DB00046	Insulin Lispro	Drug	Hypoglycemic Agents, Antidiabetic Agents
+DB01377	Magnesium oxide	Drug	Antacids
+DB00047	Insulin Glargine	Drug	Hypoglycemic Agents, Antidiabetic Agents
+DB00451	Levothyroxine	Drug	0
+DB00452	Framycetin	Drug	Anti-Bacterial Agents, Antibiotics, Aminoglycosides
+DB00450	Droperidol	Drug	Antipsychotic Agents, Antiemetics, Adjuvants, Anesthesia, Dopamine Antagonists
+DB00455	Loratadine	Drug	Histamine H1 Antagonists, Non-Sedating, Anti-Allergic Agents, Histamine Antagonists, Antipruritics
+DB01303	Oxtriphylline	Drug	Bronchodilator Agents
+DB00456	Cefalotin	Drug	Anti-Bacterial Agents, Cephalosporins
+DB01301	Rolitetracycline	Drug	Tetracyclines
+DB00453	Clomocycline	Drug	Tetracyclines
+DB00454	Pethidine	Drug	Adjuvants
+DB02638	Terlipressin	Drug	Vasoconstrictor Agents, Antihypertensive Agents
+DB01307	Insulin Detemir	Drug	Antidiabetic Agents
+DB00459	Acitretin	Drug	Keratolytic Agents
+DB01306	Insulin Aspart	Drug	Hypoglycemic Agents, Antidiabetic Agents
+DB00457	Prazosin	Drug	Adrenergic alpha-Antagonists, Antihypertensive Agents, Adrenergic alpha-1 Receptor Antagonists
+DB00458	Imipramine	Drug	Adrenergic Uptake Inhibitors, Antidepressive Agents, Tricyclic
+DB01309	Insulin Glulisine	Drug	Antidiabetic Agents
+DB00462	Methylscopolamine bromide	Drug	Cholinergic Antagonists, Parasympatholytics, Antispasmodics
+DB00460	Verteporfin	Drug	Antineovascularisation Agents
+DB00461	Nabumetone	Drug	Cyclooxygenase 2 Inhibitors
+DB00467	Enoxacin	Drug	0
+DB00464	Sodium Tetradecyl Sulfate	Drug	Surface-Active Agents, Sclerosing Solutions
+DB00465	Ketorolac	Drug	Anti-Inflammatory Agents, Non-Steroidal, Cyclooxygenase Inhibitors
+DB00468	Quinine	Drug	Analgesics, Non-Narcotic, Antimalarials, Muscle Relaxants, Central
+DB00469	Tenoxicam	Drug	Anti-Inflammatory Agents, Non-Steroidal, Cyclooxygenase Inhibitors
+DB01319	Fosamprenavir	Drug	Prodrugs
+DB00470	Dronabinol	Drug	Analgesics, Non-Narcotic, Cannabinoid Receptor Agonists, Hallucinogens, Psychotropic Drugs
+DB00473	Hexylcaine	Drug	Anesthetics, Local
+DB01321	Josamycin	Drug	Anti-Bacterial Agents, Macrolides
+DB01320	Fosphenytoin	Drug	Anticonvulsants
+DB00474	Methohexital	Drug	Anesthetics, Intravenous, Barbiturates
+DB00471	Montelukast	Drug	Anti-Arrhythmia Agents
+DB00472	Fluoxetine	Drug	Serotonin Agents, Antidepressive Agents, Second-Generation, Serotonin Uptake Inhibitors
+DB01325	Quinethazone	Drug	Sodium Chloride Symporter Inhibitors
+DB00477	Chlorpromazine	Drug	Antipsychotic Agents, Phenothiazines
+DB00478	Rimantadine	Drug	0
+DB01324	Polythiazide	Drug	0
+DB00475	Chlordiazepoxide	Drug	GABA Modulators, Anti-Anxiety Agents, Hypnotics and Sedatives, Adjuvants, Anesthesia, Benzodiazepines
+DB00476	Duloxetine	Drug	0
+DB01329	Cefoperazone	Drug	Anti-Bacterial Agents, Cephalosporins
+DB04839	Cyproterone acetate	Drug	0
+DB02659	Cholic Acid	Drug	0
+DB01328	Cefonicid	Drug	Anti-Bacterial Agents, Cephalosporins
+DB01327	Cefazolin	Drug	Anti-Bacterial Agents, Cephalosporins
+DB00479	Amikacin	Drug	Anti-Bacterial Agents, Aminoglycosides
+DB01326	Cefamandole	Drug	Anti-Bacterial Agents, Cephalosporins
+DB04835	Maraviroc	Drug	0
+DB04837	Clofedanol	Drug	Histamine Antagonists
+DB04838	Cyclandelate	Drug	Vasodilator Agents
+DB00480	Lenalidomide	Drug	Antineoplastic Agents
+DB00481	Raloxifene	Drug	Estrogen Antagonists, Selective Estrogen Receptor Modulators, Bone Density Conservation Agents, Antihypocalcemic Agents
+DB01332	Ceftizoxime	Drug	Anti-Bacterial Agents, Cephalosporins
+DB04842	Fluspirilene	Drug	Antipsychotic Agents, Dopamine Antagonists
+DB00484	Brimonidine	Drug	Adrenergic alpha-2 Receptor Agonists, EENT Preparations, Antihypertensive Agents
+DB00001	Lepirudin	Drug	Antithrombins, Fibrinolytic Agents
+DB04843	Mepenzolate	Drug	Cholinergic Antagonists
+DB00485	Dicloxacillin	Drug	Anti-Bacterial Agents, Penicillins
+DB01331	Cefoxitin	Drug	Anti-Bacterial Agents, Cephalosporins
+DB04844	Tetrabenazine	Drug	Adrenergic Uptake Inhibitors
+DB01330	Cefotetan	Drug	Anti-Bacterial Agents, Cephalosporins
+DB00482	Celecoxib	Drug	0
+DB04845	Ixabepilone	Drug	0
+DB00483	Gallamine Triethiodide	Drug	Neuromuscular Nondepolarizing Agents, Muscle Relaxants, Skeletal, Nicotinic Antagonists
+DB01336	Metocurine	Drug	0
+DB00004	Denileukin diftitox	Drug	Antineoplastic Agents
+DB00488	Altretamine	Drug	Antineoplastic Agents, Alkylating
+DB00005	Etanercept	Drug	Immunosuppressive Agents
+DB00489	Sotalol	Drug	0
+DB04840	Debrisoquin	Drug	Sympatholytics, Antihypertensive Agents, Adrenergic Agents
+DB00486	Nabilone	Drug	0
+DB00002	Cetuximab	Drug	Antineoplastic Agents
+DB04841	Flunarizine	Drug	Vasodilator Agents, Calcium Channel Blockers, Anticonvulsants, Histamine H1 Antagonists
+DB00003	Dornase alfa	Drug	Enzymes
+DB01333	Cefradine	Drug	Anti-Bacterial Agents, Cephalosporins
+DB00487	Pefloxacin	Drug	Nucleic Acid Synthesis Inhibitors, Anti-Infective Agents
+DB00008	Peginterferon alfa-2a	Drug	Immunosuppressive Agents
+DB01339	Vecuronium	Drug	0
+DB00009	Alteplase	Drug	Thrombolytic Agents
+DB01338	Pipecuronium	Drug	Neuromuscular Nondepolarizing Agents, Nicotinic Antagonists
+DB00006	Bivalirudin	Drug	Antithrombins
+DB01337	Pancuronium	Drug	Neuromuscular Nondepolarizing Agents, Nicotinic Antagonists
+DB00007	Leuprolide	Drug	Antineoplastic Agents, Hormonal, Estrogen Antagonists, Fertility Agents, Female
+DB00091	Cyclosporine	Drug	Enzyme Inhibitors, Immunosuppressive Agents, Antirheumatic Agents, Antifungal Agents, Dermatologic Agents
+DB00092	Alefacept	Drug	Immunosuppressive Agents, Dermatologic Agents
+DB00090	Laronidase	Drug	Enzyme Replacement Agents
+DB00095	Efalizumab	Drug	Immunosuppressive Agents
+DB00096	Serum albumin	Drug	Serum substitutes
+DB00093	Felypressin	Drug	Renal Agents, Vasoconstrictor Agents
+DB00094	Urofollitropin	Drug	Fertility Agents
+DB00099	Filgrastim	Drug	Immunosuppressive Agents, Antineutropenic Agents, Hematopoietic Agents
+DB08815	Lurasidone	Drug	0
+DB08816	Ticagrelor	Drug	Platelet Aggregation Inhibitors
+DB00097	Choriogonadotropin alfa	Drug	Gonadotropins, Fertility Agents
+DB08813	Nadroparin	Drug	Antithrombins
+DB06637	Dalfampridine	Drug	Potassium Channel Blockers
+DB08814	Triflusal	Drug	Antithrombins, Platelet Aggregation Inhibitors
+DB00098	Antithymocyte globulin	Drug	Immunologic Factors, Immunosuppressive Agents
+DB08811	Tofisopam	Drug	Antidepressive Agents, Benzodiazepines
+DB08810	Cinitapride	Drug	0
+DB08819	Tafluprost	Drug	Prostaglandins, Synthetic, Ophthalmics
+DB08818	Hyaluronan	Drug	Viscosupplements, Adjuvants, Immunologic
+DB08826	Deferiprone	Drug	Iron Chelating Agents, Chelating Agents
+DB08827	Lomitapide	Drug	Hypolipidemic Agents
+DB08824	Ioflupane I 123	Drug	Diagnostic Agents
+DB06643	Denosumab	Drug	Bone Density Conservation Agents, Monoclonal antibodies
+DB08822	Azilsartan medoxomil	Drug	Angiotensin Receptor Antagonists
+DB08823	Spinosad	Drug	Antiscabies Agents, Insecticides
+DB08820	Ivacaftor	Drug	0
+DB08828	Vismodegib	Drug	0
+DB03147	Flavin adenine dinucleotide	Drug	0
+DB08835	Spaglumic Acid	Drug	Mast Cell Stabilizers
+DB08834	Tauroursodeoxycholic acid	Drug	Cholagogues and Choleretics, Antiviral Agents, Cholesterol Absorption Inhibitors
+DB06655	Liraglutide	Drug	0
+DB06663	Pasireotide	Drug	0
+DB05332	Romiplostim	Drug	Thrombopoietic Agents, Colony-Stimulating Factors
+DB08847	Hydroxyproline	Drug	0
+DB08842	Acetylcarnitine	Drug	Vitamin B Complex, Nootropic Agents
+DB04890	Bepotastine	Drug	Mast Cell Stabilizers
+DB00051	Adalimumab	Drug	Immunosuppressive Agents, Anti-Inflammatory Agents, Antirheumatic Agents
+DB00052	Somatropin recombinant	Drug	Hormone Replacement Agents
+DB01382	Glycodiazine	Drug	0
+DB01381	Ginkgo biloba	Drug	0
+DB00050	Cetrorelix	Drug	Hormone Antagonists, Fertility Agents
+DB01380	Cortisone acetate	Drug	Corticosteroids
+DB00055	Drotrecogin alfa	Drug	Antisepsis
+DB04897	Lucinactant	Drug	Pulmonary Surfactants
+DB00056	Gemtuzumab ozogamicin	Drug	Immunotoxins, Antineoplastic Agents
+DB04898	Ximelagatran	Drug	Antithrombins
+DB00053	Imiglucerase	Drug	Enzyme Replacement Agents
+DB04899	Nesiritide	Drug	Natriuretic Agents, Cardiovascular Agents
+DB00054	Abciximab	Drug	Anticoagulants, Platelet Aggregation Inhibitors
+DB01384	Paramethasone	Drug	0
+DB00059	Pegaspargase	Drug	Antineoplastic Agents
+DB04894	Vapreotide	Drug	Analgesics, Antineoplastic Agents
+DB00057	Satumomab Pendetide	Drug	Diagnostic Agents
+DB04895	Pegaptanib	Drug	0
+DB04896	Milnacipran	Drug	Adrenergic Uptake Inhibitors, Antidepressive Agents, Serotonin Uptake Inhibitors
+DB00058	Alpha-1-proteinase inhibitor	Drug	Serine Proteinase Inhibitors, Enzyme Replacement Agents, Trypsin Inhibitors
+DB01390	Sodium bicarbonate	Drug	0
+DB01394	Colchicine	Drug	Gout Suppressants, Tubulin Modulators
+DB00062	Human Serum Albumin	Drug	Serum substitutes
+DB00063	Eptifibatide	Drug	Platelet Aggregation Inhibitors
+DB01393	Bezafibrate	Drug	Hypolipidemic Agents
+DB01392	Yohimbine	Drug	Mydriatics, Adrenergic alpha-2 Receptor Antagonists
+DB00060	Interferon beta-1a	Drug	Immunologic Factors, Immunosuppressive Agents, Antineoplastic Agents, Antiviral Agents
+DB00061	Pegademase bovine	Drug	Enzyme Replacement Agents
+DB00066	Follitropin beta	Drug	Fertility Agents
+DB01398	Salicylate-sodium	Drug	Anti-Inflammatory Agents, Non-Steroidal, Salicylates
+DB01397	Magnesium salicylate	Drug	0
+DB00067	Vasopressin	Drug	Antidiuretic Agents
+DB01396	Digitoxin	Drug	Cardiotonic Agents, Enzyme Inhibitors, Anti-Arrhythmia Agents
+DB06605	Apixaban	Drug	0
+DB00064	Serum albumin iodonated	Drug	Diagnostic Agents
+DB01395	Drospirenone	Drug	Mineralocorticoid Receptor Antagonists
+DB00065	Infliximab	Drug	Anti-Inflammatory Agents, Non-Steroidal, Immunosuppressive Agents, Antirheumatic Agents, Dermatologic Agents, Gastrointestinal Agents
+DB00068	Interferon beta-1b	Drug	Immunosuppressive Agents, Adjuvants, Immunologic
+DB00069	Interferon alfacon-1	Drug	Immunosuppressive Agents, Antiviral Agents
+DB01399	Salsalate	Drug	Anti-Inflammatory Agents, Non-Steroidal
+DB00070	Hyaluronidase	Drug	Permeabilizing Agents, Adjuvants, Anesthesia
+DB00073	Rituximab	Drug	Immunologic Factors, Antineoplastic Agents, Antirheumatic Agents
+DB00074	Basiliximab	Drug	Immunosuppressive Agents
+DB00071	Insulin, porcine	Drug	Hypoglycemic Agents
+DB00072	Trastuzumab	Drug	Antineoplastic Agents
+DB06614	Peramivir	Drug	0
+DB00078	Ibritumomab	Drug	0
+DB06616	Bosutinib	Drug	0
+DB00075	Muromonab	Drug	Immunologic Factors, Immunosuppressive Agents
+DB00076	Digoxin Immune Fab (Ovine)	Drug	Antidotes
+DB00080	Daptomycin	Drug	0
+DB00081	Tositumomab	Drug	0
+DB00085	Pancrelipase	Drug	Enzyme Replacement Agents, Gastrointestinal Agents
+DB00082	Pegvisomant	Drug	Hormone Replacement Agents
+DB00083	Botulinum Toxin Type A	Drug	Antidystonic Agents, Neuromuscular Blocking Agents, Anti-Wrinkle Agents
+DB08804	Nandrolone decanoate	Drug	Anabolic Agents
+DB05777	ART-123	Drug	0
+DB00088	Alglucerase	Drug	Enzyme Replacement Agents
+DB00089	Capromab	Drug	Indicators and Reagents, Diagnostic Agents
+DB08802	Isothipendyl	Drug	Histamine Antagonists, Antipruritics
+DB00086	Streptokinase	Drug	Fibrinolytic Agents, Thrombolytic Agents
+DB00087	Alemtuzumab	Drug	0
+DB08803	Tymazoline	Drug	0
+DB06626	Axitinib	Drug	0
+DB08800	Chloropyramine	Drug	Histamine H1 Antagonists, Histamine Antagonists
+DB05773	ado-trastuzumab emtansine	Drug	Tubulin Modulators, Antineoplastic Agents, Monoclonal antibodies
+DB08801	Dimetindene	Drug	Histamine H1 Antagonists, Anti-Allergic Agents, Cholinergic Antagonists, Histamine Antagonists, Antipruritics
+DB06623	Flupirtine	Drug	0
+DB08808	Bupranolol	Drug	Adrenergic beta-Antagonists, Antihypertensive Agents, Anti-Arrhythmia Agents
+DB08806	Roxatidine acetate	Drug	Anti-Ulcer Agents, Histamine H2 Antagonists
+DB08807	Bopindolol	Drug	0
+DB00929	Misoprostol	Drug	Prostaglandins, Abortifacient Agents, Oxytocics, Anti-Ulcer Agents, Abortifacient Agents, Nonsteroidal
+DB00927	Famotidine	Drug	Anti-Ulcer Agents, Histamine H2 Antagonists
+DB00928	Azacitidine	Drug	Enzyme Inhibitors, Antimetabolites, Antineoplastic
+DB08895	Tofacitinib	Drug	0
+DB08896	Regorafenib	Drug	Antineoplastic Agents
+DB08893	Mirabegron	Drug	Muscle Relaxants, Genitourinary
+DB08894	Peginesatide	Drug	Hematopoietic Agents, Colony-Stimulating Factors
+DB08890	Linaclotide	Drug	0
+DB08899	Enzalutamide	Drug	Antineoplastic Agents
+DB05389	WF10	Drug	0
+DB08897	Aclidinium	Drug	Antispasmodics, Muscarinic Antagonists
+DB08898	Glucarpidase	Drug	Enzymes
+DB06237	Avanafil	Drug	0
+DB00932	Tipranavir	Drug	Anti-HIV Agents
+DB00933	Mesoridazine	Drug	Antipsychotic Agents, Phenothiazines, Dopamine Antagonists
+DB00930	Colesevelam	Drug	Bile acid sequestrants
+DB00931	Methacycline	Drug	Anti-Bacterial Agents, Tetracyclines
+DB00936	Salicylic acid	Drug	Antifungal Agents, Keratolytic Agents, Anti-Infective Agents
+DB00937	Diethylpropion	Drug	Appetite Depressants, Stimulants
+DB00934	Maprotiline	Drug	Adrenergic Uptake Inhibitors, Antidepressive Agents, Second-Generation, Antidepressive Agents
+DB00935	Oxymetazoline	Drug	Adrenergic alpha-Agonists, Sympathomimetics, Nasal Decongestants
+DB00938	Salmeterol	Drug	Sympathomimetics, Bronchodilator Agents, Adrenergic beta-2 Receptor Agonists
+DB00939	Meclofenamic acid	Drug	Anti-Inflammatory Agents, Non-Steroidal, Cyclooxygenase Inhibitors
+DB00940	Methantheline	Drug	Cholinergic Antagonists, Antispasmodics, Muscarinic Antagonists
+DB00943	Zalcitabine	Drug	Reverse Transcriptase Inhibitors, Anti-HIV Agents, Antimetabolites
+DB00944	Demecarium	Drug	Cholinergic Agents
+DB00941	Hexafluronium	Drug	Neuromuscular Agents
+DB00942	Cycrimine	Drug	Antidyskinetics
+DB00947	Fulvestrant	Drug	Antineoplastic Agents, Hormonal, Estrogen Antagonists, Antineoplastic Agents
+DB00948	Mezlocillin	Drug	Penicillins
+DB00945	Acetylsalicylic acid	Drug	Anti-Inflammatory Agents, Non-Steroidal, Cyclooxygenase Inhibitors, Platelet Aggregation Inhibitors, Salicylates, Fibrinolytic Agents, Antipyretics
+DB00946	Phenprocoumon	Drug	Anticoagulants
+DB00949	Felbamate	Drug	Anticonvulsants
+DB06255	Incadronate	Drug	Bone Density Conservation Agents
+DB00950	Fexofenadine	Drug	Histamine H1 Antagonists, Non-Sedating, Anti-Allergic Agents, Histamine Antagonists
+DB00951	Isoniazid	Drug	Fatty Acid Synthesis Inhibitors, Antitubercular Agents
+DB00954	Dirithromycin	Drug	Macrolides, Anti-Infective Agents
+DB00955	Netilmicin	Drug	Anti-Bacterial Agents, Aminoglycosides, Protein Synthesis Inhibitors
+DB00952	Naratriptan	Drug	Serotonin Receptor Agonists, Serotonin Antagonists
+DB00953	Rizatriptan	Drug	Serotonin Receptor Agonists, Serotonin Antagonists, Anti-migraine Agents
+DB00958	Carboplatin	Drug	Cross-Linking Reagents, Antineoplastic Agents
+DB00959	Methylprednisolone	Drug	Neuroprotective Agents, Glucocorticoids, Anti-Inflammatory Agents, Antiemetics
+DB00956	Hydrocodone	Drug	Antitussive Agents, Analgesics, Opioid, Narcotics
+DB00957	Norgestimate	Drug	Contraceptive Agents, Contraceptives, Oral, Synthetic
+DB06267	Udenafil	Drug	0
+DB06262	Droxidopa	Drug	Antiparkinson Agents
+DB00961	Mepivacaine	Drug	Anesthetics, Local
+DB06268	Sitaxentan	Drug	0
+DB00962	Zaleplon	Drug	Hypnotics and Sedatives
+DB00960	Pindolol	Drug	0
+DB00965	Ethiodized oil	Drug	Contrast Media, Antineoplastic Agents
+DB00966	Telmisartan	Drug	0
+DB00963	Bromfenac	Drug	0
+DB00964	Apraclonidine	Drug	Adrenergic alpha-2 Receptor Agonists, EENT Preparations, Anti-glaucoma Agents, Ophthalmics
+DB00969	Alosetron	Drug	0
+DB00967	Desloratadine	Drug	Histamine H1 Antagonists, Non-Sedating, Cholinergic Antagonists, Histamine Antagonists
+DB00968	Methyldopa	Drug	Adrenergic alpha-2 Receptor Agonists, Sympatholytics, Antihypertensive Agents
+DB06674	golimumab	Drug	TNF inhibitor, Antipsoriatic Agents, Monoclonal antibodies
+DB03166	Acetic acid	Drug	Anti-Bacterial Agents, Indicators and Reagents
+DB06201	Rufinamide	Drug	0
+DB08860	Pitavastatin	Drug	Hypolipidemic Agents
+DB06684	Vilazodone	Drug	Serotonin Receptor Agonists, Antidepressive Agents, Serotonin Uptake Inhibitors
+DB06681	Belatacept	Drug	Immunosuppressive Agents, Antirheumatic Agents
+DB06207	Silodosin	Drug	Adrenergic alpha-1 Receptor Antagonists
+DB08868	Fingolimod	Drug	0
+DB06209	Prasugrel	Drug	Platelet Aggregation Inhibitors
+DB08869	Tesamorelin	Drug	0
+DB08866	Estradiol valerate/Dienogest	Drug	0
+DB06203	Alogliptin	Drug	Dipeptidyl-Peptidase IV Inhibitors, Antidiabetic Agents
+DB06689	Ethanolamine Oleate	Drug	Sclerosing Solutions
+DB08864	Rilpivirine	Drug	0
+DB06204	Tapentadol	Drug	0
+DB08865	Crizotinib	Drug	Protein Kinase Inhibitors
+DB00900	Didanosine	Drug	Reverse Transcriptase Inhibitors, Anti-HIV Agents, Antimetabolites
+DB00903	Ethacrynic acid	Drug	Enzyme Inhibitors, Diuretics
+DB00904	Ondansetron	Drug	Antipsychotic Agents
+DB00902	Methdilazine	Drug	Histamine Antagonists
+DB00907	Cocaine	Drug	Vasoconstrictor Agents, Dopamine Uptake Inhibitors, Anesthetics, Local
+DB00908	Quinidine	Drug	Anti-Arrhythmia Agents
+DB00905	Bimatoprost	Drug	Anti-glaucoma Agents
+DB00906	Tiagabine	Drug	Anticonvulsants, Neurotransmitter Uptake Inhibitors, GABA Agonists
+DB00909	Zonisamide	Drug	Antioxidants, Anticonvulsants
+DB08873	Boceprevir	Drug	0
+DB06694	Xylometazoline	Drug	Nasal Decongestants
+DB06210	Eltrombopag	Drug	Thrombopoietic Agents
+DB08874	Fidaxomicin	Drug	Antibiotics
+DB06212	Tolvaptan	Drug	Vasopressin receptor antagonists
+DB08871	Eribulin	Drug	Microtubule Inhibitors
+DB06696	Arbekacin	Drug	Antibiotics, Aminoglycosides, Anti-Infective Agents
+DB06695	Dabigatran etexilate	Drug	Antithrombins
+DB08872	gabapentin enacarbil	Drug	0
+DB06690	Nitrous oxide	Drug	0
+DB08870	Brentuximab vedotin	Drug	0
+DB06692	Aprotinin	Drug	Serine Proteinase Inhibitors, Hemostatics, Trypsin Inhibitors
+DB06691	Mepyramine	Drug	Histamine H1 Antagonists, Anti-Allergic Agents, Histamine Antagonists
+DB06218	Lacosamide	Drug	Anticonvulsants
+DB08879	Belimumab	Drug	Monoclonal antibodies
+DB06698	Betahistine	Drug	Antiemetics
+DB08877	Ruxolitinib	Drug	0
+DB06697	Artemether	Drug	Coccidiostats, Antiprotozoal Agents, Antimalarials, Antifungal Agents, Schistosomicides
+DB06213	Regadenoson	Drug	Diagnostic Agents
+DB06216	Asenapine	Drug	0
+DB05368	Ragweed pollen extract	Drug	0
+DB08875	Cabozantinib	Drug	0
+DB08876	Taliglucerase Alfa	Drug	Enzymes
+DB06699	Degarelix	Drug	Gonadotropin-releasing hormone antagonist
+DB00910	Paricalcitol	Drug	0
+DB00911	Tinidazole	Drug	Antiprotozoal Agents, Anti-Infective Agents
+DB00914	Phenformin	Drug	Hypoglycemic Agents
+DB00915	Amantadine	Drug	Analgesics, Non-Narcotic, Antiparkinson Agents, Antiviral Agents, Dopamine Agents
+DB00912	Repaglinide	Drug	Hypoglycemic Agents, Meglitinides, Antidiabetic Agents
+DB00913	Anileridine	Drug	0
+DB00918	Almotriptan	Drug	Serotonin Receptor Agonists, Serotonin Antagonists, Anti-migraine Agents
+DB00919	Spectinomycin	Drug	Anti-Bacterial Agents, Aminoglycosides
+DB00916	Metronidazole	Drug	Antiprotozoal Agents, Radiation-Sensitizing Agents, Anti-Infective Agents
+DB00917	Dinoprostone	Drug	Prostaglandins, Oxytocics
+DB08884	Gadoxetate	Drug	Contrast Media, Diagnostic Agents
+DB08885	Aflibercept	Drug	Antineoplastic Agents, Ophthalmics
+DB08882	Linagliptin	Drug	Dipeptidyl-Peptidase IV Inhibitors, Antidiabetic Agents
+DB08883	Perampanel	Drug	0
+DB08880	Teriflunomide	Drug	0
+DB08881	Vemurafenib	Drug	0
+DB06228	Rivaroxaban	Drug	0
+DB08888	Ocriplasmin	Drug	Ophthalmics
+DB08889	Carfilzomib	Drug	Antineoplastic Agents
+DB08886	Asparaginase Erwinia chrysanthemi	Drug	Enzymes
+DB08887	Icosapent ethyl	Drug	Hypolipidemic Agents
+DB00921	Buprenorphine	Drug	Narcotic Antagonists, Analgesics, Opioid, Narcotics
+DB00922	Levosimendan	Drug	Cardiotonic Agents, Phosphodiesterase Inhibitors, Vasodilator Agents, Anti-Arrhythmia Agents
+DB00920	Ketotifen	Drug	Histamine H1 Antagonists, Anti-Allergic Agents, Antipruritics
+DB00925	Phenoxybenzamine	Drug	Vasodilator Agents, Adrenergic alpha-Antagonists, Antihypertensive Agents
+DB00923	Ceforanide	Drug	Anti-Bacterial Agents, Cephalosporins
+DB00924	Cyclobenzaprine	Drug	Neuromuscular Agents, Tranquilizing Agents, Muscle Relaxants, Skeletal
+DB00530	Erlotinib	Drug	Protein Kinase Inhibitors
+DB00531	Cyclophosphamide	Drug	Immunosuppressive Agents, Mutagens, Antirheumatic Agents, Myeloablative Agonists, Antineoplastic Agents, Alkylating
+DB00536	Guanidine	Drug	0
+DB00537	Ciprofloxacin	Drug	Anti-Infective Agents, Quinolones
+DB00534	Chlormerodrin	Drug	Diagnostic Agents, Diuretics, Mercurial
+DB00535	Cefdinir	Drug	Anti-Bacterial Agents, Cephalosporins, Anti-Infective Agents
+DB00538	Gadoversetamide	Drug	Contrast Media
+DB00539	Toremifene	Drug	Antineoplastic Agents, Hormonal, Selective Estrogen Receptor Modulators, Bone Density Conservation Agents
+DB00540	Nortriptyline	Drug	Adrenergic Uptake Inhibitors, Antidepressive Agents, Tricyclic, Antidepressive Agents
+DB04900	Thymalfasin	Drug	Immunosuppressive Agents, Adjuvants, Immunologic, Antineoplastic Agents
+DB00543	Amoxapine	Drug	Adrenergic Uptake Inhibitors, Neurotransmitter Uptake Inhibitors, Antidepressive Agents, Second-Generation, Dopamine Antagonists, Serotonin Uptake Inhibitors
+DB00544	Fluorouracil	Drug	Immunosuppressive Agents, Antimetabolites, Antineoplastic, Antimetabolites
+DB00541	Vincristine	Drug	Antineoplastic Agents, Phytogenic, Tubulin Modulators
+DB00542	Benazepril	Drug	Angiotensin-Converting Enzyme Inhibitors, Antihypertensive Agents
+DB00547	Desoximetasone	Drug	0
+DB00548	Azelaic Acid	Drug	Antineoplastic Agents, Dermatologic Agents
+DB00545	Pyridostigmine	Drug	Antimyasthenic Agents
+DB00546	Adinazolam	Drug	Antidepressive Agents
+DB00549	Zafirlukast	Drug	Anti-Asthmatic Agents, Leukotriene Antagonists
+DB00550	Propylthiouracil	Drug	Antithyroid Agents, Antimetabolites
+DB00551	Acetohydroxamic Acid	Drug	Enzyme Inhibitors
+DB04911	Oritavancin	Drug	Anti-Bacterial Agents
+DB00554	Piroxicam	Drug	Anti-Inflammatory Agents, Non-Steroidal, Cyclooxygenase Inhibitors
+DB00555	Lamotrigine	Drug	Calcium Channel Blockers, Anticonvulsants, Antidepressive Agents
+DB01401	Trisalicylate-choline	Drug	0
+DB01400	Neostigmine	Drug	0
+DB00552	Pentostatin	Drug	Antibiotics, Antineoplastic Agents, Adenosine Deaminase Inhibitors
+DB00553	Methoxsalen	Drug	Cross-Linking Reagents, Photosensitizing Agents, Pigmenting Agents
+DB01406	Danazol	Drug	0
+DB00558	Zanamivir	Drug	Enzyme Inhibitors, Antiviral Agents
+DB00559	Bosentan	Drug	Antihypertensive Agents
+DB00556	Perflutren	Drug	Contrast Media
+DB01404	Ginseng	Drug	0
+DB01403	Methotrimeprazine	Drug	Analgesics, Non-Narcotic, Antipsychotic Agents, Dopamine Antagonists
+DB00557	Hydroxyzine	Drug	Histamine H1 Antagonists, Hypnotics and Sedatives, Antipruritics
+DB01409	Tiotropium	Drug	Cholinergic Antagonists
+DB01408	Bambuterol	Drug	0
+DB01407	Clenbuterol	Drug	Adrenergic beta-Agonists, Sympathomimetics, Bronchodilator Agents
+DB00561	Doxapram	Drug	0
+DB04920	Clevidipine	Drug	0
+DB00562	Benzthiazide	Drug	Stimulants
+DB00560	Tigecycline	Drug	Anti-Bacterial Agents, Tetracyclines
+DB00565	Cisatracurium Besylate	Drug	Neuromuscular Blocking Agents
+DB01413	Cefepime	Drug	Anti-Bacterial Agents, Cephalosporins
+DB00566	Succimer	Drug	Antidotes, Chelating Agents
+DB01412	Theobromine	Drug	0
+DB01411	Pranlukast	Drug	Anti-Asthmatic Agents, Leukotriene Antagonists
+DB00563	Methotrexate	Drug	Enzyme Inhibitors, Nucleic Acid Synthesis Inhibitors, Immunosuppressive Agents, Abortifacient Agents, Folic Acid Antagonists, Antirheumatic Agents, Antimetabolites, Antineoplastic, Abortifacient Agents, Nonsteroidal, Dermatologic Agents
+DB01410	Ciclesonide	Drug	0
+DB00564	Carbamazepine	Drug	Analgesics, Non-Narcotic, Anticonvulsants, Antimanic Agents
+DB00569	Fondaparinux sodium	Drug	Anticoagulants, Antithrombins
+DB01416	Cefpodoxime	Drug	Anti-Bacterial Agents, Cephalosporins
+DB01415	Ceftibuten	Drug	Cephalosporins
+DB00567	Cephalexin	Drug	Anti-Bacterial Agents, Cephalosporins
+DB01414	Cefacetrile	Drug	Anti-Bacterial Agents, Cephalosporins
+DB00568	Cinnarizine	Drug	0
+DB01419	Antrafenine	Drug	0
+DB01418	Acenocoumarol	Drug	Anticoagulants
+DB06271	Sulodexide	Drug	Hypoglycemic Agents, Anticoagulants, Hypolipidemic Agents, Antithrombins, Fibrinolytic Agents
+DB06274	Alvimopan	Drug	0
+DB06273	Tocilizumab	Drug	0
+DB00972	Azelastine	Drug	Histamine H1 Antagonists, Non-Sedating, Anti-Allergic Agents, Bronchodilator Agents, Lipoxygenase Inhibitors
+DB00973	Ezetimibe	Drug	Cholesterol Absorption Inhibitors
+DB00970	Dactinomycin	Drug	Anti-Bacterial Agents, Nucleic Acid Synthesis Inhibitors, Antibiotics, Antibiotics, Antineoplastic, Protein Synthesis Inhibitors
+DB00971	Selenium Sulfide	Drug	Antifungal Agents
+DB00976	Telithromycin	Drug	Ketolides
+DB00977	Ethinyl Estradiol	Drug	Estrogens
+DB00974	Edetic Acid	Drug	Food Additives, Anticoagulants, Chelating Agents
+DB00975	Dipyridamole	Drug	Phosphodiesterase Inhibitors, Vasodilator Agents, Platelet Aggregation Inhibitors
+DB00978	Lomefloxacin	Drug	Anti-Infective Agents
+DB00979	Cyclopentolate	Drug	Mydriatics, Parasympatholytics, Muscarinic Antagonists
+DB06287	Temsirolimus	Drug	0
+DB06288	Amisulpride	Drug	Antipsychotic Agents, Dopamine Antagonists
+DB06285	Teriparatide	Drug	Bone Density Conservation Agents
+DB00980	Ramelteon	Drug	0
+DB00983	Formoterol	Drug	Sympathomimetics, Bronchodilator Agents, Adrenergic beta-2 Receptor Agonists
+DB00984	Nandrolone phenpropionate	Drug	Anabolic Agents
+DB00500	Tolmetin	Drug	Anti-Inflammatory Agents, Non-Steroidal, Cyclooxygenase Inhibitors
+DB00981	Physostigmine	Drug	Cholinesterase Inhibitors, Miotics
+DB00982	Isotretinoin	Drug	Skin and Mucous Membrane Agents, Anti-Acne Preparations
+DB00503	Ritonavir	Drug	0
+DB00987	Cytarabine	Drug	Immunosuppressive Agents, Antimetabolites, Antineoplastic, Antiviral Agents
+DB00988	Dopamine	Drug	Cardiotonic Agents, Sympathomimetics, Dopamine Agents
+DB00504	Levallorphan	Drug	Narcotic Antagonists, Antidotes
+DB00501	Cimetidine	Drug	Adjuvants
+DB00985	Dimenhydrinate	Drug	Histamine H1 Antagonists, Antiemetics
+DB00502	Haloperidol	Drug	Antipsychotic Agents, Antidyskinetics, Butyrophenones
+DB00986	Glycopyrrolate	Drug	Cholinergic Antagonists, Muscarinic Antagonists, Adjuvants, Anesthesia
+DB00507	Nitazoxanide	Drug	Antiparasitic Agents
+DB00508	Triflupromazine	Drug	Antipsychotic Agents
+DB00989	Rivastigmine	Drug	Neuroprotective Agents, Cholinesterase Inhibitors, Cholinergic Agents
+DB06290	Simeprevir	Drug	Protease Inhibitors
+DB00509	Dextrothyroxine	Drug	Hypolipidemic Agents
+DB06292	Dapagliflozin	Drug	sodium-glucose cotransporter 2 inhibitor 
+DB00990	Exemestane	Drug	Aromatase Inhibitors, Antineoplastic Agents
+DB00991	Oxaprozin	Drug	Anti-Inflammatory Agents, Non-Steroidal
+DB00994	Neomycin	Drug	Antibiotics, Aminoglycosides
+DB00511	Acetyldigitoxin	Drug	Cardiotonic Agents, Enzyme Inhibitors, Anti-Arrhythmia Agents
+DB00995	Auranofin	Drug	Antirheumatic Agents
+DB00992	Methyl aminolevulinate	Drug	0
+DB00993	Azathioprine	Drug	Immunosuppressive Agents, Antirheumatic Agents, Antimetabolites, Antineoplastic, Antimetabolites
+DB00514	Dextromethorphan	Drug	Antitussive Agents, Excitatory Amino Acid Antagonists
+DB00998	Frovatriptan	Drug	Serotonin Receptor Agonists, Anti-migraine Agents
+DB00999	Hydrochlorothiazide	Drug	Sodium Chloride Symporter Inhibitors, Diuretics, Antihypertensive Agents
+DB00515	Cisplatin	Drug	Cross-Linking Reagents, Antineoplastic Agents, Radiation-Sensitizing Agents
+DB00512	Vancomycin	Drug	Anti-Bacterial Agents
+DB00996	Gabapentin	Drug	Calcium Channel Blockers, Anticonvulsants, Analgesics, Antiparkinson Agents, Antimanic Agents, Anti-Anxiety Agents, Excitatory Amino Acid Antagonists
+DB00997	Doxorubicin	Drug	Antibiotics, Antibiotics, Antineoplastic
+DB00513	Aminocaproic Acid	Drug	0
+DB00518	Albendazole	Drug	0
+DB00519	Trandolapril	Drug	Angiotensin-Converting Enzyme Inhibitors, Antihypertensive Agents
+DB00516	Bentoquatam	Drug	Skin and Mucous Membrane Agents
+DB00517	Anisotropine Methylbromide	Drug	Cholinergic Antagonists, Muscarinic Antagonists
+DB00521	Carteolol	Drug	Sympatholytics, Adrenergic beta-Antagonists, Antihypertensive Agents, Anti-Arrhythmia Agents
+DB00520	Caspofungin	Drug	Antifungal Agents
+DB00525	Tolnaftate	Drug	Antifungal Agents
+DB02703	Fusidic Acid	Drug	Anti-Bacterial Agents, Protein Synthesis Inhibitors
+DB00526	Oxaliplatin	Drug	Antineoplastic Agents
+DB00523	Alitretinoin	Drug	Antineoplastic Agents
+DB00524	Metolazone	Drug	Sodium Chloride Symporter Inhibitors, Diuretics, Antihypertensive Agents
+DB00529	Foscarnet	Drug	Antiviral Agents, Reverse Transcriptase Inhibitors
+DB00527	Cinchocaine	Drug	Anesthetics, Local
+DB00528	Lercanidipine	Drug	Calcium Channel Blockers, Antihypertensive Agents
+DB00132	Alpha-Linolenic Acid	Drug	Micronutrients, Dietary Supplements, Supplements
+DB00133	L-Serine	Drug	Micronutrients, Dietary Supplements, Non-Essential Amino Acids, Supplements
+DB01463	Fencamfamine	Drug	Central Nervous System Stimulants, Antipsychotic Agents
+DB00130	L-Glutamine	Drug	Micronutrients, Dietary Supplements, Non-Essential Amino Acids, Supplements
+DB00131	Adenosine monophosphate	Drug	Micronutrients, Dietary Supplements, Supplements
+DB00136	Calcitriol	Drug	Vitamin D, Bone Density Conservation Agents, Antithyroid Agents, Calcium Channel Agonists, Vitamins, Antihypocalcemic Agents
+DB00137	Xanthophyll	Drug	Micronutrients, Dietary Supplements, Supplements
+DB00134	L-Methionine	Drug	Micronutrients, Amino Acids, Essential, Dietary Supplements, Supplements
+DB01466	Ethylmorphine	Drug	Antitussive Agents, Analgesics, Opioid, Narcotics
+DB00135	L-Tyrosine	Drug	Micronutrients, Dietary Supplements, Non-Essential Amino Acids, Supplements
+DB05829	Preotact	Drug	0
+DB00138	L-Cystine	Drug	Micronutrients, Dietary Supplements, Non-Essential Amino Acids, Supplements
+DB00139	Succinic acid	Drug	Micronutrients, Dietary Supplements, Supplements
+DB00140	Riboflavin	Drug	Photosensitizing Agents, Vitamin B Complex
+DB00143	Glutathione	Drug	Micronutrients, Dietary Supplements, Supplements
+DB00144	Phosphatidylserine	Drug	Micronutrients, Dietary Supplements, Supplements
+DB00141	N-Acetyl-D-glucosamine	Drug	Micronutrients, Dietary Supplements, Supplements
+DB00147	Pyridoxal	Drug	Micronutrients, Vitamin B Complex, Dietary Supplements, Supplements
+DB00148	Creatine	Drug	Micronutrients, Dietary Supplements, Supplements
+DB00145	Glycine	Drug	Glycine Agents, Micronutrients, Dietary Supplements, Non-Essential Amino Acids, Supplements
+DB00146	Calcidiol	Drug	Vitamin D, Bone Density Conservation Agents, Antithyroid Agents, Vitamins, Antihypocalcemic Agents
+DB00149	L-Leucine	Drug	Micronutrients, Amino Acids, Essential, Dietary Supplements, Supplements
+DB00150	L-Tryptophan	Drug	Micronutrients, Amino Acids, Essential, Antidepressive Agents, Second-Generation, Dietary Supplements, Supplements
+DB01482	Fenethylline	Drug	0
+DB00151	L-Cysteine	Drug	Nutritional Support, Dietary Supplements, Supplements
+DB00154	Dihomo-gamma-linolenic acid	Drug	Micronutrients, Dietary Supplements, Supplements
+DB01001	Salbutamol	Drug	Bronchodilator Agents, Adrenergic beta-2 Receptor Agonists, Tocolytic Agents
+DB01002	Levobupivacaine	Drug	0
+DB00155	L-Citrulline	Drug	Micronutrients, Dietary Supplements, Non-Essential Amino Acids, Supplements
+DB00152	Thiamine	Drug	Vitamin B Complex, Vitamins
+DB00153	Ergocalciferol	Drug	Vitamin D, Bone Density Conservation Agents, Antithyroid Agents, Vitamins, Antihypocalcemic Agents
+DB01000	Cyclacillin	Drug	Anti-Bacterial Agents, Penicillins
+DB01005	Hydroxyurea	Drug	Enzyme Inhibitors, Nucleic Acid Synthesis Inhibitors, Antisickling Agents, Antineoplastic Agents
+DB00158	Folic Acid	Drug	Hematinics, Micronutrients, Vitamin B Complex, Dietary Supplements, Supplements
+DB01006	Letrozole	Drug	Aromatase Inhibitors, Antineoplastic Agents
+DB00159	Icosapent	Drug	Micronutrients, Dietary Supplements, Supplements
+DB01489	Camazepam	Drug	Neuromuscular Agents, Hypnotics and Sedatives, Benzodiazepines
+DB00156	L-Threonine	Drug	Micronutrients, Amino Acids, Essential, Dietary Supplements, Supplements
+DB01003	Cromoglicic acid	Drug	Anti-Asthmatic Agents
+DB01004	Ganciclovir	Drug	Antiviral Agents
+DB01009	Ketoprofen	Drug	Anti-Inflammatory Agents, Non-Steroidal, Cyclooxygenase Inhibitors
+DB01007	Tioconazole	Drug	Antifungal Agents, 14-alpha Demethylase Inhibitors
+DB01008	Busulfan	Drug	Immunosuppressive Agents, Alkylating Agents, Myeloablative Agonists, Antineoplastic Agents, Alkylating
+DB00161	L-Valine	Drug	Micronutrients, Amino Acids, Essential, Dietary Supplements
+DB00162	Vitamin A	Drug	Vitamin A, Anti-Acne Preparations, Vitamins
+DB00160	L-Alanine	Drug	Micronutrients, Dietary Supplements, Non-Essential Amino Acids, Supplements
+DB01012	Cinacalcet	Drug	Calcimimetics
+DB00165	Pyridoxine	Drug	Vitamin B Complex, Vitamins
+DB06702	Fesoterodine	Drug	Antispasmodics, Muscarinic Antagonists, Anti-Incontinence Agents, Muscle Relaxants, Genitourinary
+DB00166	Lipoic Acid	Drug	Antioxidants, Micronutrients, Vitamin B Complex, Dietary Supplements, Supplements
+DB01013	Clobetasol propionate	Drug	Corticosteroids, Glucocorticoids, Anti-Inflammatory Agents
+DB06701	Dexmethylphenidate	Drug	0
+DB01010	Edrophonium	Drug	Cholinesterase Inhibitors, Antidotes
+DB00163	Vitamin E	Drug	Antioxidants, Micronutrients, Dietary Supplements, Vitamins, Supplements
+DB06704	Iobenguane	Drug	Diagnostic Agents
+DB01011	Metyrapone	Drug	Enzyme Inhibitors, Antimetabolites
+DB06703	Gadobutrol	Drug	Contrast Media
+DB01016	Glyburide	Drug	Hypoglycemic Agents, Antidiabetic Agents, Anti-Arrhythmia Agents
+DB00169	Cholecalciferol	Drug	Vitamin D, Bone Density Conservation Agents, Antithyroid Agents, Vitamins, Antihypocalcemic Agents
+DB01017	Minocycline	Drug	Anti-Bacterial Agents, Tetracyclines
+DB00167	L-Isoleucine	Drug	Micronutrients, Amino Acids, Essential, Dietary Supplements, Supplements
+DB06700	Desvenlafaxine	Drug	Neurotransmitter Uptake Inhibitors, Antidepressive Agents, Serotonin Uptake Inhibitors
+DB01014	Balsalazide	Drug	Anti-Inflammatory Agents, Non-Steroidal, Gastrointestinal Agents
+DB00168	Aspartame	Drug	Micronutrients, Dietary Supplements, Supplements, Sweetening Agents
+DB01015	Sulfamethoxazole	Drug	Sulfonamides, Anti-Infective Agents
+DB06709	Methacholine	Drug	0
+DB01018	Guanfacine	Drug	Adrenergic alpha-2 Receptor Agonists, Antihypertensive Agents
+DB01019	Bethanechol	Drug	Muscarinic Agonists, Parasympathomimetics
+DB06706	Isometheptene	Drug	0
+DB06705	Gadofosveset trisodium	Drug	Contrast Media, Diagnostic Agents
+DB06708	Lumefantrine	Drug	Antimalarials
+DB06707	Levonordefrin	Drug	0
+DB00572	Atropine	Drug	Mydriatics, Parasympatholytics, Muscarinic Antagonists, Bronchodilator Agents, Adjuvants, Anesthesia, Anti-Arrhythmia Agents
+DB01420	Testosterone Propionate	Drug	0
+DB04930	Permethrin	Drug	0
+DB00573	Fenoprofen	Drug	Anti-Inflammatory Agents, Non-Steroidal, Cyclooxygenase Inhibitors, Propionates
+DB04932	Defibrotide	Drug	Antithrombins
+DB00570	Vinblastine	Drug	Antineoplastic Agents, Phytogenic, Tubulin Modulators
+DB00571	Propranolol	Drug	Vasodilator Agents, Adrenergic beta-Antagonists, Antihypertensive Agents, Anti-Arrhythmia Agents
+DB00576	Sulfamethizole	Drug	Anti-Infective Agents
+DB01424	Aminophenazone	Drug	Pyrazolones
+DB01423	Stepronin	Drug	Immunosuppressive Agents, Expectorants, Antiviral Agents
+DB00577	Valaciclovir	Drug	Prodrugs, Antiviral Agents
+DB01422	Nitroxoline	Drug	Anti-Infective Agents, Urinary, Antifungal Agents
+DB00575	Clonidine	Drug	Adrenergic alpha-2 Receptor Agonists, Sympatholytics, Analgesics, Antihypertensive Agents
+DB01421	Paromomycin	Drug	Anti-Bacterial Agents, Amebicides
+DB04938	Ospemifene	Drug	Estrogen Antagonists
+DB01428	Oxybenzone	Drug	Sunscreening Agents
+DB01427	Amrinone	Drug	Cardiotonic Agents, Vasodilator Agents, Calcium Channel Blockers, Phosphodiesterase 3 Inhibitors
+DB00578	Carbenicillin	Drug	Anti-Bacterial Agents, Penicillins
+DB01426	Ajmaline	Drug	Anti-Arrhythmia Agents
+DB01425	Alizapride	Drug	Antiemetics, Prokinetic Agents
+DB00579	Mazindol	Drug	Central Nervous System Stimulants, Adrenergic Uptake Inhibitors, Dopamine Uptake Inhibitors
+DB01429	Aprindine	Drug	Voltage-Gated Sodium Channel Blockers, Anti-Arrhythmia Agents
+DB01431	Allylestrenol	Drug	0
+DB04941	Crofelemer	Drug	0
+DB00583	L-Carnitine	Drug	Vitamin B Complex, Dietary Supplements
+DB04942	Tamibarotene	Drug	Antineoplastic Agents
+DB00100	Coagulation Factor IX	Drug	Thrombotic Agents, Coagulants
+DB00584	Enalapril	Drug	Angiotensin-Converting Enzyme Inhibitors, Antihypertensive Agents
+DB01430	Almitrine	Drug	Respiratory System Agents
+DB00581	Lactulose	Drug	Gastrointestinal Agents
+DB00582	Voriconazole	Drug	Antifungal Agents, 14-alpha Demethylase Inhibitors
+DB00587	Cinalukast	Drug	Anti-Arrhythmia Agents
+DB01435	Antipyrine	Drug	Anti-Inflammatory Agents, Non-Steroidal
+DB00103	Agalsidase beta	Drug	Enzyme Replacement Agents
+DB00588	Fluticasone Propionate	Drug	0
+DB00104	Octreotide	Drug	Antineoplastic Agents, Hormonal, Hormone Replacement Agents, Gastrointestinal Agents
+DB00585	Nizatidine	Drug	Anti-Ulcer Agents, Histamine H2 Antagonists
+DB01433	Methadyl Acetate	Drug	Analgesics, Opioid, Narcotics
+DB00102	Becaplermin	Drug	Angiogenesis Inducing Agents
+DB01432	Cholestyramine	Drug	Hypolipidemic Agents, Cholesterol Absorption Inhibitors
+DB00586	Diclofenac	Drug	Anti-Inflammatory Agents, Non-Steroidal, Cyclooxygenase Inhibitors
+DB00107	Oxytocin	Drug	Anti-tocolytic Agents, Oxytocics, Labor Induction Agents
+DB01438	Phenazopyridine	Drug	0
+DB00108	Natalizumab	Drug	Immunosuppressive Agents
+DB00589	Lisuride	Drug	Serotonin Receptor Agonists, Antiparkinson Agents, Antidyskinetics, Dopamine Agonists
+DB01437	Glutethimide	Drug	Hypnotics and Sedatives
+DB00105	Interferon Alfa-2b, Recombinant	Drug	Immunosuppressive Agents
+DB00106	Abarelix	Drug	Anti-Testosterone Agents
+DB01436	Alfacalcidol	Drug	Bone Density Conservation Agents
+DB04946	Iloperidone	Drug	0
+DB00109	Enfuvirtide	Drug	HIV Fusion Inhibitors
+DB04948	Lofexidine	Drug	Narcotic Antagonists, Adrenergic alpha-2 Receptor Agonists, Antihypertensive Agents
+DB00590	Doxazosin	Drug	Adrenergic alpha-Antagonists, Antihypertensive Agents, Adrenergic alpha-1 Receptor Antagonists
+DB00591	Fluocinolone Acetonide	Drug	Glucocorticoids, Anti-Inflammatory Agents
+DB00594	Amiloride	Drug	Diuretics, Epithelial Sodium Channel Blockers, Acid Sensing Ion Channel Blockers, Sodium Channel Blockers
+DB00110	Palivizumab	Drug	Antiviral Agents
+DB00595	Oxytetracycline	Drug	Tetracyclines
+DB00111	Daclizumab	Drug	Immunosuppressive Agents
+DB04953	Ezogabine	Drug	Anticonvulsants
+DB01440	Gamma Hydroxybutyric Acid	Drug	0
+DB00592	Piperazine	Drug	Antinematodal Agents
+DB00593	Ethosuximide	Drug	Anticonvulsants, Succinimides
+DB00598	Labetalol	Drug	Sympathomimetics, Adrenergic beta-Antagonists, Antihypertensive Agents, Adrenergic alpha-1 Receptor Antagonists
+DB00599	Thiopental	Drug	Anticonvulsants, GABA Modulators, Anesthetics, Intravenous, Hypnotics and Sedatives
+DB00115	Cyanocobalamin	Drug	Vitamin B Complex, Anti-anemic Agents, Vitamins
+DB00596	Halobetasol Propionate	Drug	0
+DB00112	Bevacizumab	Drug	Angiogenesis Inhibitors
+DB00113	Arcitumomab	Drug	Diagnostic Agents
+DB00597	Gadoteridol	Drug	Contrast Media
+DB00118	S-Adenosylmethionine	Drug	Micronutrients, Dietary Supplements, Supplements
+DB00119	Pyruvic acid	Drug	Micronutrients, Dietary Supplements, Supplements
+DB00116	Tetrahydrofolic acid	Drug	Micronutrients, Dietary Supplements, Supplements
+DB00117	L-Histidine	Drug	Micronutrients, Conditionally Essential Amino Acids, Dietary Supplements, Supplements
+DB02300	Calcipotriol	Drug	Antipsoriatic Agents, Dermatologic Agents
+DB00121	Biotin	Drug	Micronutrients, Vitamin B Complex, Dietary Supplements, Supplements
+DB01452	Heroin	Drug	Analgesics, Opioid, Narcotics
+DB00122	Choline	Drug	Micronutrients, Lipotropic Agents, Dietary Supplements, Supplements, Nootropic Agents
+DB05812	Abiraterone	Drug	0
+DB00120	L-Phenylalanine	Drug	Micronutrients, Amino Acids, Essential, Dietary Supplements, Supplements
+DB00125	L-Arginine	Drug	Micronutrients, Conditionally Essential Amino Acids, Dietary Supplements, Supplements
+DB00126	Vitamin C	Drug	Antioxidants, Ascorbic Acid, Vitamins
+DB00123	L-Lysine	Drug	Micronutrients, Amino Acids, Essential, Dietary Supplements, Supplements
+DB00129	L-Ornithine	Drug	Micronutrients, Dietary Supplements, Non-Essential Amino Acids, Supplements
+DB00127	Spermine	Drug	Micronutrients, Dietary Supplements, Supplements
+DB00128	L-Aspartic Acid	Drug	Micronutrients, Dietary Supplements, Non-Essential Amino Acids, Supplements
+DB04967	Lucanthone	Drug	Antineoplastic Agents, Schistosomicides
+DB04570	Latamoxef	Drug	Anti-Bacterial Agents, Cephalosporins
+DB04571	Trioxsalen	Drug	Photosensitizing Agents
+DB01060	Amoxicillin	Drug	Anti-Bacterial Agents, Penicillins
+DB06751	Drotaverine	Drug	Vasodilator Agents, Analgesics, Parasympatholytics
+DB04572	Thiotepa	Drug	0
+DB04573	Estriol	Drug	0
+DB01063	Acetophenazine	Drug	Antipsychotic Agents
+DB01064	Isoprenaline	Drug	Cardiotonic Agents, Adrenergic beta-Agonists, Sympathomimetics, Bronchodilator Agents
+DB01061	Azlocillin	Drug	Anti-Bacterial Agents, Penicillins
+DB01062	Oxybutynin	Drug	Cholinergic Antagonists, Parasympatholytics, Antispasmodics, Muscarinic Antagonists, Muscle Relaxants, Genitourinary
+DB08936	Chlorcyclizine	Drug	Histamine H1 Antagonists, Anti-Allergic Agents, Histamine Antagonists
+DB01067	Glipizide	Drug	Hypoglycemic Agents
+DB01068	Clonazepam	Drug	Anticonvulsants, GABA Modulators, Benzodiazepines
+DB01065	Melatonin	Drug	Antioxidants, Central Nervous System Depressants
+DB08934	Sofosbuvir	Drug	Antiviral Agents
+DB08935	Obinutuzumab	Drug	Antineoplastic Agents
+DB01066	Cefditoren	Drug	Anti-Bacterial Agents, Cephalosporins
+DB08932	MACITENTAN	Drug	Vasodilator Agents
+DB04574	Estropipate	Drug	Contraceptive Agents, Hormone Replacement Agents
+DB08933	LULICONAZOLE	Drug	Antifungal Agents
+DB04575	Quinestrol	Drug	Estrogens, Hormone Replacement Agents
+DB04576	Fleroxacin	Drug	Enzyme Inhibitors, Nucleic Acid Synthesis Inhibitors, Anti-Infective Agents, Quinolones
+DB01069	Promethazine	Drug	Histamine H1 Antagonists, Anti-Allergic Agents, Antipruritics
+DB08930	Dolutegravir	Drug	0
+DB01070	Dihydrotachysterol	Drug	Vitamin D, Bone Density Conservation Agents, Antithyroid Agents, Vitamins, Antihypocalcemic Agents
+DB01071	Mequitazine	Drug	Histamine H1 Antagonists
+DB01074	Perhexiline	Drug	Vasodilator Agents, Calcium Channel Blockers, Cardiovascular Agents
+DB01075	Diphenhydramine	Drug	Antitussive Agents, Histamine H1 Antagonists, Anti-Allergic Agents, Antiemetics, Antidyskinetics, Hypnotics and Sedatives, Anesthetics, Local
+DB01072	Atazanavir	Drug	Anti-HIV Agents, HIV Protease Inhibitors
+DB01073	Fludarabine	Drug	Antineoplastic Agents
+DB01078	Deslanoside	Drug	Cardiotonic Agents, Enzyme Inhibitors, Anti-Arrhythmia Agents
+DB08947	Iopamidol	Drug	0
+DB06768	Ammonium lactate	Drug	Antipruritics
+DB01076	Atorvastatin	Drug	Anticholesteremic Agents, Hydroxymethylglutaryl-CoA Reductase Inhibitors
+DB03255	Phenol	Drug	Disinfectants, Sclerosing Solutions, Antipsoriatic Agents, Anti-Infective Agents, Local
+DB08946	Iopanoic acid	Drug	0
+DB01077	Etidronic acid	Drug	Bone Density Conservation Agents, Bisphosphonates, Antihypocalcemic Agents
+DB08943	Isoconazole	Drug	0
+DB08944	Isoaminile	Drug	0
+DB06766	Alcaftadine	Drug	Histamine H1 Antagonists, Anti-Inflammatory Agents
+DB08941	Isoxsuprine	Drug	0
+DB01081	Diphenoxylate	Drug	Analgesics, Opioid, Antidiarrheals, Antiperistaltic Agents
+DB06771	Besifloxacin	Drug	Antibiotics, Quinolones
+DB01082	Streptomycin	Drug	Aminoglycosides
+DB06770	Benzyl alcohol	Drug	Pediculicides, Anesthetics, Local
+DB01080	Vigabatrin	Drug	Enzyme Inhibitors, Anticonvulsants, GABA Agents
+DB06772	Cabazitaxel	Drug	Antineoplastic Agents
+DB01085	Pilocarpine	Drug	Cholinergic Agents
+DB01086	Benzocaine	Drug	Anesthetics, Local
+DB01083	Orlistat	Drug	Enzyme Inhibitors, Anti-Obesity Agents
+DB01084	Emedastine	Drug	Histamine H1 Antagonists, Anti-Allergic Agents
+DB06779	Dalteparin	Drug	Anticoagulants, Antithrombins, Fibrinolytic Agents, Heparins
+DB01089	Deserpidine	Drug	0
+DB08958	Hexetidine	Drug	0
+DB01087	Primaquine	Drug	Antimalarials
+DB01088	Iloprost	Drug	0
+DB08957	Hexoprenaline	Drug	0
+DB06775	Carglumic Acid	Drug	0
+DB08954	Ifenprodil	Drug	0
+DB06777	Chenodeoxycholic acid	Drug	Cathartics, Gastrointestinal Agents
+DB01092	Ouabain	Drug	Cardiotonic Agents, Enzyme Inhibitors
+DB06782	Dimercaprol	Drug	Chelating Agents
+DB06781	Difluprednate	Drug	Corticosteroids, Glucocorticoids, Anti-Inflammatory Agents
+DB01093	Dimethyl sulfoxide	Drug	Solvents, Free Radical Scavengers, Cryoprotective Agents
+DB01090	Pentolinium	Drug	Ganglionic Blockers, Antihypertensive Agents, Nicotinic Antagonists
+DB01091	Butenafine	Drug	Antifungal Agents
+DB01096	Oxamniquine	Drug	0
+DB01097	Leflunomide	Drug	Enzyme Inhibitors, Immunosuppressive Agents, Antirheumatic Agents, Adjuvants
+DB01094	Hesperetin	Drug	0
+DB01095	Fluvastatin	Drug	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+DB01098	Rosuvastatin	Drug	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+DB08967	Dimetotiazine	Drug	0
+DB01099	Flucytosine	Drug	Antifungal Agents, Antimetabolites
+DB08968	Fominoben	Drug	0
+DB08965	Fusafungine	Drug	0
+DB08966	Fursultiamine	Drug	0
+DB08964	Gemeprost	Drug	0
+DB00172	L-Proline	Drug	Micronutrients, Dietary Supplements, Non-Essential Amino Acids, Supplements
+DB00173	Adenine	Drug	Micronutrients, Dietary Supplements, Supplements
+DB01020	Isosorbide Mononitrate	Drug	Nitric Oxide Donors, Vasodilator Agents
+DB00170	Menadione	Drug	Antifibrinolytic Agents, Micronutrients, Dietary Supplements, Vitamins, Supplements
+DB00171	Adenosine triphosphate	Drug	Micronutrients, Dietary Supplements, Supplements
+DB00176	Fluvoxamine	Drug	Antidepressive Agents, Second-Generation, Anti-Anxiety Agents, Serotonin Uptake Inhibitors
+DB01023	Felodipine	Drug	Vasodilator Agents, Calcium Channel Blockers, Dihydropyridines, Antihypertensive Agents, Anti-Arrhythmia Agents
+DB06713	Norelgestromin	Drug	Contraceptive Agents, Contraceptives, Oral, Combined
+DB01024	Mycophenolic acid	Drug	Enzyme Inhibitors, Antibiotics, Antineoplastic
+DB06712	Nilvadipine	Drug	0
+DB00177	Valsartan	Drug	Angiotensin Receptor Antagonists
+DB06715	Potassium Iodide	Drug	0
+DB01021	Trichlormethiazide	Drug	Sodium Chloride Symporter Inhibitors, Diuretics, Antihypertensive Agents
+DB00174	L-Asparagine	Drug	Micronutrients, Dietary Supplements, Non-Essential Amino Acids, Supplements
+DB01022	Phylloquinone	Drug	Antifibrinolytic Agents, Vitamins, Vitamin K
+DB00175	Pravastatin	Drug	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+DB06714	Propylhexedrine	Drug	0
+DB01028	Methoxyflurane	Drug	Anesthetics, Inhalation
+DB00178	Ramipril	Drug	Angiotensin-Converting Enzyme Inhibitors, Antihypertensive Agents
+DB06711	Naphazoline	Drug	Sympathomimetics
+DB01025	Amlexanox	Drug	Anti-Allergic Agents, Anti-Inflammatory Agents, Anti-Ulcer Agents
+DB06710	Methyltestosterone	Drug	Antineoplastic Agents, Hormonal, Hormone Replacement Agents, Anabolic Agents
+DB01026	Ketoconazole	Drug	Antifungal Agents, 14-alpha Demethylase Inhibitors
+DB00179	Masoprocol	Drug	Antioxidants, Cyclooxygenase Inhibitors, Antineoplastic Agents, Lipoxygenase Inhibitors
+DB01029	Irbesartan	Drug	Angiotensin II Type 1 Receptor Blockers, Angiotensin Receptor Antagonists, Antihypertensive Agents
+DB06717	Fosaprepitant	Drug	0
+DB06716	Fospropofol	Drug	Hypnotics and Sedatives
+DB06719	Buserelin	Drug	0
+DB06718	Stanozolol	Drug	Steroids
+DB00180	Flunisolide	Drug	0
+DB00183	Pentagastrin	Drug	Diagnostic Agents
+DB01030	Topotecan	Drug	Topoisomerase I Inhibitors
+DB00184	Nicotine	Drug	Autonomic Agents, Appetite Depressants, Nicotinic Agonists, Ganglionic Stimulants
+DB01031	Ethinamate	Drug	0
+DB00181	Baclofen	Drug	Neuromuscular Agents, Muscle Relaxants, Skeletal
+DB00182	Amphetamine	Drug	Central Nervous System Stimulants, Adrenergic Uptake Inhibitors, Sympathomimetics, Amphetamines, Adrenergic Agents, Dopamine Agents, Dopamine Uptake Inhibitors
+DB08903	Bedaquiline	Drug	Antitubercular Agents
+DB00187	Esmolol	Drug	0
+DB06724	Calcium carbonate	Drug	Antacids
+DB01034	Cerulenin	Drug	Antifungal Agents
+DB08904	Certolizumab pegol	Drug	TNF inhibitor
+DB01035	Procainamide	Drug	Anti-Arrhythmia Agents
+DB06723	Aluminum hydroxide	Drug	Antacids
+DB00188	Bortezomib	Drug	0
+DB00185	Cevimeline	Drug	0
+DB01032	Probenecid	Drug	Adjuvants, Pharmaceutic, Uricosuric Agents
+DB08901	Ponatinib	Drug	0
+DB08902	Raxibacumab	Drug	Monoclonal antibodies, Anti-Infective Agents
+DB00186	Lorazepam	Drug	Hypnotics and Sedatives, Benzodiazepines
+DB01033	Mercaptopurine	Drug	Nucleic Acid Synthesis Inhibitors, Immunosuppressive Agents, Purine analogues, Antimetabolites, Antineoplastic, Antimetabolites
+DB06725	Lornoxicam	Drug	Anti-Inflammatory Agents, Non-Steroidal
+DB06720	Velaglucerase alfa	Drug	Enzymes
+DB01039	Fenofibrate	Drug	Hypolipidemic Agents
+DB08900	Teduglutide	Drug	0
+DB01036	Tolterodine	Drug	Antispasmodics, Muscarinic Antagonists, Anti-Incontinence Agents, Muscle Relaxants, Genitourinary
+DB00189	Ethchlorvynol	Drug	Hypnotics and Sedatives
+DB01037	Selegiline	Drug	Neuroprotective Agents, Antiparkinson Agents, Dopaminergics, Monoamine Oxidase Inhibitors, Antidyskinetics
+DB08909	Glycerol Phenylbutyrate	Drug	Ammonia Detoxicants
+DB08907	Canagliflozin	Drug	Antidiabetic Agents
+DB08908	Dimethyl fumarate	Drug	Immunosuppressive Agents, Radiation-Sensitizing Agents, Dermatologic Agents
+DB08905	Formestane	Drug	Aromatase Inhibitors, Antineoplastic Agents, Steroids
+DB08906	Fluticasone furoate	Drug	Corticosteroids
+DB06729	Sulfaphenazole	Drug	Anti-Bacterial Agents, Sulfonamides, Anti-Infective Agents
+DB00190	Carbidopa	Drug	Enzyme Inhibitors, Antiparkinson Agents, Antidyskinetics, Dopamine Agents
+DB00191	Phentermine	Drug	Central Nervous System Stimulants, Appetite Depressants, Stimulants, Sympathomimetics, Adrenergic Agents
+DB01041	Thalidomide	Drug	Immunosuppressive Agents, Teratogens, Angiogenesis Inhibitors, Leprostatic Agents
+DB00194	Vidarabine	Drug	Antiviral Agents, Antimetabolites
+DB00195	Betaxolol	Drug	Sympatholytics, EENT Preparations, Antihypertensive Agents, Adrenergic beta-1 Receptor Antagonists
+DB01042	Melphalan	Drug	0
+DB00192	Indecainide	Drug	Sodium Channel Blockers, Anti-Arrhythmia Agents
+DB01040	Hydroxystilbamidine Isethionate	Drug	Antimalarials, Antimycotic Agents, Anti-trypanosomal Agents
+DB00193	Tramadol	Drug	0
+DB01045	Rifampicin	Drug	Enzyme Inhibitors, Nucleic Acid Synthesis Inhibitors, Antitubercular Agents, Antibiotics, Antibiotics, Antitubercular, Leprostatic Agents
+DB08914	Insulin, isophane	Drug	Hypoglycemic Agents, Antidiabetic Agents
+DB00198	Oseltamivir	Drug	Enzyme Inhibitors, Antiviral Agents
+DB00199	Erythromycin	Drug	Anti-Bacterial Agents, Macrolides, Protein Synthesis Inhibitors, Gastrointestinal Agents
+DB01046	Lubiprostone	Drug	Laxatives
+DB01043	Memantine	Drug	Antiparkinson Agents, Antidyskinetics, Excitatory Amino Acid Antagonists, Dopamine Agents
+DB00196	Fluconazole	Drug	Antifungal Agents
+DB08912	Dabrafenib	Drug	0
+DB08913	Radium Ra 223 Dichloride	Drug	Diagnostic Agents
+DB01044	Gatifloxacin	Drug	Antibiotics, Quinolones
+DB08910	Pomalidomide	Drug	Immunosuppressive Agents
+DB01049	Ergoloid mesylate	Drug	Vasodilator Agents, Adrenergic alpha-Antagonists, Nootropic Agents
+DB04552	Niflumic Acid	Drug	Anti-Inflammatory Agents, Non-Steroidal, Cyclooxygenase Inhibitors
+DB08911	Trametinib	Drug	0
+DB06730	Gestodene	Drug	Contraceptives, Oral, Synthetic, Progestins
+DB01047	Fluocinonide	Drug	Anti-Allergic Agents, Glucocorticoids, Anti-Inflammatory Agents
+DB01048	Abacavir	Drug	Reverse Transcriptase Inhibitors, Anti-HIV Agents
+DB08918	Levomilnacipran	Drug	Serotonin Uptake Inhibitors
+DB06738	Ketobemidone	Drug	Analgesics, Opioid, Excitatory Amino Acid Antagonists
+DB08916	Afatinib	Drug	0
+DB08917	Ferric Carboxymaltose	Drug	Iron Preparations
+DB01053	Benzylpenicillin	Drug	Anti-Bacterial Agents, Penicillins
+DB01050	Ibuprofen	Drug	Anti-Inflammatory Agents, Non-Steroidal, Analgesics, Non-Narcotic, Cyclooxygenase Inhibitors
+DB01051	Novobiocin	Drug	Enzyme Inhibitors, Anti-Bacterial Agents, Nucleic Acid Synthesis Inhibitors
+DB01056	Tocainide	Drug	Voltage-Gated Sodium Channel Blockers, Sodium Channel Blockers, Anti-Arrhythmia Agents
+DB01057	Echothiophate	Drug	Cholinesterase Inhibitors, Parasympathomimetics, Miotics
+DB01054	Nitrendipine	Drug	Vasodilator Agents, Calcium Channel Blockers, Antihypertensive Agents
+DB08923	Epoetin Zeta	Drug	0
+DB08924	Amfecloral	Drug	0
+DB01055	Mimosine	Drug	0
+DB06742	Ambroxol	Drug	Expectorants
+DB01058	Praziquantel	Drug	0
+DB01059	Norfloxacin	Drug	Anti-Infective Agents, Quinolones
+DB08928	Arsthinol	Drug	0
+ENSG00000181104	F2R	Gene	0
+ENSG00000110148	CCKBR	Gene	0
+ENSG00000137869	CYP19A1	Gene	0
+ENSG00000163914	RHO	Gene	0
+ENSG00000136531	SCN2A	Gene	0
+ENSG00000080644	CHRNA3	Gene	0
+ENSG00000170214	ADRA1B	Gene	0
+ENSG00000159899	NPR2	Gene	0
+ENSG00000171303	KCNK3	Gene	0
+ENSG00000226589	VARS	Gene	0
+ENSG00000128918	ALDH1A2	Gene	0
+ENSG00000196839	ADA	Gene	0
+ENSG00000132170	PPARG	Gene	0
+ENSG00000101438	SLC32A1	Gene	0
+ENSG00000166199	ALKBH3	Gene	0
+ENSG00000167286	CD3D	Gene	0
+ENSG00000147432	CHRNB3	Gene	0
+ENSG00000102524	TNFSF13B	Gene	0
+ENSG00000127824	TUBA4A	Gene	0
+ENSG00000100346	CACNA1I	Gene	0
+ENSG00000177084	POLE	Gene	0
+ENSG00000147434	CHRNA6	Gene	0
+ENSG00000160654	CD3G	Gene	0
+ENSG00000109158	GABRA4	Gene	0
+ENSG00000156136	DCK	Gene	0
+ENSG00000113407	TARS	Gene	0
+ENSG00000177098	SCN4B	Gene	0
+ENSG00000161509	GRIN2C	Gene	0
+ENSG00000171791	BCL2	Gene	0
+ENSG00000171793	CTPS1	Gene	0
+ENSG00000159640	ACE	Gene	0
+ENSG00000159403	C1R	Gene	0
+ENSG00000099250	NRP1	Gene	0
+ENSG00000171557	FGG	Gene	0
+ENSG00000157227	MMP14	Gene	0
+ENSG00000169239	CA5B	Gene	0
+ENSG00000128928	IVD	Gene	0
+ENSG00000102755	FLT1	Gene	0
+ENSG00000102996	MMP15	Gene	0
+ENSG00000100577	GSTZ1	Gene	0
+ENSG00000163932	PRKCD	Gene	0
+ENSG00000121053	EPX	Gene	0
+ENSG00000182674	KCNB2	Gene	0
+ENSG00000184611	KCNH7	Gene	0
+ENSG00000161513	FDXR	Gene	0
+ENSG00000235067	TUBB	Gene	0
+ENSG00000157219	HTR5A	Gene	0
+ENSG00000136999	NOV	Gene	0
+ENSG00000171560	FGA	Gene	0
+ENSG00000044574	HSPA5	Gene	0
+ENSG00000047849	MAP4	Gene	0
+ENSG00000170231	FABP6	Gene	0
+ENSG00000171564	FGB	Gene	0
+ENSG00000111252	SH2B3	Gene	0
+ENSG00000133488	SEC14L4	Gene	0
+ENSG00000132155	RAF1	Gene	0
+ENSG00000136997	MYC	Gene	0
+ENSG00000131069	ACSS2	Gene	0
+ENSG00000111012	CYP27B1	Gene	0
+ENSG00000115850	LCT	Gene	0
+ENSG00000198804	MT-CO1	Gene	0
+ENSG00000196616	ADH1B	Gene	0
+ENSG00000010322	NISCH	Gene	0
+ENSG00000248144	ADH1C	Gene	0
+ENSG00000169006	NTSR2	Gene	0
+ENSG00000147416	ATP6V1B2	Gene	0
+ENSG00000012504	NR1H4	Gene	0
+ENSG00000168398	BDKRB2	Gene	0
+ENSG00000100368	CSF2RB	Gene	0
+ENSG00000183311	TUBB	Gene	0
+ENSG00000101213	PTK6	Gene	0
+ENSG00000185973	TMLHE	Gene	0
+ENSG00000091513	TF	Gene	0
+ENSG00000205629	LCMT1	Gene	0
+ENSG00000160678	S100A1	Gene	0
+ENSG00000087263	OGFOD1	Gene	0
+ENSG00000133019	CHRM3	Gene	0
+ENSG00000160439	RDH13	Gene	0
+ENSG00000156113	KCNMA1	Gene	0
+ENSG00000135437	RDH5	Gene	0
+ENSG00000104951	IL4I1	Gene	0
+ENSG00000156110	ADK	Gene	0
+ENSG00000170482	SLC23A1	Gene	0
+ENSG00000169252	ADRB2	Gene	0
+ENSG00000173511	VEGFB	Gene	0
+ENSG00000253729	PRKDC	Gene	0
+ENSG00000075043	KCNQ2	Gene	0
+ENSG00000005156	LIG3	Gene	0
+ENSG00000196611	MMP1	Gene	0
+ENSG00000157445	CACNA2D3	Gene	0
+ENSG00000173757	STAT5B	Gene	0
+ENSG00000115840	SLC25A12	Gene	0
+ENSG00000102539	MLNR	Gene	0
+ENSG00000109163	GNRHR	Gene	0
+ENSG00000100116	GCAT	Gene	0
+ENSG00000232810	TNF	Gene	0
+ENSG00000276838	SERPINF2	Gene	0
+ENSG00000101204	CHRNA4	Gene	0
+ENSG00000123454	DBH	Gene	0
+ENSG00000160200	CBS	Gene	0
+ENSG00000100596	SPTLC2	Gene	0
+ENSG00000011422	PLAUR	Gene	0
+ENSG00000161533	ACOX1	Gene	0
+ENSG00000160209	PDXK	Gene	0
+ENSG00000156103	MMP16	Gene	0
+ENSG00000090013	BLVRB	Gene	0
+ENSG00000135409	AMHR2	Gene	0
+ENSG00000113851	CRBN	Gene	0
+ENSG00000104904	OAZ1	Gene	0
+ENSG00000198821	CD247	Gene	0
+ENSG00000135643	KCNMB4	Gene	0
+ENSG00000171105	INSR	Gene	0
+ENSG00000196639	HRH1	Gene	0
+ENSG00000011677	GABRA3	Gene	0
+ENSG00000005381	MPO	Gene	0
+ENSG00000102967	DHODH	Gene	0
+ENSG00000126934	MAP2K2	Gene	0
+ENSG00000083720	OXCT1	Gene	0
+ENSG00000268173	PIK3R2	Gene	0
+ENSG00000145451	GLRA3	Gene	0
+ENSG00000088179	PTPN4	Gene	0
+ENSG00000145692	BHMT	Gene	0
+ENSG00000100300	TSPO	Gene	0
+ENSG00000087085	ACHE	Gene	0
+ENSG00000120156	TEK	Gene	0
+ENSG00000087086	FTL	Gene	0
+ENSG00000233076	DDAH2	Gene	0
+ENSG00000112759	SLC29A1	Gene	0
+ENSG00000089250	NOS1	Gene	0
+ENSG00000184408	KCND2	Gene	0
+ENSG00000240857	RDH14	Gene	0
+ENSG00000111424	VDR	Gene	0
+ENSG00000061938	TNK2	Gene	0
+ENSG00000169032	MAP2K1	Gene	0
+ENSG00000077044	DGKD	Gene	0
+ENSG00000007314	SCN4A	Gene	0
+ENSG00000021488	SLC7A9	Gene	0
+ENSG00000204580	DDR1	Gene	0
+ENSG00000198805	PNP	Gene	0
+ENSG00000142178	SIK1	Gene	0
+ENSG00000012779	ALOX5	Gene	0
+ENSG00000101868	POLA1	Gene	0
+ENSG00000124767	GLO1	Gene	0
+ENSG00000145681	HAPLN1	Gene	0
+ENSG00000124523	SIRT5	Gene	0
+ENSG00000125851	PCSK2	Gene	0
+ENSG00000134538	SLCO1B1	Gene	0
+ENSG00000158748	HTR6	Gene	0
+ENSG00000163737	PF4	Gene	0
+ENSG00000196664	TLR7	Gene	0
+ENSG00000077498	TYR	Gene	0
+ENSG00000171121	KCNMB3	Gene	0
+ENSG00000118298	CA14	Gene	0
+ENSG00000112541	PDE10A	Gene	0
+ENSG00000198848	CES1	Gene	0
+ENSG00000132356	PRKAA1	Gene	0
+ENSG00000142166	IFNAR1	Gene	0
+ENSG00000224389	C4B	Gene	0
+ENSG00000206511	GABBR1	Gene	0
+ENSG00000102743	SLC25A15	Gene	0
+ENSG00000123643	SLC36A1	Gene	0
+ENSG00000143252	SDHC	Gene	0
+ENSG00000145675	PIK3R1	Gene	0
+ENSG00000186868	MAPT	Gene	0
+ENSG00000148702	HABP2	Gene	0
+ENSG00000022355	GABRA1	Gene	0
+ENSG00000157404	KIT	Gene	0
+ENSG00000184428	TOP1MT	Gene	0
+ENSG00000067225	PKM	Gene	0
+ENSG00000262406	MMP12	Gene	0
+ENSG00000169297	NR0B1	Gene	0
+ENSG00000224156	TUBB	Gene	0
+ENSG00000196408	NOXO1	Gene	0
+ENSG00000198829	SUCNR1	Gene	0
+ENSG00000100316	RPL3	Gene	0
+ENSG00000101405	OXT	Gene	0
+ENSG00000185760	KCNQ5	Gene	0
+ENSG00000088386	SLC15A1	Gene	0
+ENSG00000182255	KCNA4	Gene	0
+ENSG00000182256	GABRG3	Gene	0
+ENSG00000179097	HTR1F	Gene	0
+ENSG00000163993	S100P	Gene	0
+ENSG00000185527	PDE6G	Gene	0
+ENSG00000091140	DLD	Gene	0
+ENSG00000069696	DRD4	Gene	0
+ENSG00000090054	SPTLC1	Gene	0
+ENSG00000129167	TPH1	Gene	0
+ENSG00000068366	ACSL4	Gene	0
+ENSG00000112964	GHR	Gene	0
+ENSG00000278183	ABCC1	Gene	0
+ENSG00000171385	KCND3	Gene	0
+ENSG00000196689	TRPV1	Gene	0
+ENSG00000132334	PTPRE	Gene	0
+ENSG00000035687	ADSS	Gene	0
+ENSG00000187730	GABRD	Gene	0
+ENSG00000100504	PYGL	Gene	0
+ENSG00000124713	GNMT	Gene	0
+ENSG00000100985	MMP9	Gene	0
+ENSG00000121207	LRAT	Gene	0
+ENSG00000160014	CALM3	Gene	0
+ENSG00000151090	THRB	Gene	0
+ENSG00000100983	GSS	Gene	0
+ENSG00000160013	PTGIR	Gene	0
+ENSG00000188822	CNR2	Gene	0
+ENSG00000183134	PTGDR2	Gene	0
+ENSG00000160255	ITGB2	Gene	0
+ENSG00000186642	PDE2A	Gene	0
+ENSG00000164615	CAMLG	Gene	0
+ENSG00000185313	SCN10A	Gene	0
+ENSG00000165704	HPRT1	Gene	0
+ENSG00000233276	GPX1	Gene	0
+ENSG00000162434	JAK1	Gene	0
+ENSG00000112715	VEGFA	Gene	0
+ENSG00000257473	HLA-DQA2	Gene	0
+ENSG00000278195	SSTR3	Gene	0
+ENSG00000198851	CD3E	Gene	0
+ENSG00000172482	AGXT	Gene	0
+ENSG00000196433	ASMT	Gene	0
+ENSG00000130164	LDLR	Gene	0
+ENSG00000174669	SLC29A2	Gene	0
+ENSG00000153029	MR1	Gene	0
+ENSG00000145888	GLRA1	Gene	0
+ENSG00000143226	FCGR2A	Gene	0
+ENSG00000140199	SLC12A6	Gene	0
+ENSG00000122787	AKR1D1	Gene	0
+ENSG00000164867	NOS3	Gene	0
+ENSG00000121691	CAT	Gene	0
+ENSG00000108691	CCL2	Gene	0
+ENSG00000203857	HSD3B1	Gene	0
+ENSG00000203859	HSD3B2	Gene	0
+ENSG00000074803	SLC12A1	Gene	0
+ENSG00000069431	ABCC9	Gene	0
+ENSG00000107159	CA9	Gene	0
+ENSG00000153253	SCN3A	Gene	0
+ENSG00000026508	CD44	Gene	0
+ENSG00000198400	NTRK1	Gene	0
+ENSG00000094631	HDAC6	Gene	0
+ENSG00000128052	KDR	Gene	0
+ENSG00000239836	PSMB9	Gene	0
+ENSG00000128050	PAICS	Gene	0
+ENSG00000198888	MT-ND1	Gene	0
+ENSG00000135821	GLUL	Gene	0
+ENSG00000169083	AR	Gene	0
+ENSG00000151079	KCNA6	Gene	0
+ENSG00000131462	TUBG1	Gene	0
+ENSG00000162692	VCAM1	Gene	0
+ENSG00000224586	GPX5	Gene	0
+ENSG00000163541	SUCLG1	Gene	0
+ENSG00000101856	PGRMC1	Gene	0
+ENSG00000143450	OAZ3	Gene	0
+ENSG00000164879	CA3	Gene	0
+ENSG00000259207	ITGB3	Gene	0
+ENSG00000128059	PPAT	Gene	0
+ENSG00000187758	ADH1A	Gene	0
+ENSG00000131477	RAMP2	Gene	0
+ENSG00000151067	CACNA1C	Gene	0
+ENSG00000090020	SLC9A1	Gene	0
+ENSG00000132329	RAMP1	Gene	0
+ENSG00000111886	GABRR2	Gene	0
+ENSG00000136928	GABBR2	Gene	0
+ENSG00000110799	VWF	Gene	0
+ENSG00000129151	BBOX1	Gene	0
+ENSG00000118260	CREB1	Gene	0
+ENSG00000175535	PNLIP	Gene	0
+ENSG00000173599	PC	Gene	0
+ENSG00000131471	AOC3	Gene	0
+ENSG00000025423	HSD17B6	Gene	0
+ENSG00000196218	RYR1	Gene	0
+ENSG00000165970	SLC6A5	Gene	0
+ENSG00000228716	DHFR	Gene	0
+ENSG00000186652	PRG2	Gene	0
+ENSG00000160282	FTCD	Gene	0
+ENSG00000109320	NFKB1	Gene	0
+ENSG00000166825	ANPEP	Gene	0
+ENSG00000139190	VAMP1	Gene	0
+ENSG00000123610	TNFAIP6	Gene	0
+ENSG00000165731	RET	Gene	0
+ENSG00000145864	GABRB2	Gene	0
+ENSG00000129159	KCNC1	Gene	0
+ENSG00000145863	GABRA6	Gene	0
+ENSG00000070669	ASNS	Gene	0
+ENSG00000215644	GCGR	Gene	0
+ENSG00000131686	CA6	Gene	0
+ENSG00000073756	PTGS2	Gene	0
+ENSG00000196482	ESRRG	Gene	0
+ENSG00000132535	DLG4	Gene	0
+ENSG00000006638	TBXA2R	Gene	0
+ENSG00000166828	SCNN1G	Gene	0
+ENSG00000128271	ADORA2A	Gene	0
+ENSG00000095303	PTGS1	Gene	0
+ENSG00000127184	COX7C	Gene	0
+ENSG00000198668	CALM1	Gene	0
+ENSG00000171189	GRIK1	Gene	0
+ENSG00000173369	C1QB	Gene	0
+ENSG00000138079	SLC3A1	Gene	0
+ENSG00000081148	IMPG2	Gene	0
+ENSG00000138074	SLC5A6	Gene	0
+ENSG00000164418	GRIK2	Gene	0
+ENSG00000080293	SCTR	Gene	0
+ENSG00000108423	TUBD1	Gene	0
+ENSG00000122971	ACADS	Gene	0
+ENSG00000176884	GRIN1	Gene	0
+ENSG00000047457	CP	Gene	0
+ENSG00000053918	KCNQ1	Gene	0
+ENSG00000196230	TUBB	Gene	0
+ENSG00000197561	ELANE	Gene	0
+ENSG00000198650	TAT	Gene	0
+ENSG00000173372	C1QA	Gene	0
+ENSG00000156738	MS4A1	Gene	0
+ENSG00000121897	LIAS	Gene	0
+ENSG00000036565	SLC18A1	Gene	0
+ENSG00000166840	GLYATL1	Gene	0
+ENSG00000116032	GRIN3B	Gene	0
+ENSG00000175309	PHYKPL	Gene	0
+ENSG00000120329	SLC25A2	Gene	0
+ENSG00000204983	PRSS1	Gene	0
+ENSG00000184494	NEU1	Gene	0
+ENSG00000184254	ALDH1A3	Gene	0
+ENSG00000185100	ADSSL1	Gene	0
+ENSG00000105383	CD33	Gene	0
+ENSG00000162009	SSTR5	Gene	0
+ENSG00000165995	CACNB2	Gene	0
+ENSG00000107562	CXCL12	Gene	0
+ENSG00000073734	ABCB11	Gene	0
+ENSG00000196262	PPIA	Gene	0
+ENSG00000197594	ENPP1	Gene	0
+ENSG00000176890	TYMS	Gene	0
+ENSG00000197119	SLC25A29	Gene	0
+ENSG00000077097	TOP2B	Gene	0
+ENSG00000162496	DHRS3	Gene	0
+ENSG00000077092	RARB	Gene	0
+ENSG00000057252	SOAT1	Gene	0
+ENSG00000225635	DDAH2	Gene	0
+ENSG00000163581	SLC2A2	Gene	0
+ENSG00000188641	DPYD	Gene	0
+ENSG00000163106	HPGDS	Gene	0
+ENSG00000186469	GNG2	Gene	0
+ENSG00000234343	NEU1	Gene	0
+ENSG00000108684	ASIC2	Gene	0
+ENSG00000015413	DPEP1	Gene	0
+ENSG00000167701	GPT	Gene	0
+ENSG00000106258	CYP3A5	Gene	0
+ENSG00000129596	CDO1	Gene	0
+ENSG00000198670	LPA	Gene	0
+ENSG00000050628	PTGER3	Gene	0
+ENSG00000198431	TXNRD1	Gene	0
+ENSG00000197584	KCNMB2	Gene	0
+ENSG00000243067	PSMB9	Gene	0
+ENSG00000132763	MMACHC	Gene	0
+ENSG00000268104	SLC6A14	Gene	0
+ENSG00000100714	MTHFD1	Gene	0
+ENSG00000166862	CACNG2	Gene	0
+ENSG00000117385	P3H1	Gene	0
+ENSG00000183185	GABRR3	Gene	0
+ENSG00000121879	PIK3CA	Gene	0
+ENSG00000156709	AIFM1	Gene	0
+ENSG00000142319	SLC6A3	Gene	0
+ENSG00000168806	LCMT2	Gene	0
+ENSG00000180914	OXTR	Gene	0
+ENSG00000226979	LTA	Gene	0
+ENSG00000142798	HSPG2	Gene	0
+ENSG00000163599	CTLA4	Gene	0
+ENSG00000167711	SERPINF2	Gene	0
+ENSG00000149295	DRD2	Gene	0
+ENSG00000127022	CANX	Gene	0
+ENSG00000177885	GRB2	Gene	0
+ENSG00000133706	LARS	Gene	0
+ENSG00000206298	PSMB8	Gene	0
+ENSG00000084207	GSTP1	Gene	0
+ENSG00000138395	CDK15	Gene	0
+ENSG00000163485	ADORA1	Gene	0
+ENSG00000162396	PARS2	Gene	0
+ENSG00000116120	FARSB	Gene	0
+ENSG00000138398	PPIG	Gene	0
+ENSG00000145936	KCNMB1	Gene	0
+ENSG00000084453	SLCO1A2	Gene	0
+ENSG00000184185	KCNJ12	Gene	0
+ENSG00000188784	PLA2G2E	Gene	0
+ENSG00000121966	CXCR4	Gene	0
+ENSG00000168938	PPIC	Gene	0
+ENSG00000140009	ESR2	Gene	0
+ENSG00000099937	SERPIND1	Gene	0
+ENSG00000081181	ARG2	Gene	0
+ENSG00000103056	SMPD3	Gene	0
+ENSG00000178741	COX5A	Gene	0
+ENSG00000130203	APOE	Gene	0
+ENSG00000092068	SLC7A8	Gene	0
+ENSG00000269858	EGLN2	Gene	0
+ENSG00000196154	S100A4	Gene	0
+ENSG00000196396	PTPN1	Gene	0
+ENSG00000011083	SLC6A7	Gene	0
+ENSG00000074410	CA12	Gene	0
+ENSG00000110811	P3H3	Gene	0
+ENSG00000206289	RXRB	Gene	0
+ENSG00000151366	NDUFC2	Gene	0
+ENSG00000086619	ERO1LB	Gene	0
+ENSG00000186350	RXRA	Gene	0
+ENSG00000243480	AMY2A	Gene	0
+ENSG00000233209	HLA-DQB1	Gene	0
+ENSG00000188536	HBA2	Gene	0
+ENSG00000188778	ADRB3	Gene	0
+ENSG00000225824	HLA-DQB1	Gene	0
+ENSG00000142657	PGD	Gene	0
+ENSG00000129219	PLD2	Gene	0
+ENSG00000137070	IL11RA	Gene	0
+ENSG00000129214	SHBG	Gene	0
+ENSG00000105464	GRIN2D	Gene	0
+ENSG00000007908	SELE	Gene	0
+ENSG00000106348	IMPDH1	Gene	0
+ENSG00000198363	ASPH	Gene	0
+ENSG00000106105	GARS	Gene	0
+ENSG00000095321	CRAT	Gene	0
+ENSG00000174156	GSTA3	Gene	0
+ENSG00000072682	P4HA2	Gene	0
+ENSG00000147099	HDAC8	Gene	0
+ENSG00000131747	TOP2A	Gene	0
+ENSG00000152207	CYSLTR2	Gene	0
+ENSG00000065911	MTHFD2	Gene	0
+ENSG00000117479	SLC19A2	Gene	0
+ENSG00000005961	ITGA2B	Gene	0
+ENSG00000185291	IL3RA	Gene	0
+ENSG00000100804	PSMB5	Gene	0
+ENSG00000162174	ASRGL1	Gene	0
+ENSG00000168959	GRM5	Gene	0
+ENSG00000070019	GUCY2C	Gene	0
+ENSG00000176340	COX8A	Gene	0
+ENSG00000072694	FCGR2B	Gene	0
+ENSG00000131759	RARA	Gene	0
+ENSG00000196177	ACADSB	Gene	0
+ENSG00000198598	MMP17	Gene	0
+ENSG00000198356	ASNA1	Gene	0
+ENSG00000176105	YES1	Gene	0
+ENSG00000119630	PGF	Gene	0
+ENSG00000132840	BHMT2	Gene	0
+ENSG00000004864	SLC25A13	Gene	0
+ENSG00000117461	PIK3R3	Gene	0
+ENSG00000120868	APAF1	Gene	0
+ENSG00000143727	ACP1	Gene	0
+ENSG00000164362	TERT	Gene	0
+ENSG00000140459	CYP11A1	Gene	0
+ENSG00000082482	KCNK2	Gene	0
+ENSG00000165457	FOLR2	Gene	0
+ENSG00000231286	HLA-DQB1	Gene	0
+ENSG00000189409	MMP23B	Gene	0
+ENSG00000105486	LIG1	Gene	0
+ENSG00000014138	POLA2	Gene	0
+ENSG00000107611	CUBN	Gene	0
+ENSG00000105675	ATP4A	Gene	0
+ENSG00000152661	GJA1	Gene	0
+ENSG00000142619	PADI3	Gene	0
+ENSG00000107614	TRDMT1	Gene	0
+ENSG00000174175	SELP	Gene	0
+ENSG00000211445	GPX3	Gene	0
+ENSG00000116329	OPRD1	Gene	0
+ENSG00000027697	IFNGR1	Gene	0
+ENSG00000139687	RB1	Gene	0
+ENSG00000151577	DRD3	Gene	0
+ENSG00000138115	CYP2C8	Gene	0
+ENSG00000178537	SLC25A20	Gene	0
+ENSG00000178538	CA8	Gene	0
+ENSG00000117411	B4GALT2	Gene	0
+ENSG00000163285	GABRG1	Gene	0
+ENSG00000166311	SMPD1	Gene	0
+ENSG00000166794	PPIB	Gene	0
+ENSG00000115232	ITGA4	Gene	0
+ENSG00000163286	ALPPL2	Gene	0
+ENSG00000139684	ESD	Gene	0
+ENSG00000163288	GABRB1	Gene	0
+ENSG00000142627	EPHA2	Gene	0
+ENSG00000278540	ACACA	Gene	0
+ENSG00000187258	NPSR1	Gene	0
+ENSG00000142623	PADI1	Gene	0
+ENSG00000048392	RRM2B	Gene	0
+ENSG00000140443	IGF1R	Gene	0
+ENSG00000108932	SLC16A6	Gene	0
+ENSG00000131730	CKMT2	Gene	0
+ENSG00000130643	CALY	Gene	0
+ENSG00000148154	UGCG	Gene	0
+ENSG00000149485	FADS1	Gene	0
+ENSG00000105426	PTPRS	Gene	0
+ENSG00000074695	LMAN1	Gene	0
+ENSG00000064651	SLC12A2	Gene	0
+ENSG00000179639	FCER1A	Gene	0
+ENSG00000280873	DGKD	Gene	0
+ENSG00000139219	COL2A1	Gene	0
+ENSG00000065989	PDE4A	Gene	0
+ENSG00000118520	ARG1	Gene	0
+ENSG00000170820	FSHR	Gene	0
+ENSG00000117400	MPL	Gene	0
+ENSG00000135094	SDS	Gene	0
+ENSG00000138363	ATIC	Gene	0
+ENSG00000187242	KRT12	Gene	0
+ENSG00000116791	CRYZ	Gene	0
+ENSG00000187486	KCNJ11	Gene	0
+ENSG00000188338	SLC38A3	Gene	0
+ENSG00000141526	SLC16A3	Gene	0
+ENSG00000180616	SSTR2	Gene	0
+ENSG00000140675	SLC5A2	Gene	0
+ENSG00000168748	CA7	Gene	0
+ENSG00000103485	QPRT	Gene	0
+ENSG00000126351	THRA	Gene	0
+ENSG00000104365	IKBKB	Gene	0
+ENSG00000073578	SDHA	Gene	0
+ENSG00000003989	SLC7A2	Gene	0
+ENSG00000106546	AHR	Gene	0
+ENSG00000104368	PLAT	Gene	0
+ENSG00000099960	SLC7A4	Gene	0
+ENSG00000139428	MMAB	Gene	0
+ENSG00000037280	FLT4	Gene	0
+ENSG00000152402	GUCY1A2	Gene	0
+ENSG00000273079	GRIN2B	Gene	0
+ENSG00000115252	PDE1A	Gene	0
+ENSG00000164399	IL3	Gene	0
+ENSG00000085563	ABCB1	Gene	0
+ENSG00000088832	FKBP1A	Gene	0
+ENSG00000143933	CALM2	Gene	0
+ENSG00000232569	GABBR1	Gene	0
+ENSG00000141510	TP53	Gene	0
+ENSG00000102172	SMS	Gene	0
+ENSG00000099953	MMP11	Gene	0
+ENSG00000115008	IL1A	Gene	0
+ENSG00000159267	HLCS	Gene	0
+ENSG00000178568	ERBB4	Gene	0
+ENSG00000115488	NEU2	Gene	0
+ENSG00000115486	GGCX	Gene	0
+ENSG00000167434	CA4	Gene	0
+ENSG00000168765	GSTM4	Gene	0
+ENSG00000136160	EDNRB	Gene	0
+ENSG00000088826	SMOX	Gene	0
+ENSG00000137491	SLCO2B1	Gene	0
+ENSG00000187266	EPOR	Gene	0
+ENSG00000258947	TUBB3	Gene	0
+ENSG00000232575	TUBB	Gene	0
+ENSG00000010810	FYN	Gene	0
+ENSG00000104783	KCNN4	Gene	0
+ENSG00000102362	SYTL4	Gene	0
+ENSG00000176153	GPX2	Gene	0
+ENSG00000160801	PTH1R	Gene	0
+ENSG00000149452	SLC22A8	Gene	0
+ENSG00000177000	MTHFR	Gene	0
+ENSG00000153956	CACNA2D1	Gene	0
+ENSG00000104549	SQLE	Gene	0
+ENSG00000135046	ANXA1	Gene	0
+ENSG00000105639	JAK3	Gene	0
+ENSG00000263243	KRT12	Gene	0
+ENSG00000112164	GLP1R	Gene	0
+ENSG00000138798	EGF	Gene	0
+ENSG00000116761	CTH	Gene	0
+ENSG00000113494	PRLR	Gene	0
+ENSG00000277656	GSTT1	Gene	0
+ENSG00000188386	PPP3R2	Gene	0
+ENSG00000137462	TLR2	Gene	0
+ENSG00000166598	HSP90B1	Gene	0
+ENSG00000113492	AGXT2	Gene	0
+ENSG00000141736	ERBB2	Gene	0
+ENSG00000277893	SRD5A2	Gene	0
+ENSG00000168539	CHRM1	Gene	0
+ENSG00000165029	ABCA1	Gene	0
+ENSG00000125245	GPR18	Gene	0
+ENSG00000100170	SLC5A1	Gene	0
+ENSG00000244734	HBB	Gene	0
+ENSG00000204264	PSMB8	Gene	0
+ENSG00000115425	PECR	Gene	0
+ENSG00000244731	C4A	Gene	0
+ENSG00000117601	SERPINC1	Gene	0
+ENSG00000114573	ATP6V1A	Gene	0
+ENSG00000189221	MAOA	Gene	0
+ENSG00000166123	GPT2	Gene	0
+ENSG00000166126	AMN	Gene	0
+ENSG00000281917	SLC16A1	Gene	0
+ENSG00000051382	PIK3CB	Gene	0
+ENSG00000136143	SUCLA2	Gene	0
+ENSG00000168542	COL3A1	Gene	0
+ENSG00000197081	IGF2R	Gene	0
+ENSG00000104321	TRPA1	Gene	0
+ENSG00000126790	L3HYPDH	Gene	0
+ENSG00000122194	PLG	Gene	0
+ENSG00000137204	SLC22A7	Gene	0
+ENSG00000171960	PPIH	Gene	0
+ENSG00000072042	RDH11	Gene	0
+ENSG00000171720	HDAC3	Gene	0
+ENSG00000204490	TNF	Gene	0
+ENSG00000265203	RBP3	Gene	0
+ENSG00000228267	C4B	Gene	0
+ENSG00000230108	TNF	Gene	0
+ENSG00000167468	GPX4	Gene	0
+ENSG00000206439	TNF	Gene	0
+ENSG00000023909	GCLM	Gene	0
+ENSG00000008394	MGST1	Gene	0
+ENSG00000275211	CYP2D6	Gene	0
+ENSG00000105650	PDE4C	Gene	0
+ENSG00000124140	SLC12A5	Gene	0
+ENSG00000105642	KCNN1	Gene	0
+ENSG00000130821	SLC6A8	Gene	0
+ENSG00000105647	PIK3R2	Gene	0
+ENSG00000114115	RBP1	Gene	0
+ENSG00000153922	CHD1	Gene	0
+ENSG00000028137	TNFRSF1B	Gene	0
+ENSG00000179218	CALR	Gene	0
+ENSG00000067704	IARS2	Gene	0
+ENSG00000139631	CSAD	Gene	0
+ENSG00000139874	SSTR1	Gene	0
+ENSG00000117862	TXNDC12	Gene	0
+ENSG00000113263	ITK	Gene	0
+ENSG00000086205	FOLH1	Gene	0
+ENSG00000166148	AVPR1A	Gene	0
+ENSG00000276559	BAAT	Gene	0
+ENSG00000134184	GSTM1	Gene	0
+ENSG00000172819	RARG	Gene	0
+ENSG00000147246	HTR2C	Gene	0
+ENSG00000130816	DNMT1	Gene	0
+ENSG00000146399	TAAR1	Gene	0
+ENSG00000177272	KCNA3	Gene	0
+ENSG00000169418	NPR1	Gene	0
+ENSG00000010610	CD4	Gene	0
+ENSG00000103222	ABCC1	Gene	0
+ENSG00000100197	CYP2D6	Gene	0
+ENSG00000101470	TNNC2	Gene	0
+ENSG00000180210	F2	Gene	0
+ENSG00000090530	P3H2	Gene	0
+ENSG00000147471	PROSC	Gene	0
+ENSG00000135002	RFK	Gene	0
+ENSG00000170890	PLA2G1B	Gene	0
+ENSG00000158125	XDH	Gene	0
+ENSG00000106927	AMBP	Gene	0
+ENSG00000116962	NID1	Gene	0
+ENSG00000111275	ALDH2	Gene	0
+ENSG00000151729	SLC25A4	Gene	0
+ENSG00000149418	ST14	Gene	0
+ENSG00000151726	ACSL1	Gene	0
+ENSG00000231852	CYP21A2	Gene	0
+ENSG00000109193	SULT1E1	Gene	0
+ENSG00000153904	DDAH1	Gene	0
+ENSG00000135480	KRT7	Gene	0
+ENSG00000123268	ATF1	Gene	0
+ENSG00000124357	NAGK	Gene	0
+ENSG00000070915	SLC12A3	Gene	0
+ENSG00000100385	IL2RB	Gene	0
+ENSG00000169427	KCNK9	Gene	0
+ENSG00000182866	LCK	Gene	0
+ENSG00000017260	ATP2C1	Gene	0
+ENSG00000161944	ASGR2	Gene	0
+ENSG00000113448	PDE4D	Gene	0
+ENSG00000099337	KCNK6	Gene	0
+ENSG00000075388	FGF4	Gene	0
+ENSG00000081800	SLC13A1	Gene	0
+ENSG00000042445	RETSAT	Gene	0
+ENSG00000115866	DARS	Gene	0
+ENSG00000228691	NEU1	Gene	0
+ENSG00000116711	PLA2G4A	Gene	0
+ENSG00000112115	IL17A	Gene	0
+ENSG00000137673	MMP7	Gene	0
+ENSG00000111262	KCNA1	Gene	0
+ENSG00000137674	MMP20	Gene	0
+ENSG00000170421	KRT8	Gene	0
+ENSG00000228454	C4B	Gene	0
+ENSG00000137675	MMP27	Gene	0
+ENSG00000170899	GSTA4	Gene	0
+ENSG00000169676	DRD5	Gene	0
+ENSG00000169432	SCN9A	Gene	0
+ENSG00000135250	SRPK2	Gene	0
+ENSG00000227129	NEU1	Gene	0
+ENSG00000166165	CKB	Gene	0
+ENSG00000148795	CYP17A1	Gene	0
+ENSG00000169439	SDC2	Gene	0
+ENSG00000160868	CYP3A4	Gene	0
+ENSG00000080709	KCNN2	Gene	0
+ENSG00000124570	SERPINB6	Gene	0
+ENSG00000160867	FGFR4	Gene	0
+ENSG00000144182	LIPT1	Gene	0
+ENSG00000104524	PYCRL	Gene	0
+ENSG00000179002	TAS1R2	Gene	0
+ENSG00000012817	KDM5D	Gene	0
+ENSG00000076685	NT5C2	Gene	0
+ENSG00000138735	PDE5A	Gene	0
+ENSG00000170430	MGMT	Gene	0
+ENSG00000115414	FN1	Gene	0
+ENSG00000115896	PLCL1	Gene	0
+ENSG00000171522	PTGER4	Gene	0
+ENSG00000158104	HPD	Gene	0
+ENSG00000116984	MTR	Gene	0
+ENSG00000171766	GATM	Gene	0
+ENSG00000240583	AQP1	Gene	0
+ENSG00000113231	PDE8B	Gene	0
+ENSG00000170425	ADORA2B	Gene	0
+ENSG00000168356	SCN11A	Gene	0
+ENSG00000171759	PAH	Gene	0
+ENSG00000229314	ORM1	Gene	0
+ENSG00000151704	KCNJ1	Gene	0
+ENSG00000276747	PADI6	Gene	0
+ENSG00000169684	CHRNA5	Gene	0
+ENSG00000169442	CD52	Gene	0
+ENSG00000091831	ESR1	Gene	0
+ENSG00000231631	PSMB8	Gene	0
+ENSG00000178394	HTR1A	Gene	0
+ENSG00000184845	DRD1	Gene	0
+ENSG00000240118	PSMB9	Gene	0
+ENSG00000145020	AMT	Gene	0
+ENSG00000165092	ALDH1A1	Gene	0
+ENSG00000206466	GABBR1	Gene	0
+ENSG00000065325	GLP2R	Gene	0
+ENSG00000105607	GCDH	Gene	0
+ENSG00000077782	FGFR1	Gene	0
+ENSG00000196811	CHRNG	Gene	0
+ENSG00000158578	ALAS2	Gene	0
+ENSG00000157005	SST	Gene	0
+ENSG00000197901	SLC22A6	Gene	0
+ENSG00000170445	HARS	Gene	0
+ENSG00000276996	SLC6A3	Gene	0
+ENSG00000189046	ALKBH2	Gene	0
+ENSG00000231408	LTA	Gene	0
+ENSG00000160882	CYP11B1	Gene	0
+ENSG00000124588	NQO2	Gene	0
+ENSG00000100156	SLC16A8	Gene	0
+ENSG00000125675	GRIA3	Gene	0
+ENSG00000126522	ASL	Gene	0
+ENSG00000101000	PROCR	Gene	0
+ENSG00000262795	IFNGR2	Gene	0
+ENSG00000115718	PROC	Gene	0
+ENSG00000066468	FGFR2	Gene	0
+ENSG00000082701	GSK3B	Gene	0
+ENSG00000137745	MMP13	Gene	0
+ENSG00000158445	KCNB1	Gene	0
+ENSG00000198900	TOP1	Gene	0
+ENSG00000274542	CHRNA7	Gene	0
+ENSG00000148408	CACNA1B	Gene	0
+ENSG00000196715	VKORC1L1	Gene	0
+ENSG00000227315	NEU1	Gene	0
+ENSG00000127948	POR	Gene	0
+ENSG00000169100	SLC25A6	Gene	0
+ENSG00000227317	DDAH2	Gene	0
+ENSG00000144285	SCN1A	Gene	0
+ENSG00000184984	CHRM5	Gene	0
+ENSG00000184500	PROS1	Gene	0
+ENSG00000179142	CYP11B2	Gene	0
+ENSG00000143198	MGST3	Gene	0
+ENSG00000102882	MAPK3	Gene	0
+ENSG00000123342	MMP19	Gene	0
+ENSG00000182326	C1S	Gene	0
+ENSG00000237112	GABBR1	Gene	0
+ENSG00000262785	PKLR	Gene	0
+ENSG00000140905	GCSH	Gene	0
+ENSG00000115705	TPO	Gene	0
+ENSG00000262304	TRPV1	Gene	0
+ENSG00000114859	CLCN2	Gene	0
+ENSG00000242711	PSMB9	Gene	0
+ENSG00000113525	IL5	Gene	0
+ENSG00000114854	TNNC1	Gene	0
+ENSG00000137513	NARS2	Gene	0
+ENSG00000268089	GABRQ	Gene	0
+ENSG00000134489	HRH4	Gene	0
+ENSG00000157103	SLC6A1	Gene	0
+ENSG00000170345	FOS	Gene	0
+ENSG00000227322	RXRB	Gene	0
+ENSG00000137752	CASP1	Gene	0
+ENSG00000231823	HLA-DQA2	Gene	0
+ENSG00000149968	MMP3	Gene	0
+ENSG00000125538	IL1B	Gene	0
+ENSG00000182793	GSTA5	Gene	0
+ENSG00000090316	MAEA	Gene	0
+ENSG00000086062	B4GALT1	Gene	0
+ENSG00000122025	FLT3	Gene	0
+ENSG00000108179	PPIF	Gene	0
+ENSG00000213366	GSTM2	Gene	0
+ENSG00000241878	PISD	Gene	0
+ENSG00000160307	S100B	Gene	0
+ENSG00000180398	MCFD2	Gene	0
+ENSG00000163815	CLEC3B	Gene	0
+ENSG00000143171	RXRG	Gene	0
+ENSG00000162728	KCNJ9	Gene	0
+ENSG00000116824	CD2	Gene	0
+ENSG00000065357	DGKA	Gene	0
+ENSG00000104848	KCNA7	Gene	0
+ENSG00000136877	FPGS	Gene	0
+ENSG00000131187	F12	Gene	0
+ENSG00000160791	CCR5	Gene	0
+ENSG00000120053	GOT1	Gene	0
+ENSG00000101336	HCK	Gene	0
+ENSG00000162733	DDR2	Gene	0
+ENSG00000100003	SEC14L2	Gene	0
+ENSG00000100243	CYB5R3	Gene	0
+ENSG00000063180	CA11	Gene	0
+ENSG00000164919	COX6C	Gene	0
+ENSG00000135318	NT5E	Gene	0
+ENSG00000043591	ADRB1	Gene	0
+ENSG00000138823	MTTP	Gene	0
+ENSG00000131196	NFATC1	Gene	0
+ENSG00000136881	BAAT	Gene	0
+ENSG00000113302	IL12B	Gene	0
+ENSG00000135312	HTR1B	Gene	0
+ENSG00000157326	DHRS4	Gene	0
+ENSG00000137731	FXYD2	Gene	0
+ENSG00000007216	SLC13A2	Gene	0
+ENSG00000173868	PHOSPHO1	Gene	0
+ENSG00000134460	IL2RA	Gene	0
+ENSG00000100479	POLE2	Gene	0
+ENSG00000036828	CASR	Gene	0
+ENSG00000156471	PTDSS1	Gene	0
+ENSG00000178084	HTR3C	Gene	0
+ENSG00000155380	SLC16A1	Gene	0
+ENSG00000146674	IGFBP3	Gene	0
+ENSG00000079999	KEAP1	Gene	0
+ENSG00000078668	VDAC3	Gene	0
+ENSG00000182333	LIPF	Gene	0
+ENSG00000182578	CSF1R	Gene	0
+ENSG00000273686	B2M	Gene	0
+ENSG00000239732	TLR9	Gene	0
+ENSG00000111319	SCNN1A	Gene	0
+ENSG00000115919	KYNU	Gene	0
+ENSG00000186716	BCR	Gene	0
+ENSG00000162747	FCGR3B	Gene	0
+ENSG00000162989	KCNJ3	Gene	0
+ENSG00000233192	HLA-DQA2	Gene	0
+ENSG00000069535	MAOB	Gene	0
+ENSG00000180176	TH	Gene	0
+ENSG00000144481	TRPM8	Gene	0
+ENSG00000204231	RXRB	Gene	0
+ENSG00000168291	PDHB	Gene	0
+ENSG00000135766	EGLN1	Gene	0
+ENSG00000198704	GPX6	Gene	0
+ENSG00000196517	SLC6A9	Gene	0
+ENSG00000077150	NFKB2	Gene	0
+ENSG00000198938	MT-CO3	Gene	0
+ENSG00000108381	ASPA	Gene	0
+ENSG00000109471	IL2	Gene	0
+ENSG00000005022	SLC25A5	Gene	0
+ENSG00000125966	MMP24	Gene	0
+ENSG00000185875	THNSL1	Gene	0
+ENSG00000183454	GRIN2A	Gene	0
+ENSG00000109472	CPE	Gene	0
+ENSG00000121361	KCNJ8	Gene	0
+ENSG00000228849	TNF	Gene	0
+ENSG00000235134	CYP21A2	Gene	0
+ENSG00000181019	NQO1	Gene	0
+ENSG00000136628	EPRS	Gene	0
+ENSG00000110218	PANX1	Gene	0
+ENSG00000136869	TLR4	Gene	0
+ENSG00000137714	FDX1	Gene	0
+ENSG00000078018	MAP2	Gene	0
+ENSG00000115902	SLC1A4	Gene	0
+ENSG00000113721	PDGFRB	Gene	0
+ENSG00000168065	SLC22A11	Gene	0
+ENSG00000134684	YARS	Gene	0
+ENSG00000196511	TPK1	Gene	0
+ENSG00000157542	KCNJ6	Gene	0
+ENSG00000198931	APRT	Gene	0
+ENSG00000131174	COX7B	Gene	0
+ENSG00000134440	NARS	Gene	0
+ENSG00000196754	S100A2	Gene	0
+ENSG00000134201	GSTM5	Gene	0
+ENSG00000134202	GSTM3	Gene	0
+ENSG00000225103	HLA-DQA2	Gene	0
+ENSG00000124406	ATP8A1	Gene	0
+ENSG00000169397	RNASE3	Gene	0
+ENSG00000186951	PPARA	Gene	0
+ENSG00000101981	F9	Gene	0
+ENSG00000148834	GSTO1	Gene	0
+ENSG00000125730	C3	Gene	0
+ENSG00000158869	FCER1G	Gene	0
+ENSG00000214013	GANC	Gene	0
+ENSG00000135503	ACVR1B	Gene	0
+ENSG00000065154	OAT	Gene	0
+ENSG00000172572	PDE3A	Gene	0
+ENSG00000174990	CA5A	Gene	0
+ENSG00000198963	RORB	Gene	0
+ENSG00000008516	MMP25	Gene	0
+ENSG00000197632	SERPINB2	Gene	0
+ENSG00000197635	DPP4	Gene	0
+ENSG00000196305	IARS	Gene	0
+ENSG00000131143	COX4I1	Gene	0
+ENSG00000224264	VARS	Gene	0
+ENSG00000156689	GLYATL2	Gene	0
+ENSG00000196549	MME	Gene	0
+ENSG00000122679	RAMP3	Gene	0
+ENSG00000226201	PSMB8	Gene	0
+ENSG00000146648	EGFR	Gene	0
+ENSG00000120251	GRIA2	Gene	0
+ENSG00000055118	KCNH2	Gene	0
+ENSG00000143374	TARS2	Gene	0
+ENSG00000058866	DGKG	Gene	0
+ENSG00000182389	CACNB4	Gene	0
+ENSG00000113749	HRH2	Gene	0
+ENSG00000172340	SUCLG2	Gene	0
+ENSG00000111325	OGFOD2	Gene	0
+ENSG00000113504	SLC12A7	Gene	0
+ENSG00000135750	KCNK1	Gene	0
+ENSG00000204681	GABBR1	Gene	0
+ENSG00000003056	M6PR	Gene	0
+ENSG00000198712	MT-CO2	Gene	0
+ENSG00000158850	B4GALT3	Gene	0
+ENSG00000173432	SAA1	Gene	0
+ENSG00000157764	BRAF	Gene	0
+ENSG00000131398	KCNC3	Gene	0
+ENSG00000103707	MTFMT	Gene	0
+ENSG00000121594	CD80	Gene	0
+ENSG00000240508	PSMB9	Gene	0
+ENSG00000070748	CHAT	Gene	0
+ENSG00000089597	GANAB	Gene	0
+ENSG00000070501	POLB	Gene	0
+ENSG00000161217	PCYT1A	Gene	0
+ENSG00000163631	ALB	Gene	0
+ENSG00000090339	ICAM1	Gene	0
+ENSG00000234078	DDR1	Gene	0
+ENSG00000145545	SRD5A1	Gene	0
+ENSG00000233151	CYP21A2	Gene	0
+ENSG00000130037	KCNA5	Gene	0
+ENSG00000154485	MMP21	Gene	0
+ENSG00000023330	ALAS1	Gene	0
+ENSG00000023572	GLRX2	Gene	0
+ENSG00000170175	CHRNB1	Gene	0
+ENSG00000005469	CROT	Gene	0
+ENSG00000132693	CRP	Gene	0
+ENSG00000007402	CACNA2D2	Gene	0
+ENSG00000172115	CYCS	Gene	0
+ENSG00000130035	GALNT8	Gene	0
+ENSG00000197408	CYP2B6	Gene	0
+ENSG00000079385	CEACAM1	Gene	0
+ENSG00000101958	GLRA2	Gene	0
+ENSG00000147955	SIGMAR1	Gene	0
+ENSG00000057593	F7	Gene	0
+ENSG00000082556	OPRK1	Gene	0
+ENSG00000117054	ACADM	Gene	0
+ENSG00000183010	PYCR1	Gene	0
+ENSG00000123505	AMD1	Gene	0
+ENSG00000123983	ACSL3	Gene	0
+ENSG00000184588	PDE4B	Gene	0
+ENSG00000163406	SLC15A2	Gene	0
+ENSG00000203747	FCGR3A	Gene	0
+ENSG00000173692	PSMD1	Gene	0
+ENSG00000134640	MTNR1B	Gene	0
+ENSG00000198734	F5	Gene	0
+ENSG00000181072	CHRM2	Gene	0
+ENSG00000196557	CACNA1H	Gene	0
+ENSG00000130287	NCAN	Gene	0
+ENSG00000143105	KCNA10	Gene	0
+ENSG00000124608	AARS2	Gene	0
+ENSG00000121578	B4GALT4	Gene	0
+ENSG00000142494	SLC47A1	Gene	0
+ENSG00000226634	DDAH2	Gene	0
+ENSG00000271447	MMP28	Gene	0
+ENSG00000254087	LYN	Gene	0
+ENSG00000186510	CLCNKA	Gene	0
+ENSG00000108576	SLC6A4	Gene	0
+ENSG00000106397	PLOD3	Gene	0
+ENSG00000164742	ADCY1	Gene	0
+ENSG00000122420	PTGFR	Gene	0
+ENSG00000170190	SLC16A5	Gene	0
+ENSG00000236443	PSMB8	Gene	0
+ENSG00000156885	COX6A2	Gene	0
+ENSG00000132437	DDC	Gene	0
+ENSG00000110203	FOLR3	Gene	0
+ENSG00000094755	GABRP	Gene	0
+ENSG00000173221	GLRX	Gene	0
+ENSG00000111537	IFNG	Gene	0
+ENSG00000154229	PRKCA	Gene	0
+ENSG00000134853	PDGFRA	Gene	0
+ENSG00000176974	SHMT1	Gene	0
+ENSG00000135940	COX5B	Gene	0
+ENSG00000244067	GSTA2	Gene	0
+ENSG00000120457	KCNJ5	Gene	0
+ENSG00000060982	BCAT1	Gene	0
+ENSG00000162572	SCNN1D	Gene	0
+ENSG00000001084	GCLC	Gene	0
+ENSG00000100644	HIF1A	Gene	0
+ENSG00000227739	TUBB	Gene	0
+ENSG00000165841	CYP2C19	Gene	0
+ENSG00000011376	LARS2	Gene	0
+ENSG00000090382	LYZ	Gene	0
+ENSG00000171051	FPR1	Gene	0
+ENSG00000150093	ITGB1	Gene	0
+ENSG00000171298	GAA	Gene	0
+ENSG00000198754	OXCT2	Gene	0
+ENSG00000175899	A2M	Gene	0
+ENSG00000141385	AFG3L2	Gene	0
+ENSG00000281459	PADI1	Gene	0
+ENSG00000227746	C4A	Gene	0
+ENSG00000183023	SLC8A1	Gene	0
+ENSG00000144891	AGTR1	Gene	0
+ENSG00000145982	FARS2	Gene	0
+ENSG00000122884	P4HA1	Gene	0
+ENSG00000143322	ABL2	Gene	0
+ENSG00000237541	HLA-DQA2	Gene	0
+ENSG00000130234	ACE2	Gene	0
+ENSG00000215522	DDR1	Gene	0
+ENSG00000106128	GHRHR	Gene	0
+ENSG00000213585	VDAC1	Gene	0
+ENSG00000198785	GRIN3A	Gene	0
+ENSG00000236625	C4B	Gene	0
+ENSG00000177606	JUN	Gene	0
+ENSG00000196126	HLA-DRB1	Gene	0
+ENSG00000244005	NFS1	Gene	0
+ENSG00000133742	CA1	Gene	0
+ENSG00000118596	SLC16A7	Gene	0
+ENSG00000005421	PON1	Gene	0
+ENSG00000118113	MMP8	Gene	0
+ENSG00000175426	PCSK1	Gene	0
+ENSG00000223793	HLA-DQA2	Gene	0
+ENSG00000101916	TLR8	Gene	0
+ENSG00000140287	HDC	Gene	0
+ENSG00000117013	KCNQ4	Gene	0
+ENSG00000184381	PLA2G6	Gene	0
+ENSG00000140043	PTGR2	Gene	0
+ENSG00000185231	MC2R	Gene	0
+ENSG00000144407	PTH2R	Gene	0
+ENSG00000100823	APEX1	Gene	0
+ENSG00000083444	PLOD1	Gene	0
+ENSG00000084774	CAD	Gene	0
+ENSG00000160179	ABCG1	Gene	0
+ENSG00000067191	CACNB1	Gene	0
+ENSG00000145730	PAM	Gene	0
+ENSG00000213341	CHUK	Gene	0
+ENSG00000110619	CARS	Gene	0
+ENSG00000108786	HSD17B1	Gene	0
+ENSG00000166710	B2M	Gene	0
+ENSG00000106366	SERPINE1	Gene	0
+ENSG00000108784	NAGLU	Gene	0
+ENSG00000196591	HDAC2	Gene	0
+ENSG00000130005	GAMT	Gene	0
+ENSG00000174343	CHRNA9	Gene	0
+ENSG00000111700	SLCO1B3	Gene	0
+ENSG00000196352	CD55	Gene	0
+ENSG00000081248	CACNA1S	Gene	0
+ENSG00000197448	GSTK1	Gene	0
+ENSG00000197208	SLC22A4	Gene	0
+ENSG00000116157	GPX7	Gene	0
+ENSG00000163453	IGFBP7	Gene	0
+ENSG00000139053	PDE6H	Gene	0
+ENSG00000183044	ABAT	Gene	0
+ENSG00000117480	FAAH	Gene	0
+ENSG00000015520	NPC1L1	Gene	0
+ENSG00000164305	CASP3	Gene	0
+ENSG00000165637	VDAC2	Gene	0
+ENSG00000182199	SHMT2	Gene	0
+ENSG00000168906	MAT2A	Gene	0
+ENSG00000183048	SLC25A10	Gene	0
+ENSG00000166963	MAP1A	Gene	0
+ENSG00000122861	PLAU	Gene	0
+ENSG00000162368	CMPK1	Gene	0
+ENSG00000013588	GPRC5A	Gene	0
+ENSG00000155511	GRIA1	Gene	0
+ENSG00000135902	CHRND	Gene	0
+ENSG00000132639	SNAP25	Gene	0
+ENSG00000110887	DAO	Gene	0
+ENSG00000173020	ADRBK1	Gene	0
+ENSG00000110881	ASIC1	Gene	0
+ENSG00000175445	LPL	Gene	0
+ENSG00000177628	GBA	Gene	0
+ENSG00000081479	LRP2	Gene	0
+ENSG00000184160	ADRA2C	Gene	0
+ENSG00000223572	CKMT1A	Gene	0
+ENSG00000161281	COX7A1	Gene	0
+ENSG00000163221	S100A12	Gene	0
+ENSG00000078061	ARAF	Gene	0
+ENSG00000163464	CXCR1	Gene	0
+ENSG00000120659	TNFSF11	Gene	0
+ENSG00000185010	F8	Gene	0
+ENSG00000036473	OTC	Gene	0
+ENSG00000120899	PTK2B	Gene	0
+ENSG00000185015	CA13	Gene	0
+ENSG00000108561	C1QBP	Gene	0
+ENSG00000166736	HTR3A	Gene	0
+ENSG00000142208	AKT1	Gene	0
+ENSG00000096968	JAK2	Gene	0
+ENSG00000165646	SLC18A2	Gene	0
+ENSG00000074935	TUBE1	Gene	0
+ENSG00000111725	PRKAB1	Gene	0
+ENSG00000134824	FADS2	Gene	0
+ENSG00000108556	CHRNE	Gene	0
+ENSG00000171094	ALK	Gene	0
+ENSG00000135917	SLC19A3	Gene	0
+ENSG00000134827	TCN1	Gene	0
+ENSG00000198793	MTOR	Gene	0
+ENSG00000165409	TSHR	Gene	0
+ENSG00000213316	LTC4S	Gene	0
+ENSG00000135914	HTR2B	Gene	0
+ENSG00000178726	THBD	Gene	0
+ENSG00000131791	PRKAB2	Gene	0
+ENSG00000196139	AKR1C3	Gene	0
+ENSG00000133731	IMPA1	Gene	0
+ENSG00000166741	NNMT	Gene	0
+ENSG00000078070	MCCC1	Gene	0
+ENSG00000187664	HAPLN4	Gene	0
+ENSG00000105281	SLC1A5	Gene	0
+ENSG00000257335	MGAM	Gene	0
+ENSG00000184156	KCNQ3	Gene	0
+ENSG00000168925	CTRB1	Gene	0
+ENSG00000166501	PRKCB	Gene	0
+ENSG00000144852	NR1I2	Gene	0
+ENSG00000164326	CARTPT	Gene	0
+ENSG00000255398	HCAR3	Gene	0
+ENSG00000105355	PLIN3	Gene	0
+ENSG00000104267	CA2	Gene	0
+ENSG00000206172	HBA1	Gene	0
+ENSG00000151012	SLC7A11	Gene	0
+ENSG00000103174	NAGPA	Gene	0
+ENSG00000106688	SLC1A1	Gene	0
+ENSG00000175344	CHRNA7	Gene	0
+ENSG00000107537	PHYH	Gene	0
+ENSG00000197375	SLC22A5	Gene	0
+ENSG00000198223	CSF2RA	Gene	0
+ENSG00000151498	ACAD8	Gene	0
+ENSG00000088926	F11	Gene	0
+ENSG00000118432	CNR1	Gene	0
+ENSG00000243594	PSMB9	Gene	0
+ENSG00000138039	LHCGR	Gene	0
+ENSG00000167720	SRR	Gene	0
+ENSG00000085662	AKR1B1	Gene	0
+ENSG00000143878	RHOB	Gene	0
+ENSG00000059377	TBXAS1	Gene	0
+ENSG00000164692	COL1A2	Gene	0
+ENSG00000233312	C4B_2	Gene	0
+ENSG00000106683	LIMK1	Gene	0
+ENSG00000167723	TRPV3	Gene	0
+ENSG00000126067	PSMB2	Gene	0
+ENSG00000175591	P2RY2	Gene	0
+ENSG00000132744	ACY3	Gene	0
+ENSG00000197122	SRC	Gene	0
+ENSG00000099810	MTAP	Gene	0
+ENSG00000198457	CYP21A2	Gene	0
+ENSG00000003436	TFPI	Gene	0
+ENSG00000116478	HDAC1	Gene	0
+ENSG00000152578	GRIA4	Gene	0
+ENSG00000114054	PCCB	Gene	0
+ENSG00000038427	VCAN	Gene	0
+ENSG00000119535	CSF3R	Gene	0
+ENSG00000137193	PIM1	Gene	0
+ENSG00000143627	PKLR	Gene	0
+ENSG00000185386	MAPK11	Gene	0
+ENSG00000280549	PADI3	Gene	0
+ENSG00000139131	YARS2	Gene	0
+ENSG00000185149	NPY2R	Gene	0
+ENSG00000131620	ANO1	Gene	0
+ENSG00000111816	FRK	Gene	0
+ENSG00000177301	KCNA2	Gene	0
+ENSG00000109738	GLRB	Gene	0
+ENSG00000040531	CTNS	Gene	0
+ENSG00000005844	ITGAL	Gene	0
+ENSG00000117118	SDHB	Gene	0
+ENSG00000206395	DDAH2	Gene	0
+ENSG00000117115	PADI2	Gene	0
+ENSG00000063854	HAGH	Gene	0
+ENSG00000168830	HTR1E	Gene	0
+ENSG00000117594	HSD11B1	Gene	0
+ENSG00000117593	DARS2	Gene	0
+ENSG00000143858	SYT2	Gene	0
+ENSG00000115170	ACVR1	Gene	0
+ENSG00000140105	WARS	Gene	0
+ENSG00000167748	KLK1	Gene	0
+ENSG00000275176	ACACA	Gene	0
+ENSG00000180720	CHRM4	Gene	0
+ENSG00000108878	CACNG1	Gene	0
+ENSG00000093010	COMT	Gene	0
+ENSG00000257770	GPX5	Gene	0
+ENSG00000068078	FGFR3	Gene	0
+ENSG00000173198	CYSLTR1	Gene	0
+ENSG00000134905	CARS2	Gene	0
+ENSG00000220205	VAMP2	Gene	0
+ENSG00000148053	NTRK2	Gene	0
+ENSG00000159189	C1QC	Gene	0
+ENSG00000143839	REN	Gene	0
+ENSG00000072571	HMMR	Gene	0
+ENSG00000154975	CA10	Gene	0
+ENSG00000100906	NFKBIA	Gene	0
+ENSG00000151224	MAT1A	Gene	0
+ENSG00000167996	FTH1	Gene	0
+ENSG00000143603	KCNN3	Gene	0
+ENSG00000085871	MGST2	Gene	0
+ENSG00000163394	CCKAR	Gene	0
+ENSG00000163399	ATP1A1	Gene	0
+ENSG00000073417	PDE8A	Gene	0
+ENSG00000129521	EGLN3	Gene	0
+ENSG00000108821	COL1A1	Gene	0
+ENSG00000131844	MCCC2	Gene	0
+ENSG00000099624	ATP5D	Gene	0
+ENSG00000015592	STMN4	Gene	0
+ENSG00000120949	TNFRSF8	Gene	0
+ENSG00000075651	PLD1	Gene	0
+ENSG00000139567	ACVRL1	Gene	0
+ENSG00000115594	IL1R1	Gene	0
+ENSG00000115353	TACR1	Gene	0
+ENSG00000115350	POLE4	Gene	0
+ENSG00000166670	MMP10	Gene	0
+ENSG00000234846	NEU1	Gene	0
+ENSG00000223952	TNF	Gene	0
+ENSG00000187134	AKR1C1	Gene	0
+ENSG00000277571	ELANE	Gene	0
+ENSG00000188229	TUBB4B	Gene	0
+ENSG00000223957	NEU1	Gene	0
+ENSG00000232421	TUBB	Gene	0
+ENSG00000125166	GOT2	Gene	0
+ENSG00000169704	GP9	Gene	0
+ENSG00000102287	GABRE	Gene	0
+ENSG00000165349	SLC7A3	Gene	0
+ENSG00000105552	BCAT2	Gene	0
+ENSG00000104695	PPP2CB	Gene	0
+ENSG00000102032	RENBP	Gene	0
+ENSG00000177575	CD163	Gene	0
+ENSG00000150594	ADRA2A	Gene	0
+ENSG00000101180	HRH3	Gene	0
+ENSG00000065621	GSTO2	Gene	0
+ENSG00000144908	ALDH1L1	Gene	0
+ENSG00000198019	FCGR1B	Gene	0
+ENSG00000117525	F3	Gene	0
+ENSG00000114013	CD86	Gene	0
+ENSG00000113161	HMGCR	Gene	0
+ENSG00000118402	ELOVL4	Gene	0
+ENSG00000169710	FASN	Gene	0
+ENSG00000159164	SV2A	Gene	0
+ENSG00000186038	HTR3E	Gene	0
+ENSG00000180739	S1PR5	Gene	0
+ENSG00000275163	KCNMB2	Gene	0
+ENSG00000149124	GLYAT	Gene	0
+ENSG00000129538	RNASE1	Gene	0
+ENSG00000126267	COX6B1	Gene	0
+ENSG00000141401	IMPA2	Gene	0
+ENSG00000126266	FFAR1	Gene	0
+ENSG00000167535	CACNB3	Gene	0
+ENSG00000166206	GABRB3	Gene	0
+ENSG00000125384	PTGER2	Gene	0
+ENSG00000126231	PROZ	Gene	0
+ENSG00000213722	DDAH2	Gene	0
+ENSG00000146085	MUT	Gene	0
+ENSG00000175166	PSMD2	Gene	0
+ENSG00000235712	RXRB	Gene	0
+ENSG00000179761	PIPOX	Gene	0
+ENSG00000198049	AVPR1B	Gene	0
+ENSG00000235715	PSMB8	Gene	0
+ENSG00000115138	POMC	Gene	0
+ENSG00000164270	HTR4	Gene	0
+ENSG00000240065	PSMB9	Gene	0
+ENSG00000137364	TPMT	Gene	0
+ENSG00000082175	PGR	Gene	0
+ENSG00000143811	PYCR2	Gene	0
+ENSG00000188488	SERPINA5	Gene	0
+ENSG00000167780	SOAT2	Gene	0
+ENSG00000231116	VARS	Gene	0
+ENSG00000180509	KCNE1	Gene	0
+ENSG00000129749	CHRNA10	Gene	0
+ENSG00000048052	HDAC9	Gene	0
+ENSG00000084110	HAL	Gene	0
+ENSG00000128655	PDE11A	Gene	0
+ENSG00000169967	MAP3K2	Gene	0
+ENSG00000178445	GLDC	Gene	0
+ENSG00000179776	CDH5	Gene	0
+ENSG00000105329	TGFB1	Gene	0
+ENSG00000004948	CALCR	Gene	0
+ENSG00000150337	FCGR1A	Gene	0
+ENSG00000120937	NPPB	Gene	0
+ENSG00000242252	BGLAP	Gene	0
+ENSG00000154930	ACSS1	Gene	0
+ENSG00000066926	FECH	Gene	0
+ENSG00000167552	TUBA1A	Gene	0
+ENSG00000230279	LTA	Gene	0
+ENSG00000186297	GABRA5	Gene	0
+ENSG00000158296	SLC13A3	Gene	0
+ENSG00000230034	PSMB8	Gene	0
+ENSG00000147168	IL2RG	Gene	0
+ENSG00000124067	SLC12A4	Gene	0
+ENSG00000102057	KCND1	Gene	0
+ENSG00000179546	HTR1D	Gene	0
+ENSG00000180772	AGTR2	Gene	0
+ENSG00000182718	ANXA2	Gene	0
+ENSG00000097007	ABL1	Gene	0
+ENSG00000130956	HABP4	Gene	0
+ENSG00000120903	CHRNA2	Gene	0
+ENSG00000120907	ADRA1A	Gene	0
+ENSG00000204394	VARS	Gene	0
+ENSG00000138435	CHRNA1	Gene	0
+ENSG00000117971	CHRNB4	Gene	0
+ENSG00000167325	RRM1	Gene	0
+ENSG00000228128	DDAH2	Gene	0
+ENSG00000168412	MTNR1A	Gene	0
+ENSG00000159131	GART	Gene	0
+ENSG00000136011	STAB2	Gene	0
+ENSG00000165140	FBP1	Gene	0
+ENSG00000206338	CYP21A2	Gene	0
+ENSG00000164294	GPX8	Gene	0
+ENSG00000021826	CPS1	Gene	0
+ENSG00000126218	F10	Gene	0
+ENSG00000147155	EBP	Gene	0
+ENSG00000149575	SCN2B	Gene	0
+ENSG00000130707	ASS1	Gene	0
+ENSG00000276684	RDH13	Gene	0
+ENSG00000124275	MTRR	Gene	0
+ENSG00000140522	RLBP1	Gene	0
+ENSG00000102001	CACNA1F	Gene	0
+ENSG00000102230	PCYT1B	Gene	0
+ENSG00000178467	P4HTM	Gene	0
+ENSG00000141837	CACNA1A	Gene	0
+ENSG00000140505	CYP1A2	Gene	0
+ENSG00000076555	ACACB	Gene	0
+ENSG00000175198	PCCA	Gene	0
+ENSG00000138448	ITGAV	Gene	0
+ENSG00000112038	OPRM1	Gene	0
+ENSG00000204386	NEU1	Gene	0
+ENSG00000159128	IFNGR2	Gene	0
+ENSG00000112033	PPARD	Gene	0
+ENSG00000204381	LAYN	Gene	0
+ENSG00000138685	FGF2	Gene	0
+ENSG00000116874	WARS2	Gene	0
+ENSG00000065427	KARS	Gene	0
+ENSG00000110092	CCND1	Gene	0
+ENSG00000274276	CBS	Gene	0
+ENSG00000280949	PADI6	Gene	0
+ENSG00000230456	DDR1	Gene	0
+ENSG00000188257	PLA2G2A	Gene	0
+ENSG00000157184	CPT2	Gene	0
+ENSG00000110090	CPT1A	Gene	0
+ENSG00000118849	RARRES1	Gene	0
+ENSG00000232632	GABBR1	Gene	0
+ENSG00000127554	GFER	Gene	0
+ENSG00000166006	KCNC2	Gene	0
+ENSG00000140511	HAPLN3	Gene	0
+ENSG00000275365	MMP11	Gene	0
+ENSG00000140992	PDPK1	Gene	0
+ENSG00000241119	UGT1A9	Gene	0
+ENSG00000104687	GSR	Gene	0
+ENSG00000139988	RDH12	Gene	0
+ENSG00000205220	PSMB10	Gene	0
+ENSG00000204370	SDHD	Gene	0
+ENSG00000150540	HNMT	Gene	0
+ENSG00000151632	AKR1C2	Gene	0
+ENSG00000167346	MMP26	Gene	0
+ENSG00000166257	SCN3B	Gene	0
+ENSG00000165168	CYBB	Gene	0
+ENSG00000159593	NAE1	Gene	0
+ENSG00000159110	IFNAR2	Gene	0
+ENSG00000149311	ATM	Gene	0
+ENSG00000142920	AZIN2	Gene	0
+ENSG00000126432	PRDX5	Gene	0
+ENSG00000148229	POLE3	Gene	0
+ENSG00000180304	OAZ2	Gene	0
+ENSG00000160951	PTGER1	Gene	0
+ENSG00000168679	SLC16A4	Gene	0
+ENSG00000278843	MMP28	Gene	0
+ENSG00000274247	PRSS1	Gene	0
+ENSG00000101162	TUBB1	Gene	0
+ENSG00000160712	IL6R	Gene	0
+ENSG00000002726	AOC1	Gene	0
+ENSG00000160716	CHRNB2	Gene	0
+ENSG00000139514	SLC7A1	Gene	0
+ENSG00000151623	NR3C2	Gene	0
+ENSG00000206301	HLA-DQA2	Gene	0
+ENSG00000186090	HTR3D	Gene	0
+ENSG00000113389	NPR3	Gene	0
+ENSG00000136244	IL6	Gene	0
+ENSG00000137332	DDR1	Gene	0
+ENSG00000159348	CYB5R1	Gene	0
+ENSG00000152952	PLOD2	Gene	0
+ENSG00000117984	CTSD	Gene	0
+ENSG00000001630	CYP51A1	Gene	0
+ENSG00000168447	SCNN1B	Gene	0
+ENSG00000112294	ALDH5A1	Gene	0
+ENSG00000119912	IDE	Gene	0
+ENSG00000171848	RRM2	Gene	0
+ENSG00000171608	PIK3CD	Gene	0
+ENSG00000151617	EDNRA	Gene	0
+ENSG00000232414	CYP21A2	Gene	0
+ENSG00000146276	GABRR1	Gene	0
+ENSG00000231321	RXRB	Gene	0
+ENSG00000007171	NOS2	Gene	0
+ENSG00000100077	ADRBK2	Gene	0
+ENSG00000148218	ALAD	Gene	0
+ENSG00000149305	HTR3B	Gene	0
+ENSG00000243958	PSMB9	Gene	0
+ENSG00000105711	SCN1B	Gene	0
+ENSG00000105953	OGDH	Gene	0
+ENSG00000148680	HTR7	Gene	0
+ENSG00000001626	CFTR	Gene	0
+ENSG00000115758	ODC1	Gene	0
+ENSG00000243955	GSTA1	Gene	0
+ENSG00000113578	FGF1	Gene	0
+ENSG00000106804	C5	Gene	0
+ENSG00000151611	MMAA	Gene	0
+ENSG00000262473	GART	Gene	0
+ENSG00000113575	PPP2CA	Gene	0
+ENSG00000228321	TNF	Gene	0
+ENSG00000159339	PADI4	Gene	0
+ENSG00000136699	SMPD4	Gene	0
+ENSG00000008018	PSMB1	Gene	0
+ENSG00000109072	VTN	Gene	0
+ENSG00000149534	MS4A2	Gene	0
+ENSG00000090402	SI	Gene	0
+ENSG00000087245	MMP2	Gene	0
+ENSG00000006071	ABCC8	Gene	0
+ENSG00000123384	LRP1	Gene	0
+ENSG00000126895	AVPR2	Gene	0
+ENSG00000179115	FARSA	Gene	0
+ENSG00000237289	CKMT1B	Gene	0
+ENSG00000148672	GLUD1	Gene	0
+ENSG00000113327	GABRG2	Gene	0
+ENSG00000150995	ITPR1	Gene	0
+ENSG00000157388	CACNA1D	Gene	0
+ENSG00000158477	CD1A	Gene	0
+ENSG00000105707	HPN	Gene	0
+ENSG00000111142	METAP2	Gene	0
+ENSG00000171873	ADRA1D	Gene	0
+ENSG00000228333	RXRB	Gene	0
+ENSG00000111144	LTA4H	Gene	0
+ENSG00000171867	PRNP	Gene	0
+ENSG00000169313	P2RY12	Gene	0
+ENSG00000147100	SLC16A2	Gene	0
+ENSG00000128602	SMO	Gene	0
+ENSG00000100012	SEC14L3	Gene	0
+ENSG00000280908	PADI4	Gene	0
+ENSG00000168229	PTGDR	Gene	0
+ENSG00000275565	ALOX5	Gene	0
+ENSG00000177189	RPS6KA3	Gene	0
+ENSG00000185803	SLC52A2	Gene	0
+ENSG00000123360	PDE1B	Gene	0
+ENSG00000075239	ACAT1	Gene	0
+ENSG00000148660	CAMK2G	Gene	0
+ENSG00000147571	CRH	Gene	0
+ENSG00000105976	MET	Gene	0
+ENSG00000178035	IMPDH2	Gene	0
+ENSG00000151834	GABRA2	Gene	0
+ENSG00000096171	VARS	Gene	0
+ENSG00000134259	NGF	Gene	0
+ENSG00000114200	BCHE	Gene	0
+ENSG00000080824	HSP90AA1	Gene	0
+ENSG00000189171	S100A13	Gene	0
+ENSG00000230669	PSMB8	Gene	0
+ENSG00000169567	HINT1	Gene	0
+ENSG00000277956	MAPT	Gene	0
+ENSG00000205268	PDE7A	Gene	0
+ENSG00000102468	HTR2A	Gene	0
+ENSG00000237051	GABBR1	Gene	0
+ENSG00000182782	HCAR2	Gene	0
+ENSG00000183873	SCN5A	Gene	0
+ENSG00000160752	FDPS	Gene	0
+ENSG00000124212	PTGIS	Gene	0
+ENSG00000100030	MAPK1	Gene	0
+ENSG00000243989	ACY1	Gene	0
+ENSG00000090861	AARS	Gene	0
+ENSG00000104879	CKM	Gene	0
+ENSG00000206340	C4A	Gene	0
+ENSG00000073060	SCARB1	Gene	0
+ENSG00000136689	IL1RN	Gene	0
+ENSG00000262243	CES1	Gene	0
+ENSG00000229684	TUBB	Gene	0
+ENSG00000173826	KCNH6	Gene	0
+ENSG00000114670	NEK11	Gene	0
+ENSG00000174915	PTDSS2	Gene	0
+ENSG00000231526	HLA-DQA2	Gene	0
+ENSG00000113580	NR3C1	Gene	0
+ENSG00000167397	VKORC1	Gene	0
+ENSG00000152904	GGPS1	Gene	0
+ENSG00000171408	PDE7B	Gene	0
+ENSG00000006283	CACNA1G	Gene	0
+ENSG00000023839	ABCC2	Gene	0
+ENSG00000103546	SLC6A2	Gene	0
+ENSG00000145384	FABP2	Gene	0
+ENSG00000100033	PRODH	Gene	0
+ENSG00000123374	CDK2	Gene	0
+ENSG00000031698	SARS	Gene	0
+ENSG00000100031	GGT1	Gene	0
