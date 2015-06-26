@@ -8,6 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
+import org.apache.derby.iapi.types.Resetable;
 import org.bridgedb.BridgeDb;
 import org.bridgedb.DataSource;
 import org.bridgedb.IDMapper;
@@ -33,15 +34,17 @@ public class DrugbankTargetParser {
 		//i chose map here, not sure what is most convenient, hashmap/hashset
 		//nodes = targets
 		Map<String, String> nodes = new HashMap<String,String>();
-		
+		System.out.println("1");
 		//setting up BridgeDB
-		File bridgedb = new File("Hs_Derby_Ensembl_77.bridge");
+		
+//		File bridgedb = new File("Hs_Derby_Ensembl_77.bridge");
+		File bridgedb = new File("Hs_Derby_Ensembl_79_v.01.bridge");
 		DataSourceTxt.init();
 		Class.forName("org.bridgedb.rdb.IDMapperRdb");
 		IDMapper mapper = BridgeDb.connect("idmapper-pgdb:"
 				+ bridgedb.getAbsolutePath());	
 
-
+		System.out.println("2");
 		for(DrugModel drug : res){
 			for(String group: drug.getGroups()){
 				
@@ -56,21 +59,25 @@ public class DrugbankTargetParser {
 					writerN.println(drugId+"\t"+drugname+"\t"+drugProperties);
 					for(TargetModel target:drug.getTargets()){
 						DataSource ds = DataSource.getExistingBySystemCode("S");
-						Xref xref= new Xref(target.getUniprotId(),ds);
-						//String targetName = target.getName();
-						//mapping all the drug targets to Ensembl ID
-						Set<Xref> result = mapper.mapID(xref, DataSource.getExistingBySystemCode("En"));
-						for(Xref x:result){
-							Set<Xref> hgncResult = mapper.mapID(x, DataSource.getExistingBySystemCode("H"));
-							String tName = new String();
-							if(hgncResult.size() > 0) {
-								tName= (hgncResult.iterator().next().getId());
+						if (target.getUniprotId()!=""){
+							Xref xref= new Xref(target.getUniprotId(),ds);
+							//String targetName = target.getName();
+							//mapping all the drug targets to Ensembl ID
+							Set<Xref> result = mapper.mapID(xref, DataSource.getExistingBySystemCode("En"));
+							
+							for(Xref x:result){
+								Set<Xref> hgncResult = mapper.mapID(x, DataSource.getExistingBySystemCode("H"));
+								
+								String tName = new String();
+								if(hgncResult.size() > 0) {
+									tName= (hgncResult.iterator().next().getId());
+								}
+								 
+								nodes.putIfAbsent(x.getId(),tName);
+								//System.out.println(x.toString()+"\t"+targetName+"\t"+target.getName());
+								writerE.println(drugId+"\t"+ x.getId());
 							}
-							 
-							nodes.putIfAbsent(x.getId(),tName);
-							//System.out.println(x.toString()+"\t"+targetName+"\t"+target.getName());
-							writerE.println(drugId+"\t"+ x.getId());
-						}
+						}					
 					}
 				}
 			}	
