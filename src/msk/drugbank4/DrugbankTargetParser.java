@@ -89,15 +89,16 @@ public class DrugbankTargetParser {
 					}
 				}
 			}	
-		}		
+		}
 		
 		for(String drug: drugs.keySet()) {
 			String drugProperties= drugs.get(drug).getCategories().toString().replace("[", "").replace("]", "");
 			String drugname = drugs.get(drug).getName();
+			if(drugProperties.equals("")) drugProperties = "0";
 			writerN.write(drug+"\t"+drugname+"\tDrug\t"+drugProperties+"\n");
 		}
 		for(String key:nodes.keySet()){
-			writerN.write(key+"\t"+nodes.get(key)+"\tGene\t\n");
+			writerN.write(key+"\t"+nodes.get(key)+"\tGene\t0\n");
 		} 		
 		writerE.close();
 		writerN.close();
