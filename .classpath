@@ -7,6 +7,6 @@
 	<classpathentry kind="lib" path="lib/org.bridgedb.rdb.construct.jar"/>
 	<classpathentry kind="lib" path="lib/org.bridgedb.rdb.jar"/>
 	<classpathentry kind="lib" path="lib/org.wikipathways.client.lib-3.2.0.jar"/>
-	<classpathentry kind="lib" path="/PathwayGeneParcer/lib/derby.jar"/>
+	<classpathentry kind="lib" path="lib/derby.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
